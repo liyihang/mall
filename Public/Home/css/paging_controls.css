@@ -1,0 +1,30 @@
+/*分页*/
+.cell_turnPageBottomCenter { margin: 20px 0 0 0; padding-bottom: 20px; float: left; display: inline; width: 100%; text-align: center; }
+.cell_turnPageBottomCenter .turnPageBottom { float: right; margin-right: 15px; display: inline; }
+.cell_turnPageBottomCenter .turnPageBottom a { background: #FFF; color: #CCC; text-decoration: none; }
+.cell_turnPageBottomCenter .turnPageBottom a, .turnPageBottom span { float: left; margin-left: 5px; padding: 0 9px; height: 24px; line-height: 24px; color: #333333; font-family: Tahoma; border: 1px solid #C8C7CC; }
+.cell_turnPageBottomCenter .turnPageBottom .page_break { padding: 5px; }
+/*background-color:#EFEFF4; color:#CCCCCC;*/
+.cell_turnPageBottomCenter .turnPageBottom a:hover, .turnPageBottom .page_cur { border: 1px solid #FF3C3C; background: #ffffff; color: #E60012; font-family: Tahoma; }
+.cell_turnPageBottomCenter .turnPageBottom .page_cur { color: #E60012; font-weight: bold; }
+.cell_turnPageBottomCenter .turnPageBottom a:hover { background: #fff; }
+.cell_turnPageBottomCenter .turnPageBottom .page_break { border: none; }
+.cell_turnPageBottomCenter .turnPageBottom .page_start, .cell_turnPageBottomCenter .turnPageBottom .page_prev, .cell_turnPageBottomCenter .turnPageBottom .page_next, .cell_turnPageBottomCenter .turnPageBottom .page_end {background: #FFF url(../images/page24.png) no-repeat -86px -62px;width: 7px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_next, .cell_turnPageBottomCenter .turnPageBottom .page_end { background-position: 12px -62px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_next, .cell_turnPageBottomCenter .turnPageBottom .page_end { background-color: #ffffff; color: #CCCCCC; width: 7px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_end { background-position: 12px -62px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_next:hover, .cell_turnPageBottomCenter .turnPageBottom .page_prev:hover { background: #FFFFFF url("../images/page24.png") no-repeat -0px -2px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_next { color: #333333; background-position: 12px 7px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_prev { background-position: -86px 7px; color: #333333; }
+.cell_turnPageBottomCenter .turnPageBottom .page_prev:hover { background-position: -86px -131px; }
+.cell_turnPageBottomCenter .turnPageBottom .page_next:hover { background-position: 12px -131px; }
+.cell_turnPageBottomCenter .turnPageBottom span.pageOp { margin: 0; border: none; }
+.cell_turnPageBottomCenter .turnPageBottom span.pageOp.go { padding: 2px 1px 0 0; _padding-top: 1px; line-height: 20px; }
+.cell_turnPageBottomCenter .turnPageBottom span.pageOp input { width: 22px; height: 14px; margin: 0 4px; padding: 2px; border: 1px solid #dbdbdb; vertical-align: middle; }
+
+.cell_turnPageBottomCenter .turnPageBottom .font_tit {margin:0 0 0 10px;}
+.cell_turnPageBottomCenter .turnPageBottom .font_tit .sum_text { border: 1px solid #CCCCCC; color: #333333; line-height: 14px; margin: 0 4px; padding: 3px 2px; width: 26px; }
+.cell_turnPageBottomCenter .turnPageBottom .font_tit i { display: inline-block; width: 40px; margin-left: 4px; padding: 3px 0; background: url(../images/myOderListBg.gif?928558) no-repeat -85px -64px; color: #333; text-align: center; cursor: pointer;font-style:normal; }
+.cell_turnPageBottomCenter .turnPageBottom .no_border{border:none; padding: 0 2px;color:#BEBEBE; margin-left: 2px;}
+.cell_turnPageBottomCenter .turnPageBottom .no_border_cur{color:#FF3C3C; margin-left: 5px;}
+.cell_turnPageBottomCenter .turnPageBottom .no_border_em{float:left; display: inline-block; height: 14px; line-height:24px;font-size: 14px; border:none; padding: 0; color:#BEBEBE; font-weight: normal;}

@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="apple-itunes-app" content="app-id=550780860">
+<meta name="renderer" content="webkit">
+<meta name="tp_page" content="YHD_HOMEPAGE.1">
+<meta name="mobile-agent" content="format=html5; url=http://m.yhd.com">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>网上超市1号店，省力省钱省时间</title>
+<meta name="Keywords" content="网上超市，网上商城，网络购物，进口食品，美容护理，母婴玩具，厨房清洁用品，家用电器，手机数码，电脑软件办公用品，家居生活，服饰内衣，营养保健，钟表珠宝，饰品箱包，汽车生活，图书音像，礼品卡，药品，医疗器械，隐形眼镜等，1号店。">
+<meta name="Description" content="1号店网上超市，最经济实惠的网上购物商城，用鼠标逛超市，不用排队，方便实惠送上门，网上购物新生活。">
+<link rel="canonical" href="http://www.yhd.com/" />
+<link rel="dns-prefetch" href="//image.yihaodianimg.com">
+<link rel="dns-prefetch" href="//d6.yihaodianimg.com">
+<link rel="dns-prefetch" href="//d7.yihaodianimg.com">
+<link rel="dns-prefetch" href="//d8.yihaodianimg.com">
+<link rel="dns-prefetch" href="//d9.yihaodianimg.com">
+<link rel="dns-prefetch" href="http://search.yhd.com">
+<link type="text/css" rel="stylesheet" href="css/global_site_index_new.css?1560110" />
+<script type="text/javascript" src="js/global_event_notify_js_error.js?1560110" charset="utf-8"></script>
+<script type="text/javascript">
+var indexMobileJumpFlag = 1;
+var indexMobileJumpRegex = "Android|iPod|iTouch|iPhone|iPad|BlackBerry|SymbianOS|SymbOS|Windows Phone OS|WAP|Kindle|pad|pod";
+var indexDefaultMobileJumpURL = "http://m.yhd.com";
+var indexDefaultMobileJumpTracker = "10735511443";
+var indexSpecialMobileJumpURL = {'ipad':'http://m.yhd.com/mw/pad','pad':'http://m.yhd.com/mw/pad'};
+var indexSpecialMobileJumpRate = {'ipad':-2,'pad':-2};
+var indexSpecialMobileJumpTracker = {'android':'10498211440','itouch':'10543911442','ipod':'10543911442','iphone':'10449911441', 'ipad':'10735462094'};
+var indexHideProWinFlag = 1;
+var lunboAjaxReplaceAdvCodes = "INDEX2_LUNBO_PIC2_DEFAULT,INDEX2_LUNBO_PIC3_DEFAULT,INDEX2_LUNBO_PIC4_DEFAULT,INDEX2_LUNBO_PIC5_DEFAULT,INDEX2_LUNBO_PIC6_DEFAULT,INDEX2_LUNBO_PIC7_DEFAULT,INDEX2_LUNBO_PIC8_DEFAULT,INDEX2_LUNBO_PIC9_DEFAULT";
+var flagControlJs = 1;
+var g_trackerAdJson={};
+g_trackerAdJson.from_trackers = ["1073942096365","1045212096369","1022122096373","1012142096376","1098982096381","10861423206","7956153","1041171242128","1040634691","1082082832","1063051048668"];
+g_trackerAdJson.foldImage = "http://d6.yihaodianimg.com/N05/M00/05/98/CgQI01bK3zuARQURAABrXEasppc64500.jpg";
+g_trackerAdJson.unfoldImage = "http://d10.yihaodianimg.com/N09/M03/D8/C3/ChEi2FbK32eAB6F3AAGwfItFLy436200.jpg";
+g_trackerAdJson.foldWideImage = "http://d7.yihaodianimg.com/N10/M01/CE/DE/ChEi2lbK336ADri0AACnMHaFG6w61400.jpg";
+g_trackerAdJson.unfoldWideImage = "http://d8.yihaodianimg.com/N07/M02/E6/FC/ChEbvFbK35yANmQvAAGG6Gd49e415500.jpg";
+g_trackerAdJson.foldUrl = "http://cms.yhd.com/sale/cugqJLmLqgC";
+g_trackerAdJson.unfoldUrl = "http://cms.yhd.com/sale/cugqJLmLqgC";
+</script>
+<script type="text/javascript">
+try{
+(function(){var b=window.HomePage||(window.HomePage={});var a=function(f){var c=document.cookie;var d=c.split("; ");for(var g=0;g<d.length;g++){var e=d[g].split("=");if(e[0]==f){return e[1]}}return null};b.mobileJump=function(){var d=(typeof indexMobileJumpFlag!="undefined"&&indexMobileJumpFlag=="1")?1:0;var x=(typeof indexMobileJumpRegex!="undefined")?indexMobileJumpRegex:"Android|iPod|iTouch|iPhone|iPad|BlackBerry|SymbianOS|SymbOS|Windows Phone OS|WAP|Kindle|pad|pod";var c=(typeof indexDefaultMobileJumpURL!="undefined")?indexDefaultMobileJumpURL:"http://m.yhd.com";var r=(typeof indexDefaultMobileJumpTracker!="undefined")?indexDefaultMobileJumpTracker:"10735511443";var o=(typeof indexSpecialMobileJumpURL!="undefined")?indexSpecialMobileJumpURL:{};var A=(typeof indexSpecialMobileJumpRate!="undefined")?indexSpecialMobileJumpRate:{};
+var s=(typeof indexSpecialMobileJumpTracker!="undefined")?indexSpecialMobileJumpTracker:{};if(!d){return}var y=window.navigator.userAgent;var p=new RegExp(x,"i");if(!p.test(y)){return}var v=window.localStorage;if(window.location.search!=""&&window.location.search.indexOf("from=")>0){if(v){var l=v.getItem("yhd_from_date");if(!l){v.setItem("yhd_from_date",new Date().getTime())}else{v.removeItem("yhd_from_date");v.setItem("yhd_from_date",new Date().getTime())}}return}else{if(v){var l=v.getItem("yhd_from_date");if(l){var m=new Date().getTime()-parseInt(l);if(m>=0&&m<24*3600*1000){return}}}}var n=c;var w=r;var k=o;var f=A;var i=s;var u="yhd.com";var z=p.exec(y)[0].toLowerCase();var h=k[z]||n;var q=f[z]||-1;var g=i[z]||w;if(q!=-1){var e=a("abtest");if(!e||isNaN(e)||parseInt(e)<0||parseInt(e)>=100){e=Math.floor(Math.random()*100);
+var j=new Date();j.setTime(new Date().getTime()+30*24*60*60*1000);document.cookie="abtest="+e+";path=/;domain=."+u+";expires="+j.toGMTString()}if(e<=q){window.location.href=h+"?tracker_u="+g}else{return}}else{window.location.href=h+"?tracker_u="+g}};b.hideProWin=function(){var d=(typeof indexHideProWinFlag!="undefined"&&indexHideProWinFlag=="1")?1:0;if(!d){return}var i=location.href;if(i.indexOf("forceId=")>0){var j=new RegExp("(\\?|&)forceId=([^&]*)(\\s|&|$)","i");if(j.test(i)){var f=RegExp.$1;var g=RegExp.$2;var e=RegExp.$3||"";if(f=="?"){i=i.replace(f+"forceId="+g+e,"?")}else{i=i.replace(f+"forceId="+g+e,e)}var h=i.length;if(i.charAt(h-1)=="?"||i.charAt(h-1)=="&"){i=i.substring(0,h-1)}if(history.replaceState){history.replaceState({},"",i)}else{var c=a("provinceId");if(c){location.replace(i)
+}}}}};b.lunboAjaxReplaceAdv=function(){var f=(typeof lunboAjaxReplaceAdvCodes!="undefined")?lunboAjaxReplaceAdvCodes:"";var c=(typeof lunboOrientationCodes!="undefined")?lunboOrientationCodes:"";var m=false;var d=false;function n(p){var q=function(){var r=window.global||(window.global={});var s=r.vars=(r.vars||{});r.vars.customInteractTime=r.vars.customInteractTime||new Date().getTime();p.setAttribute("data-loaded","1")};if(document.addEventListener){p.addEventListener("load",q)}else{if(document.attachEvent){p.attachEvent("onload",q)}}}function l(){var r=function(D){var C=D.parentNode;if(C){C.removeChild(D)}};var y=document.getElementById("index_menu_carousel");var w=document.getElementById("lunboNum");if(y){if(y.getAttribute("data-adjust")=="1"){return}y.setAttribute("data-adjust",1);var p=[];
+var z=y.getElementsByTagName("li");for(var B=0;B<z.length;B++){var x=z[B];var v=x.getElementsByTagName("a").length>0?x.getElementsByTagName("a")[0]:null;if(v){if(v.getAttribute("data-nsf")=="1"&&(v.getAttribute("data-ajax")=="1"||v.getAttribute("data-ajax")=="2")&&v.getAttribute("data-done")!="1"){p.push(x)}}}if(p.length>0){for(var q=0;q<p.length;q++){var x=p[q];r(x);var A=w.getElementsByTagName("li");for(var s=0;s<A.length;s++){var u=A[s];if(u.getAttribute("flag")==x.getAttribute("flag")){r(u)}}}z=y.getElementsByTagName("li");if(z.length>0){var t=z[0].getElementsByTagName("img").length>0?z[0].getElementsByTagName("img")[0]:null;if(t&&t.getAttribute("id")!="lunbo_1"){t.setAttribute("id","lunbo_1")}}}}}function k(w,p,s,u){var v=w+"?callback="+s;var q=[];for(var x in p){q.push("&"+x+"="+encodeURIComponent(p[x]))
+}v+=q.join("");window[s]=function(y){u(y);if(t){t.removeChild(r)}};var t=document.getElementsByTagName("head")[0]||document.documentElement;var r=document.createElement("script");r.src=v;t.insertBefore(r,t.firstChild)}function e(q){var p=setInterval(function(){var r=document.getElementById("index_menu_carousel");if(r){q();clearInterval(p)}},100)}function o(){var r=a("provinceId");var p="http://p4p.yhd.com/advdolphin/external/saleTypeWeightAd";if(f==""){m=true;return}var q={mcSiteId:1,provinceId:r?r:1,codes:f,screenType:screen.width>=1280?"1":"2"};k(p,q,"ajaxFindPromAdvHandler",function(s){m=true;if(s&&s.status==1){window.ajaxFindPromAdvData=s;if(d){e(function(){h();l();g()})}}else{if(d){e(function(){l();g()})}}})}function j(){var t=a("provinceId");var q=a("guid");var r=a("yihaodian_uid");var p="http://gemini.yhd.com/libraService/exactNormalAdServe";
+if(c==""){d=true;return}var s={mcSiteId:1,provinceId:t?t:1,codes:c,guId:q,userId:r};if(typeof(flagControlJs)=="undefined"){d=true;if(m){l();g()}return}k(p,s,"ajaxFindOrientationHandler",function(u){d=true;if(u&&u.status==1){window.ajaxFindOrientationAdvData=u;if(m){e(function(){h();l();g()})}}else{if(m){e(function(){l();g()})}}})}function h(){var p=function(I,N){var K=null;var H=I[N];var J=H!=null?H:[];for(var M=0;M<J.length;M++){var L=J[M];if(L&&L.commonScreenImgUrl){K=L;break}}return K};var z=function(I,N){var K=null;if(!I){return null}var H=I.sourceList;var J=H!=null?H:[];for(var M=0;M<J.length;M++){var L=J[M];if(L&&L.advertiseRegionalCode==N){K=L;K.regionId=L.advertiseRegionalId;K.adBgColor=L.reserved;K.text=L.displayTitle;K.landingPage=L.linkUrl;K.tc=L.tc;if(screen.width>=1280){K.commonScreenImgUrl=L.imageUrlWide
+}else{K.commonScreenImgUrl=L.imageUrl}break}}return K};var y=window.ajaxFindPromAdvData;var E=window.ajaxFindOrientationAdvData;var w=document.getElementById("index_menu_carousel");if(w){var D=w.getElementsByTagName("li");for(var C=0;C<D.length;C++){var A=D[C].getElementsByTagName("a");for(var r=0;r<A.length;r++){var x=A[r];var u=x.getElementsByTagName("img")[0];if(x&&u){var v=f.split(",");v=v.concat(c.split(","));for(var t=0;t<v.length;t++){var F=null;if(y&&y.status==1){F=p(y.value,v[t])}if(!F&&E&&E.value){F=z(E.value,v[t])}if(F&&F.regionId&&F.regionId==x.getAttribute("data-advId")){if(x.getAttribute("data-done")!="1"){x.setAttribute("href",F.landingPage);x.setAttribute("title",F.text);x.setAttribute("data-ref",F.ref);x.setAttribute("data-done","1");if(F.adBgColor){D[C].setAttribute("data-bgcolor",F.adBgColor)
+}var q=F.tc;var s=F.tc_ext;if(q){x.setAttribute("data-tc",q+".1");if(s){x.setAttribute("data-tce",s)}}u.setAttribute("alt",F.text);u.setAttribute("src",F.commonScreenImgUrl);u.setAttribute("data-done","1");u.removeAttribute("si");u.removeAttribute("wi")}}}}}}}var B=document.getElementById("promo_show");if(B){B.setAttribute("data-ajax-done","1")}}function i(){var v=document.getElementById("index_menu_carousel");var p=screen.width>=1280?"wi":"si";if(v){var s=v.getElementsByTagName("li");var q=s.length>0?s[0].getElementsByTagName("a"):[];for(var t=0;t<q.length;t++){var u=q[t];var r=u.getElementsByTagName("img")[0];if(r.getAttribute(p)){r.setAttribute("src",r.getAttribute(p));r.removeAttribute("si");r.removeAttribute("wi")}}}}function g(){var w=document.getElementById("index_menu_carousel");var x=document.getElementById("lunboNum");
+var s=screen.width>=1280?"wi":"si";if(w){if(w.getAttribute("data-inited")=="1"){return}w.setAttribute("data-inited",1);var B=w.getElementsByTagName("li");var A=x.getElementsByTagName("li");var u=-1;var r=[];for(var y=0;y<B.length;y++){if(u>=0){break}var z=B[y].getElementsByTagName("a");for(var C=0;C<z.length;C++){var t=z[C];var p=t.getElementsByTagName("img")[0];if(t&&p){if(t.getAttribute("data-tag")=="13"){u=y;break}if(t.getAttribute("data-ajax")==""||t.getAttribute("data-ajax")=="0"||((t.getAttribute("data-ajax")=="1"||t.getAttribute("data-ajax")=="2")&&t.getAttribute("data-done")!="1")){r.push(y)}}}}if(u<0&&r.length>0){u=r[Math.floor(Math.random()*r.length)]}if(u>=0){var v=B[u];var t=v.getElementsByTagName("a")[0];var p=t.getElementsByTagName("img")[0];if(t&&p){if(u>0){B[0].style.display="none"
+}v.style.display="";if(w.getAttribute("lunboBackgroudFlag")=="1"){v.style.backgroundColor=v.getAttribute("data-bgcolor")}if(p.getAttribute(s)){p.setAttribute("src",p.getAttribute(s));p.removeAttribute("si");p.removeAttribute("wi");n(p)}}for(var D=0;D<A.length;D++){var q=A[D];if(D==u){q.className="cur";break}}w.setAttribute("data-init",u)}}}if(f!=""||c!=""){o();j();setTimeout(function(){e(function(){l();g()})},1500)}else{e(function(){g()})}};b.mobileJump();b.hideProWin();b.lunboAjaxReplaceAdv()})();
+}catch(e){}
+</script>
+<script type="text/javascript">
+(function(){
+try{
+document.getElementById("headerAllProvince").style.height="300px";(function(){var a=$(".headerNavWrap").find("a:contains('1号钱包')");if(a){var b=a.next();if(b){}}})();if(window.top!==window.self){window.top.location=window.location};
+}catch(err){}
+try{
+window.g_selectionProvince=[];
+}catch(err){}
+})();
+</script>
+<script type="text/javascript">
+var URLPrefix = {"shop":"http://shop.1mall.com","busystock":"http://gps.yhd.com","TipDate":"2012-09-29","adExtTrackerUrl":"http://adlog.yhd.com/t.gif","pms":"http://pms.yhd.com","my_statics":"http://image.yihaodianimg.com/statics","passportmall":"https://passport.1mall.com","seoLinkMaxSize":"20","mallImgDomain":".yihaodianimg.com","shoping_pms":"http://pms.yhd.com","shoping_shop":"http://shop.1mall.com","search":"list.html?","sitedomain":".yhd.com","tryUrl":"http://try.yhd.com","shoping_self":"http://www.yhd.com","tracker":"tracker.yhd.com","commentZoneMall":"http://e.1mall.com/front-pe","productDetailHost":"http://www.yhd.com","central":"http://www.yhd.com","search_list":"list.html?","yhmall":"http://mall.yihaodian.com","footFriendLink":"http://www.yhd.com/friendlink/index.do","centralShop":"http://shop.yhd.com","shoping_passport":"https://passport.yhd.com","shoping_my_statics":"http://image.yihaodianimg.com/statics","yaowang":"http://www.111.com.cn","uploadPostUrl":"http://upload.yihaodian.com/upload/UploadAction","shoping_my":"http://my.yhd.com","image":"http://image.yihaodian.com","shoping_search":"http://www.yhd.com/ctg","shoping_opposite":"http://www.1mall.com","shoping_central":"http://www.yhd.com","my":"http://my.yhd.com","search_keyword":"http://search.yhd.com","mymall":"http://my.1mall.com","selfroot":"http://www.yhd.com","yiwangauth":"http://mall.yiwang.cn","products_stock":"http://gps.yhd.com/busystock","sitedomainmall":".1mall.com","commentZoneYhd":"http://e.yhd.com/front-pe","centralImgDomain":".yihaodianimg.com","productDetailUrl":"http://www.yhd.com","passport":"https://passport.yhd.com","statics":"http://image.yihaodianimg.com/front-homepage","mobile":"http://m.yhd.com","mall":"http://www.1mall.com"};
+var headerType="base";
+var favorite="1号店，只为更好的生活";
+var hostUrl="www.yhd.com";
+var httpUrl="http://www.yhd.com";
+var no3wUrl="yhd.com";
+var simpleUrl="yhd";
+var chineseUrl="1号店";
+var imagePath="images";
+var currSiteId=1;
+var currBsSiteId=1;
+var currSiteType=1;
+var merchant=1;
+var isIndex = 1;
+var indexFlag=1;
+var currVersionNum=1560110;
+var projectVersionNum = "1.0";
+var currDomain="http://www.yhd.com";
+var oppositeDomain="http://www.yhd.com";
+var lazyLoadImageObjArry = lazyLoadImageObjArry || [];
+var multiSearch="true";
+var currProvinceId=1;
+var isFixTopNav = true;
+var youFavorateICO = "{1:'http://d7.yihaodianimg.com/N00/M08/41/1F/CgMBmVFZJWSAZFOYAAAFPb8gIj869000.jpg'}";
+var limitBuyCallFlag = 0;
+var globalShowMarketPrice="0";
+var globalSearchSelectFlag = "1";
+var globalBaifendianFlag = "0";
+var globalSearchHotkeywordsFlag = "1";
+var globalTopPrismFlag = "1";
+var _globalSpmDataModelJson = {"SPM_COM":{"ADD_CART":1,"ADD_FAV":2,"DELETE":6,"TURN_PAGE":8,"SETTLEMENT":7},"YHD_HOMEPAGE":"1","SPM_DATA_TYPE":{"ADVANCED_TAG":33,"MINGPIN_CAT":32,"COMMENT_TAG":28,"SEARCH_SCENE_AD":36,"KEYWORD":25,"BASICS_TAG":34,"TRACKER_CODE":16,"SMARTBOX_ATTR":23,"CATEGORY":9,"SEARCH_TURN_PAGE":20,"LANDING":6,"SEARCH_BRAND_SHOP":35,"PROMOTION":8,"MSG_TYPE":31,"PRODUCT":5,"SEARCH_FILTER":21,"AD":12,"SHOP":26,"TUAN":11,"SMARTBOX_KW":22,"MINGPIN":17,"PROVINCE":14,"SEARCH_WORD":15,"COUPON":7,"BRAND":10,"SEARCH_SORT":19,"SMARTBOX_CATE":24},"SPM_SYSTEM_TYPE":{"PMS":4,"EDM":30,"AD":13,"CATEGORY":29,"SEARCH":3,"MANUAL":2,"TRY":27,"STORE":18,"AUTO":1},"SPM_AREA":{"YHD_HOME_FLOOR_MRHL":31,"YHD_HOME_NEWGIFT":536,"YHD_NHOME_INDEX2_FLOOR9":802,"YHD_GLOBAl_PRISM":22,"YHD_GLOBAl_HEADER_RIGHT_AD":18,"YHD_GLOBAl_HEADER_CATEGORY_0":156,"YHD_GLOBAl_HEADER_CATEGORY_1":157,"YHD_GLOBAl_HEADER_CATEGORY_2":158,"YHD_HOME_BAMBOO_PROMOT_MEITEHAO_TAB":47,"YHD_NHOME_INDEX2_FLOOR8":801,"YHD_GLOBAl_HEADER_CATEGORY_3":159,"YHD_HOME_BAMBOO_PROMOT_B_FAVORATE_PRODUCT":43,"YHD_HOME_BAMBOO_PROMOT_B_LIMIT_BUY":45,"YHD_NHOME_INDEX2_FLOOR7":800,"YHD_GLOBAl_HEADER_CATEGORY_4":160,"YHD_GLOBAl_HEADER_CATEGORY_5":161,"YHD_GLOBAl_HEADER_CATEGORY_6":162,"YHD_GLOBAl_HEADER_ORDER":155,"YHD_GLOBAl_HEADER_CATEGORY_7":163,"YHD_GLOBAl_HEADER_CATEGORY_8":164,"YHD_GLOBAl_HEADER_CATEGORY_9":165,"YHD_INDEX_NOTICE":1251,"YHD_HOME_FLOOR_JD":35,"YHD_HOME_BAMBOO_PROMOT_FAVORATE_PRODUCT":61,"YHD_HOME_FLOOR_LXBH":30,"YHD_HOME_BAMBOO_PROMOT_FAVORATE_PROMOT":62,"YHD_HOME_FLOOR_MPTM":27,"YHD_GLOBAl_TOP_PROVINCE":153,"YHD_GLOBAl_FOOTER_BROWSE_RELATED":19,"YHD_NHOME_FOOD":710,"YHD_GLOBAl_HEADER_CATEGORY":15,"YHD_GLOBAl_HEADER_LOGO":11,"YHD_GLOBAl_FOOTER":20,"YHD_GLOBAl_TOP_UNLOGIN":150,"YHD_HOME_LOUCENG_BANNER":38,"YHD_HOME_CHUCHUANG":708,"YHD_NHOME_LBSG":711,"YHD_HOME_BAMBOO_PROMOT_TIERTHIRD_TAB":52,"YHD_HOME_CHUCHUANG_BANNER":2709,"YHD_GLOBAl_HEADER_CATEGORY_13":169,"YHD_GLOBAl_HEADER_CATEGORY_12":168,"YHD_GLOBAl_HEADER_CATEGORY_11":167,"YHD_GLOBAl_HEADER_MOBILE":14,"YHD_GLOBAl_HEADER_CATEGORY_10":166,"YHD_HOME_BAMBOO_RIGHT_TUAN":39,"YHD_HOMEPAGE_FLOORNAV":1063,"YHD_GLOBAl_TOP_USER":7,"YHD_GLOBAl_HEADER_CATEGORY_15":595,"YHD_HOME_BAMBOO_SLIDER":36,"YHD_GLOBAl_HEADER_CATEGORY_14":170,"YHD-NHOME-XHLC":714,"YHD_GLOBAl_HEADER_CART":149,"YHD_NHOME_SHAN":1089,"YHD_HOME_BAMBOO_PROMOT_TIERTHIRD_NEW_PRODUCT":55,"YHD_HOME_BAMBOO_PROMOT_TIERTHIRD_FAVORATE_PROMOT":56,"YHD_HOME_BAMBOO_PROMOT_B_TAB":42,"YHD_GLOBAl_TOP_BANNER":9,"YHD_HOME_BAMBOO_PROMOT_TIERTHIRD_LIMIT_BUY":53,"YHD_GLOBAl_HEADER_HOT_SEARCH":13,"YHD_GLOBAl_LEFT_CNY":2655,"YHD_HOME_BAMBOO_RIGHT_YHZX":37,"YHD_HOME_BAMBOO_PROMOT_MEITEHAO_0":48,"YHD_GLOBAl_HEADER_SEARCH":12,"YHD_HOME_BAMBOO_PROMOT_MEITEHAO_1":49,"YHD_GLOBAl_TOP_MENU":8,"YHD_HOME_BAMBOO_PROMOT_MEITEHAO_2":50,"YHD_HOME_BAMBOO_PROMOT_TIERTHIRD_FAVORATE_PRODUCT":57,"YHD_HOME_BAMBOO_PROMOT_B_ZERO_AREA":44,"YHD_HOME_BAMBOO_PROMOT_MEITEHAO_3":51,"YHD_HOME_NOTICE":2641,"YHD_HOME_BAMBOO_RIGHT_NEWS":41,"YHD_GLOBAl_HEADER_SEARCHSHOP":2058,"YHD_NHOME_3C":709,"INDEX2_SELECTION_ACTIVITY":2646,"YHD_HOME_BAMBOO_RIGHT_HUAFEI":40,"YHD_GLOBAl_TOP_MSG":2549,"YHD_NHOME_TUAN":713,"YHD_GLOBAl_HEADER_MINICART":17,"YHD_NHOME_SXHG":712,"YHD_HOME_FLOOR_CHTT":28,"YHD_HOME_FLOOR_JJSH":32,"YHD_HOME_BAMBOO_PROMOT_TIERTHIRD_ZERO_AREA":54,"YHD_GLOBAl_TOP_MESSAGE":152,"YHD_GLOBAl_HEADER_WELFARE":154,"YHD_HOME_FLOOR_MMBB":33,"YHD_HOME_BAMBOO_PROMOT_LIMIT_BUY":59,"YHD_GLOBAl_HEADER_NAV":16,"YHD_HOME_FLOOR_JKSP":29,"YHD_GLOBAl_FOOTER_HELP":21,"YHD_HOME_BAMBOO_PROMOT_ZERO_AREA":60,"YHD_GLOBAl_TOP_LOGIN":151,"YHD_GLOBAl_TOP_CURTAIN":10,"YHD_HOME_BAMBOO_PROMOT_TAB":58,"YHD_HOME_BAMBOO_PROMOT_B_FAVORATE_PROMOT":46,"YHD_HOME_FLOOR_WHSH":34}};
+var globalShowProWin = 1;
+var indexJbpPopFlag = "0";
+var indexFreshmanPopFlag = "0";
+var globalTpCheckFlag = "1";
+</script>
+</head>
+<body id="comParamId" data-param='{"globalPageCode":"YHD_HOME","currPageId":"1","tierthirdProvinceFlag":"0", "tryVisibleFlag":"0"}' data-cdnDetection='-1'>
+<script type="text/javascript">
+var isWidescreen=screen.width>=1280;
+if(isWidescreen){document.getElementsByTagName("body")[0].className="w1200";}
+function recordCINTT() {
+var global = window["global"] || (window["global"] = {});
+var vars = global.vars = (global.vars || {});
+global.vars.customInteractTime = global.vars.customInteractTime || new Date().getTime();
+}
+</script>
+<div class="pop_win" id="yhd_pop_win" style="display:none;"></div>
+<div class="hd_header_wrap">
+<div class="hd_global_top_bar" id="global_top_bar">
+<div class="wrap clearfix" >
+<div class="hd_topbar_left clearfix">
+<div class="hd_unlogin_wrap" data-addclass="hd_unlogin_hover" id="global_unlogin" data-tpa="YHD_GLOBAl_TOP_UNLOGIN">
+<div class="hd_login clearfix">
+<span class="hd_hi">Hi,</span>
+请<a class="blue_link" href="login.html" data-ref="YHD_TOP_login" id="global_top_bar_loginLink" rel="nofollow">&nbsp;登录&nbsp;</a>/<a class="blue_link" href="reg.html" data-ref="YHD_TOP_register" rel="nofollow">&nbsp;注册</a>
+</div>
+<div class="hd_user_center">
+<div class="clearfix">
+<div class="fl">
+<a class="hd_avata_box" href="member_index.html" target="_blank" data-ref="YHD_TOP_userpic_nonlogin"></a>
+</div>
+<div class="hd_growth_box">
+<a class="hd_vip_earn" href="http://vip.yhd.com" target="_blank" data-ref="YHD_TOP_vip_nonlogin">会员专享价，V3免费购</a>
+<p class="hd_my_yhd"><a href="member_index.html" target="_blank" data-ref="YHD_TOP_myyihaodian_nonlogin">欢迎进入我的1号店</a></p>
+</div>
+</div>
+<div class="hd_message">
+<a href="http://jifen.yhd.com/pointshop/pointIndex.do" target="_blank" data-ref="YHD_TOP_userjifen_nonlogin">积分</a>
+<a href="http://vip.yhd.com/badge-shop/index.html" target="_blank" data-ref="YHD_TOP_userxunzhang_nonlogin">勋章</a>
+</div>
+</div>
+<em class="hd_login_arrow"></em>
+</div>
+<div class="hd_login_wrap none" id="global_login" data-type="new" data-mpIcon='{"imgUrl":"images/choujiang.gif", "imgLink":"", "tracker":"", "altName":""}' data-tpa="YHD_GLOBAl_TOP_LOGIN">
+</div>
+<div class="hd_notice_wrap none" id="hdUserMsg" data-cfg="1" data-tpa="YHD_GLOBAl_TOP_MSG">
+<a class="hd_notice_tit clearfix" href="http://edm.yhd.com/pcMsg/myMessage.action" data-ref="YHD_TOP_MSG" rel="nofollow" target='_blank'><i></i>我的消息<span></span></a>
+<div class="hd_notice"></div>
+</div>
+<div class="hd_indxProvce fl" id="headerSelectProvince" data-tpa="YHD_GLOBAl_TOP_PROVINCE">
+<span>送货至</span><a class="hd_header_province_name" id="currProvince" href="javascript:showProvincesV2();"></a>
+<div class="hd_provincelist" id="headerAllProvince" data-hot="1:上海,2:北京,20:广东,18:湖北,12:四川,14:福建">
+</div>
+</div>
+</div>
+<div class="hd_top_manu clearfix" data-tpa="YHD_GLOBAl_TOP_MENU">
+<ul class="clearfix">
+<li class="hd_menu_tit hd_my_order" data-addClass="hd_menu_hover" id="glHdMyYhd" data-tpc="1">
+<a class="hd_menu" target="_blank" data-ref="YHD_TOP_myyhd" href="member_index.html" rel="nofollow"><s></s>我的1号店</a>
+<div class="hd_menu_list">
+<ul>
+<li><a href="member_order.html" data-ref="YHD_TOP_order" target="_blank" rel="nofollow" >我的订单</a></li>
+<li><a href="member_points.html" data-ref="YHD_TOP_points" target="_blank" rel="nofollow" >我的积分</a></li>
+<li><a href="http://coupon.yhd.com/myCoupon" data-ref="YHD_TOP_coupon" target="_blank" rel="nofollow" >我的抵用券</a></li>
+<li><a href="http://my.yhd.com/member/myCollection/myCollectionProduct.do" data-ref="YHD_TOP_mycollection" target="_blank" rel="nofollow" >我的收藏夹</a></li>
+<li><a href="http://e.yhd.com/front-pe/pelist/view.do" data-ref="YHD_TOP_comment" target="_blank" rel="nofollow" >我的评论</a></li>
+<li><a href="http://vip.yhd.com" data-ref="YHD_TOP_vip" target="_blank" rel="nofollow" >会员专享</a></li>
+</ul>
+</div>
+</li>
+<li class="hd_menu_tit" data-addclass="hd_menu_hover" id="glShouCang">
+<a href="javascript:void(0);" class="hd_menu">
+<span style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;收藏夹</span></a>
+<div class="hd_menu_list" id="glShouCangChild" data-tpc="2">
+<ul>
+<li><a href="http://my.yhd.com/member/myNewCollection/myFavorite.do?operType=0" data-ref="YHD_TOP_mycollection_product" target="_blank" rel="nofollow" >商品收藏</a></li>
+<li><a href="http://my.yhd.com/member/myNewCollection/myFavorite.do?operType=1" data-ref="YHD_TOP_mycollection_shop" target="_blank" rel="nofollow" >店铺收藏</a></li>
+</ul>
+</div>
+</li>
+<li class="hd_menu_tit" data-addClass="hd_menu_hover" id="glKeHuDuan">
+<a href="#" class="hd_menu"><i class="hd_mobile_icon"></i>掌上1号店</a>
+<div class="hd_mobile_show">
+<i></i>
+<div class="hd_mobile_list clearfix" data-tpc="3">
+<div class="hd_mobile_content">
+<img src="images/blank.gif" alt="" original="http://d9.yihaodianimg.com/N06/M0A/60/7F/ChEbu1WRDpOAf6xxAAAz2LgGaek47900_93x93.jpg">
+</div>
+<dl class="hd_mobile_tab">
+<dt><b>掌上1号店</b></dt>
+<dd><a class="blue_link" href="http://cms.yhd.com/sale/157119" target="_blank" data-ref="YHD_TOP_wx_link">手机购物更优惠</a></dd>
+<dd>
+<a href="https://itunes.apple.com/us/app/1hao-dian/id427457043?mt=8" target="_blank" data-ref="YHD_TOP_wx_iphone" rel="nofollow" class="hd_iconfont"></a>
+<a href="https://itunes.apple.com/cn/app/1hao-dianhd/id550780860?mt=8" target="_blank" data-ref="YHD_TOP_wx_ipad" rel="nofollow" class="hd_iconfont"></a>
+<a href="http://m.yhd.com/downloads/10600518746/TheStoreApp.apk" target="_blank" data-ref="YHD_TOP_wx_android" rel="nofollow" class="hd_iconfont"></a>
+</dd>
+</dl>
+</div>
+</div>
+</li>
+<li class="hd_menu_tit" data-addClass="hd_menu_hover" id="glKeHuFuWu" data-tpc="4">
+<a target="_blank" href="help.html" data-ref="YHD_TOP_help" class="hd_menu" ><s class="khfw"></s>客户服务</a>
+<div class="hd_menu_list">
+<ul>
+<li><a href="member_order.html" data-ref="YHD_TOP_help_baoguo" target="_blank" >包裹跟踪</a></li>
+<li><a href="help.html" data-ref="YHD_TOP_help_wenti" target="_blank" >常见问题</a></li>
+<li><a href="http://yas.yhd.com/return/returnApplyList.do" data-ref="YHD_TOP_help_shouhou" target="_blank" >在线退换货</a></li>
+<li><a href="http://help.yhd.com/opinion/opinionList.do" data-ref="YHD_TOP_help_tousu" target="_blank" >在线投诉</a></li>
+<li><a href="http://www.yhd.com/marketing/deliveryinfo/deliveryInfo.do" data-ref="YHD_TOP_help_peisongfanwei" target="_blank" >配送范围</a></li>
+</ul>
+</div>
+</li>
+<li class="hd_menu_tit" data-addClass="hd_menu_hover" id="glWangZhanDaoHang" >
+<a href="#" class="hd_menu">网站导航</a>
+<div class="hd_site_nav" data-tpc="5">
+<em></em>
+<ul class="clearfix">
+<li><a href="http://1mall.yhd.com" data-ref="YHD_TOP_links_mall" target="_blank" >1号商城</a></li>
+</ul>
+<ul class="clearfix">
+<li><a target="_blank" data-ref="14509_10535717_2" data-tcd="AD.14509_10535717_2" href="http://club.yhd.com/" title="1号社区"> 1号社区
+</a></li>
+<li><a target="_blank" data-ref="14509_10535724_4" data-tcd="AD.14509_10535724_4" href="http://try.yhd.com/" title="0元试用"> 0元试用
+</a></li>
+<li><a target="_blank" data-ref="14509_11754949_5" data-tcd="AD.14509_11754949_5" href="http://cms.yhd.com/cmsPage/show.do?pageId=73060" title="平安金卡"> 平安金卡
+</a></li>
+<li><a target="_blank" data-ref="14509_15636664_6" data-tcd="AD.14509_15636664_6" href="http://fx.yhd.com/pifa/index.action" title="分销平台"> 分销平台
+</a></li>
+</ul>
+<ul class="clearfix">
+<li><a href="http://union.yhd.com/" data-ref="YHD_TOP_union" target="_blank" >网站联盟</a></li>
+<li><a href="http://zhaoshang.yhd.com" data-ref="YHD_TOP_settled" target="_blank" >招商通道</a></li>
+<li><a href="http://b2b.yhd.com/" data-ref="YHD_TOP_b2b" target="_blank" >企业采购</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<span class="hd_follow_us">关注我们：</span>
+<a target="_blank" id="weibo" onclick="gotracker('2','YHD_TOP_weibo');" rel="nofollow" href="http://weibo.com/yihaodian" class="hd_sina_weibo" title="去关注1号店的新浪微博">关注1号店新浪微博</a>
+<a data-tpc="6" class="hd_weixin hd_menu_tit" data-addClass="hd_menu_hover" id="glWeiXin" title="关注1号店微信" href="http://cms.yhd.com/cms/view.do?topicId=24484" target="_blank" >
+<div class="hd_weixin_show">
+<i></i>
+<p>
+扫描二维码<br />关注1号店微信
+</p>
+<img src="images/blank.gif" alt="扫描二维码<br />关注1号店微信" original="http://d7.yihaodianimg.com/N00/M04/0E/56/CgQCtlKW1RSAe6dIAAAcun_R_Wk58300.jpg" />
+</div>
+</a>
+</div>
+</div>
+</div>
+<div id="topCurtain" style="display:none;" class="wrap index_topbanner" data-tpa="YHD_GLOBAl_TOP_CURTAIN">
+<a class="big_topbanner" target="_blank" data-ref="1783_31065961_1" href="http://cms.yhd.com/sale/aUXXOXlBBNJ" title="2.29个护冲锋">
+<img alt="2.29个护冲锋" src="images/blank.gif" shortimg="http://d7.yihaodianimg.com/N09/M02/E2/B1/ChEi2FbScSGAIhy-AAFCB7sDqPw07700.jpg" wideimg="http://d8.yihaodianimg.com/N09/M0B/E2/DC/ChEi11bScS-AVtczAAFiB5_s0aU62800.jpg"/>
+</a>
+<a style="display:none;" id="smallTopBanner" class="small_topbanner" target="_blank" data-ref="1782_31065964_1" href="http://cms.yhd.com/sale/aUXXOXlBBNJ" title="2.29个护冲锋">
+<img alt="2.29个护冲锋" src="images/blank.gif" shortimg="http://d9.yihaodianimg.com/N10/M0A/E6/31/ChEi21bScf-ARKxpAABzaOTA1VY44200.jpg" wideimg="http://d9.yihaodianimg.com/N10/M0B/E6/57/ChEi3FbScgWAEhhRAACqyy6e0Es34300.jpg"/>
+</a>
+<span title="点击-展开" class="index_topbanner_fold index_topbanner_unfold">收起<s></s></span>
+</div>
+<div class="wrap hd_header clearfix hd_unify_logo" id="site_header">
+<div id="logo_areaID" class="hd_logo_area fl" data-tpa="YHD_GLOBAl_HEADER_LOGO">
+<a href="index.html" data-ref="index_1"><img alt="1号店" src="http://d7.yihaodianimg.com/N07/M07/AE/F3/CgQIz1ZyfEqAaJj8AAAPqOO2cwQ12100.png"/></a>
+</div>
+<div class="hd_head_search">
+<div class="hd_search_form clearfix">
+<div class="hd_serach_tab" id="hdSearchTab" data-type="1">
+<a href="javascript:;" data-type="1">商品</a>
+<a href="javascript:;" data-type="2">店铺</a>
+<i></i>
+</div>
+<div class="hd_search_wrap clearfix" data-tpa="YHD_GLOBAl_HEADER_SEARCH">
+<label for="keyword" style="display:none;">2016宠爱女人节-美容护理满199减100送100！</label>
+<input class="hd_input_test" name="keyword" id="keyword" type="text" original="2016宠爱女人节-美容护理满199减100送100！" url="http://cms.yhd.com/sale/vdfXODXbBvo" style="color:#333333;" maxLength="100" AUTOCOMPLETE="off" autofocus="true" data-autofocus="true" x-webkit-speech="" onwebkitspeechchange="emptySearchBar();" x-webkit-grammar="builtin:translate"/>
+<!--搜索提示 begin-->
+<div id="searchSuggest" class="hd_search_tips_result hd_search_history" style="display:none" onmouseover="$('#searchSuggest').show()"></div>
+<button type="button" class="hd_search_btn" id="hdSearchBtn" onclick="javascript:addTrackPositionToCookie('1','search');searchMeForClick();" isTrkCustom="1">搜 索</button>
+</div>
+<button class="hd_shop_btn" type="button" id="hdShopBtn" style="display:none;" onclick="javascript:addTrackPositionToCookie('1','search_shop');">搜本店</button>
+<button class="hd_shop_btn" type="button" id="hd_search_tuan" style="display:none;" onclick="javascript:addTrackPositionToCookie('1','search_tuan');">搜团购</button>
+<button class="hd_hg_btn" type="button" id="hd_search_haigou" style="display:none;" onclick="javascript:addTrackPositionToCookie('1','search_haigou');">搜海购</button>
+</div>
+<p id="hotKeywordsShow" class="hd_hot_search" data-tpa="YHD_GLOBAl_HEADER_HOT_SEARCH" data-specialHotword='{"text":"we are 发沐类","linkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","style":"0","tc":"ad.0.0.14585-31065967","tce":null,"perTracker":"14585_31065967_1"}'>
+</p>
+</div>
+<div class="hd_prism_wrap" id="hdPrismWrap">
+<div class="hd_prism hd_welfare" id="hdPrismCoupon" data-tpa="YHD_GLOBAl_HEADER_WELFARE">
+<u style="display:none;" id="hdPrismCouponNum"></u>
+<a href="http://coupon.yhd.com/myCoupon" target="_blank" data-ref="top_prism_coupon" class="hd_prism_tab">
+<em></em>
+<p>福利</p>
+<i></i>
+</a>
+<div class="hd_prism_show global_loading" id="hdPrismCouponList">
+</div>
+</div>
+<div class="hd_prism hd_order" id="hdPrismOrder" data-tpa="YHD_GLOBAl_HEADER_ORDER">
+<u style="display:none;" id="hdPrismOrderNum"></u>
+<a href="member_order.html" target="_blank" data-ref="top_prism_order" class="hd_prism_tab">
+<em></em>
+<p>订单查询</p>
+<i></i>
+</a>
+<div class="hd_prism_show global_loading" id="hdPrismOrderList">
+</div>
+</div>
+</div>
+</div>
+<div id="headerNav" class="hd_header_nav">
+<div class="hd_fixed_bg"></div>
+<div class="wrap clearfix">
+<div id="allSortOuterbox" >
+<div class="hd_all_sort_link fl" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_0"><a data-ref="YHD_TOP_index_5" href="http://www.yhd.com/marketing/allproduct.html" class="fl" >所有商品分类</a></div>
+<div class="hd_allsort_out_box_new" id="allCategoryHeader" >
+<div class="hd_allsort_out">
+<ul class="hd_allsort " id="j_allsort">
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_1" data-mrt="1">
+<h3 class="hd_gray_bg">
+<i class="hd_iconfont"></i>
+<a title="进口食品" data-ref="CatMenu_Search_100000024_137555_104269" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137555.1" target="_blank" href="list.html?/jinkou/" >进口食品</a>、
+<a title="生鲜" data-ref="CatMenu_Search_100000024_137555_104270" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137555.2" target="_blank" href="list.html?/c20947-0/" >生鲜</a>、
+<a title="海购" data-ref="CatMenu_Search_100000024_137555_104271" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137555.3" target="_blank" href="list.html?/c21266-0-139058" >海购</a>
+</h3>
+<div categoryId="137555" cindex="1" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_2" data-mrt="1">
+<h3 >
+<i class="hd_iconfont"></i>
+<a title="食品" data-ref="CatMenu_Search_100000024_137778_108077" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137778.1" target="_blank" href="list.html?/c5135-0-81522/" >食品</a>、
+<a title="饮料" data-ref="CatMenu_Search_100000024_137778_108078" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137778.2" target="_blank" href="http://www.yhd.com/ctg/vc3254" >饮料</a>、
+<a title="酒" data-ref="CatMenu_Search_100000024_137778_108079" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137778.3" target="_blank" href="list.html?/c5140-0-81016" >酒</a>
+</h3>
+<div categoryId="137778" cindex="2" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_3" data-mrt="1">
+<h3 class="hd_gray_bg">
+<i class="hd_iconfont"></i>
+<a title="母婴" data-ref="CatMenu_Search_100000024_137454_107309" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137454.1" target="_blank" href="list.html?/baby.html" >母婴</a>、
+<a title="玩具" data-ref="CatMenu_Search_100000024_137454_107310" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137454.2" target="_blank" href="list.html?/c17722-0-87247/" >玩具</a>、
+<a title="童装" data-ref="CatMenu_Search_100000024_137454_107311" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137454.3" target="_blank" href="http://kids.yhd.com/" >童装</a>
+</h3>
+<div categoryId="137454" cindex="3" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_4" data-mrt="1">
+<h3 >
+<i class="hd_iconfont"></i>
+<a title="厨卫清洁" data-ref="CatMenu_Search_100000024_137469_100373" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137469.1" target="_blank" href="list.html?/jiaju" >厨卫清洁</a>、
+<a title="纸" data-ref="CatMenu_Search_100000024_137469_100374" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137469.2" target="_blank" href="list.html?/c5176-0/" >纸</a>、
+<a title="清洁剂" data-ref="CatMenu_Search_100000024_137469_100375" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137469.3" target="_blank" href="list.html?/c5183-0-84560/" >清洁剂</a>
+</h3>
+<div categoryId="137469" cindex="4" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_5" data-mrt="1">
+<h3 class="hd_gray_bg">
+<i class="hd_iconfont"></i>
+<a title="家居" data-ref="CatMenu_Search_100000024_137470_104717" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137470.1" target="_blank" href="list.html?/c950340-0-83112/" >家居</a>、
+<a title="家装" data-ref="CatMenu_Search_100000024_137470_104718" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137470.2" target="_blank" href="list.html?/c36939-0-90632/" >家装</a>、
+<a title="宠物" data-ref="CatMenu_Search_100000024_137470_104719" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137470.3" target="_blank" href="list.html?/c950350-0-83479/" >宠物</a>
+</h3>
+<div categoryId="137470" cindex="5" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_6" data-mrt="1">
+<h3 >
+<i class="hd_iconfont"></i>
+<a title="美妆、个人护理" data-ref="CatMenu_Search_100000024_137468_105110" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137468.1" target="_blank" href="list.html?/meirong" >美妆、个人护理</a>、
+<a title="洗护" data-ref="CatMenu_Search_100000024_137468_105111" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137468.2" target="_blank" href="http://www.yhd.com/ctg/vc3384" >洗护</a>
+</h3>
+<div categoryId="137468" cindex="6" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_7" data-mrt="1">
+<h3 class="hd_gray_bg">
+<i class="hd_iconfont">&#xe604;</i>
+<a title="女装内衣" data-ref="CatMenu_Search_100000024_132979_106637" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_132979.1" target="_blank" href="http://lady.yhd.com/" >女装内衣</a>、
+<a title="男装" data-ref="CatMenu_Search_100000024_132979_106638" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_132979.2" target="_blank" href="http://man.yhd.com/" >男装</a>、
+<a title="配饰" data-ref="CatMenu_Search_100000024_132979_106639" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_132979.3" target="_blank" href="list.html?/c32258-0-84328/" >配饰</a>
+</h3>
+<div categoryId="132979" cindex="7" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_8" data-mrt="1">
+<h3 >
+<i class="hd_iconfont">&#xe602;</i>
+<a title="鞋靴" data-ref="CatMenu_Search_100000024_132950_104461" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_132950.1" target="_blank" href="http://shoes.yhd.com/" >鞋靴</a>、
+<a title="箱包" data-ref="CatMenu_Search_100000024_132950_104462" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_132950.2" target="_blank" href="http://bag.yhd.com/" >箱包</a>、
+<a title="运动户外" data-ref="CatMenu_Search_100000024_132950_104463" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_132950.3" target="_blank" href="http://sport.yhd.com/" >运动户外</a>
+</h3>
+<div categoryId="132950" cindex="8" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_9" data-mrt="1">
+<h3 class="hd_gray_bg">
+<i class="hd_iconfont"></i>
+<a title="手机" data-ref="CatMenu_Search_100000024_137471_3597" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137471.1" target="_blank" href="list.html?/c23586-0-81436/" >手机</a>、
+<a title="数码" data-ref="CatMenu_Search_100000024_137471_3598" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137471.2" target="_blank" href="list.html?/c21314-0-85978/" >数码</a>、
+<a title="电脑办公" data-ref="CatMenu_Search_100000024_137471_3599" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137471.3" target="_blank" href="list.html?/c21392-0-84179" >电脑办公</a>
+</h3>
+<div categoryId="137471" cindex="9" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_10" data-mrt="1">
+<h3 >
+<i class="hd_iconfont"></i>
+<a title="大家电、小家电" data-ref="CatMenu_Search_100000024_137472_98942" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137472.1" target="_blank" href="list.html?/shenghuodianqi" >大家电、小家电</a>、
+<a title="汽车" data-ref="CatMenu_Search_100000024_137472_98943" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137472.2" target="_blank" href="list.html?/c23926-0-0" >汽车</a>
+</h3>
+<div categoryId="137472" cindex="10" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_11" data-mrt="1">
+<h3 class="hd_gray_bg">
+<i class="hd_iconfont"></i>
+<a title="保健滋补" data-ref="CatMenu_Search_100000024_138066_100725" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_138066.1" target="_blank" href="list.html?/c8704-0-85100/" >保健滋补</a>、
+<a title="医药" data-ref="CatMenu_Search_100000024_138066_100726" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_138066.2" target="_blank" href="list.html?/c36738-0-84975" >医药</a>、
+<a title="成人" data-ref="CatMenu_Search_100000024_138066_100727" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_138066.3" target="_blank" href="list.html?/c31745-0-85324/" >成人</a>
+</h3>
+<div categoryId="138066" cindex="11" class="hd_show_sort global_loading">
+</div>
+</li>
+<li class="hd_no_pic" data-color="hd_sort_color" data-background="" data-tpa="YHD_GLOBAl_HEADER_CATEGORY_12" data-mrt="1">
+<h3 >
+<i class="hd_iconfont"></i>
+<a title="礼品卡" data-ref="CatMenu_Search_100000024_137992_106029" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137992.1" target="_blank" href="list.html?/c950780-0-82133/" >礼品卡</a>、
+<a title="旅游" data-ref="CatMenu_Search_100000024_137992_106030" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137992.2" target="_blank" href="list.html?/c33095-0-62049" >旅游</a>、
+<a title="图书" data-ref="CatMenu_Search_100000024_137992_106031" data-tc="0.0.TRACKER_CODE.CatMenu_Search_100000024_137992.3" target="_blank" href="list.html?/c25228-0/" >图书</a>
+</h3>
+<div categoryId="137992" cindex="12" class="hd_show_sort global_loading">
+</div>
+</li>
+</ul>
+</div> </div>
+</div>
+<div class="headerNavWrap" id="global_menu" data-tpa="YHD_GLOBAl_HEADER_NAV">
+<ul id="wideScreenTabShowID" class="headerNavMain clearfix">
+<li style="z-index:799"><a href="index.html" data-ref="2704_13664428_1" class="light" data-tcd="AD.2704_13664428_1">首页</a></li>
+<li style="z-index:798"><a href="supermarket.html" target="_blank" hl="" class="light" data-ref="2704_15986209_2" data-tcd="AD.2704_15986209_2">自营超市</a></li>
+<li style="z-index:797"><a href="http://t.yhd.com" target="_blank" hl="疯抢" class="light" data-ref="2704_13659166_3" data-tcd="AD.2704_13659166_3">1号团</a></li>
+<li style="z-index:796"><a href="http://1mall.yhd.com" target="_blank" hl="" data-ref="2704_13659165_4" data-tcd="AD.2704_13659165_4">1号商城</a></li>
+<li style="z-index:795"><a href="http://s.yhd.com/" target="_blank" hl="" data-ref="2704_13852075_5" data-tcd="AD.2704_13852075_5">闪购</a></li>
+<li style="z-index:794"><a href="list.html?/fresh.html" target="_blank" hl="" data-ref="2704_15636713_6" data-tcd="AD.2704_15636713_6">活色生鲜</a></li>
+<li style="z-index:793"><a href="list.html?/yao.html" target="_blank" hl="" data-ref="2704_15736041_7" data-tcd="AD.2704_15736041_7">医药</a></li>
+<li style="z-index:792"><a href="list.html?/haigou" target="_blank" hl="" data-ref="2704_30849546_8" data-tcd="AD.2704_30849546_8">1号海购</a><img class="newicon" alt="1号海购" src="images/blank.gif" original="http://d9.yihaodianimg.com/N06/M09/53/24/ChEbu1bNZxCAPBgrAAAEC3SY2LE31000.png"></li>
+<li style="z-index:791"><a href="http://dangdang.yhd.com" target="_blank" hl="" data-ref="2704_29070249_9" data-tcd="AD.2704_29070249_9">当当书城</a></li>
+</ul>
+</div>
+<div class="hd_fix_search clearfix">
+<input class="keywordInput" name="keyword" value="2016宠爱女人节-美容护理满199减100送100！" id="fix_keyword" type="text" original="2016宠爱女人节-美容护理满199减100送100！" url="http://cms.yhd.com/sale/vdfXODXbBvo" style="color:#333333;" maxLength="100" AUTOCOMPLETE="off" data-autofocus="auto" x-webkit-speech="" onwebkitspeechchange="emptySearchBar('#fix_keyword');" x-webkit-grammar="builtin:translate"/>
+<a href="javascript:addTrackPositionToCookie('1','search_float_btn');searchMe(jQuery('#fix_keyword'));" class="hd_fix_searchBtn">搜 索</a>
+<a href="javascript:addTrackPositionToCookie('1','search_shop_float_btn');" class="hd_fix_searchshop" id="hdShopBtnFix" style="display:none;">搜本店</a>
+<!--搜索提示 begin-->
+<div class="hd_search_tips_result hd_search_history" id="fix_searchSuggest" style="display:none;">
+</div>
+<!--搜索提示 end-->
+</div>
+<div class="hd_mini_cart" id="miniCart" data-tpa="YHD_GLOBAl_HEADER_CART" data-mrt="1" data-version="1">
+<i class="hd_c_arrow"></i>
+<u class="hd_c_num none" id="in_cart_num"></u>
+<a class="hd_prism_cart" href="cart.html" data-ref="YHD_TOP_MINICART">
+<em></em>购物车
+</a>
+<div class="hd_cart_show none" id="showMiniCartDetail">
+</div>
+</div>
+<div class="hd_mobile_wrap">
+<a id="globalRightPicsV2" href="http://cms.yhd.com/sale/157119" target="_blank" data-ref="17102_28453146_1" data-tpa="YHD_GLOBAl_HEADER_RIGHT_AD">
+<i><img src="http://d8.yihaodianimg.com/N10/M0B/A3/ED/ChEi2lYI4L-AB-YcAAAgFI-WAls08000.gif" alt="掌上1号店"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- cache enable -->
+<div class="layout_main">
+<div class="laybox banner_slider clearfix" id="firstScreen">
+<div id="promo_show" class="mod_promo_show" data-tpa="YHD_HOME_BAMBOO_SLIDER">
+<div class="promo_wrapper" id="index_menu_carousel" data-init="0" lunboBackgroudFlag="1">
+<ol id="slider" class="clearfix">
+<li style="background:#f9f9f9;" data-bgcolor="#fe4d60" flag="1" data-tpc="1">
+<a href="http://cms.yhd.com/sale/vdfXODXbBvo" title="2016宠爱女人节-全场3.8折起 正式会场" data-recordTracker="1" data-tc="ad.0.0.15069-30915043.1" class="big_pic global_loading" target="_blank" data-ref="15069_30915043_1" data-advId="15069" data-ajax="0" data-nsf="" data-tag="13">
+<img id="lunbo_1" alt="2016宠爱女人节-全场3.8折起 正式会场" src="images/blank.gif" si="http://d6.yihaodianimg.com/N07/M0A/62/E9/CgQI0FbQIEOAaQAAAAGIKP89efU48600.jpg" wi="http://d7.yihaodianimg.com/N06/M09/AA/F3/CgQIzVbQIE-AHXOAAAHs2Tb76Gw52500.jpg" data-advId="15069" data-ajax="0"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#f64561" flag="2" data-tpc="2">
+<a href="http://cms.yhd.com/sale/ykOPohjjvZB" title="女人节食品综合会场" data-recordTracker="1" data-tc="ad.0.0.15070-30914823.1" class="big_pic global_loading" target="_blank" data-ref="15070_30914823_1" data-advId="15070" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_2" alt="女人节食品综合会场" src="images/blank.gif" si="http://d8.yihaodianimg.com/N10/M00/D5/E4/ChEi2lbP532AZUzBAAD69x820KU86100.jpg" wi="http://d7.yihaodianimg.com/N05/M01/0C/A3/CgQI01bP556AScixAAFlZ22fQkU10600.jpg" data-advId="15070" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#ff6c8b" flag="3" data-tpc="3">
+<a href="http://cms.yhd.com/sale/mXmqCCktfFJ" title="美护女人节正式会场【PC】" data-recordTracker="1" data-tc="ad.0.0.15071-30987081.1" class="big_pic global_loading" target="_blank" data-ref="15071_30987081_1" data-advId="15071" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_3" alt="美护女人节正式会场【PC】" src="images/blank.gif" si="http://d6.yihaodianimg.com/N08/M03/E2/E7/ChEi1FbRisGAUVmOAAEA-uyJmJU43500.jpg" wi="http://d8.yihaodianimg.com/N10/M08/D8/66/ChEi2lbRisuAQ-CKAAF7FTkO-hs40300.jpg" data-advId="15071" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#1ba8ef" flag="4" data-tpc="4">
+<a href="http://cms.yhd.com/sale/YpTqCfCmqpM" title="最美女人“机”" data-recordTracker="1" data-tc="ad.0.0.15072-31066091.1" class="big_pic global_loading" target="_blank" data-ref="15072_31066091_1" data-advId="15072" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_4" alt="最美女人“机”" src="images/blank.gif" si="http://d8.yihaodianimg.com/N10/M05/E8/02/ChEi21bT9T2ALJSHAAEtGQdRKxI59100.jpg" wi="http://d7.yihaodianimg.com/N05/M00/11/46/CgQI01bT9W2AaYLeAAGNv2nL5S887200.jpg" data-advId="15072" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="0119" flag="5" data-tpc="5">
+<a href="http://shop.yhd.com/cms-bm-21-2539905.html" title="" data-recordTracker="1" class="big_pic global_loading" target="_blank" data-ref="" data-advId="15073" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_5" alt="" src="images/blank.gif" si="http://d6.yihaodianimg.com/N07/M09/E0/CF/CgQIz1acVBaAUQwlAAN0HNFLGq4267.jpg" wi="http://d6.yihaodianimg.com/N07/M09/E0/CF/CgQIz1acVBaAUQwlAAN0HNFLGq4267.jpg" data-advId="15073" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#3792e1" flag="6" data-tpc="6">
+<a href="http://cms.yhd.com/sale/JaaTeReeTXJ" title="小米PK华为" data-recordTracker="1" data-tc="ad.0.0.15074-30915240.1" class="big_pic global_loading" target="_blank" data-ref="15074_30915240_1" data-advId="15074" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_6" alt="小米PK华为" src="images/blank.gif" si="http://d8.yihaodianimg.com/N08/M04/E1/A5/ChEi1VbQZUGAV5yGAAFbb5EisYo97700.jpg" wi="http://d7.yihaodianimg.com/N05/M09/11/C7/CgQI0lbQZUiAVEilAAHceq9m-Wk58500.jpg" data-advId="15074" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#9edffd" flag="7" data-tpc="7">
+<a href="http://cms.yhd.com/sale/eEbXOXXXBmm" title="春装上新-海量好货2.5折起" data-recordTracker="1" data-tc="ad.0.0.15075-30915152.1" class="big_pic global_loading" target="_blank" data-ref="15075_30915152_1" data-advId="15075" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_7" alt="春装上新-海量好货2.5折起" src="images/blank.gif" si="http://d8.yihaodianimg.com/N10/M04/E4/99/ChEi3FbQM-qADnRpAAGEP02xwQE83700.jpg" wi="http://d7.yihaodianimg.com/N05/M03/0D/B4/CgQI01bQM3CAWS0DAAIXH2l4xUQ86300.jpg" data-advId="15075" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#910683" flag="8" data-tpc="8">
+<a href="http://cms.yhd.com/sale/aUXXOXlBBNJ" title="2.29个护冲锋" data-recordTracker="1" data-tc="ad.0.0.15076-30914860.1" class="big_pic global_loading" target="_blank" data-ref="15076_30914860_1" data-advId="15076" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_8" alt="2.29个护冲锋" src="images/blank.gif" si="http://d9.yihaodianimg.com/N08/M04/E1/97/ChEi1lbQLE-ASjnjAAGFXKC57NQ05700.jpg" wi="http://d6.yihaodianimg.com/N08/M0B/E1/97/ChEi1lbQLFaAcFkRAAIjGYkuRYk56500.jpg" data-advId="15076" data-ajax="1"/>
+</a>
+</li>
+<li style="background:#f9f9f9;display:none;" data-bgcolor="#5101a2" flag="9" data-tpc="9">
+<a href="http://cms.yhd.com/sale/wLZXODdWByO" title="COSME大赏 全球美护TOP list " data-recordTracker="1" data-tc="ad.0.0.17280-31066096.1" class="big_pic global_loading" target="_blank" data-ref="17280_31066096_1" data-advId="17280" data-ajax="1" data-nsf="" data-tag="0">
+<img id="lunbo_9" alt="COSME大赏 全球美护TOP list " src="images/blank.gif" si="http://d8.yihaodianimg.com/N06/M05/AF/A8/CgQIzlbT9gGAY1j_AAF-tdw6Azc32700.jpg" wi="http://d8.yihaodianimg.com/N06/M00/5B/BD/ChEbu1bT9xKAJOZVAAH3UzTQ8ag12700.jpg" data-advId="17280" data-ajax="1"/>
+</a>
+</li>
+</ol>
+</div>
+<div class="mod_promonum_show">
+<ol class="clearfix" id="lunboNum" style="display:none;">
+<li flag="1" href="javascript:void(0);"></li>
+<li flag="2" href="javascript:void(0);"></li>
+<li flag="3" href="javascript:void(0);"></li>
+<li flag="4" href="javascript:void(0);"></li>
+<li flag="5" href="javascript:void(0);"></li>
+<li flag="6" href="javascript:void(0);"></li>
+<li flag="7" href="javascript:void(0);"></li>
+<li flag="8" href="javascript:void(0);"></li>
+<li flag="9" href="javascript:void(0);"></li>
+</ol>
+</div>
+<a href="javascript:void(0);" class="show_next"><s></s></a>
+<a href="javascript:void(0);" class="show_pre"><s></s></a>
+</div>
+<div class="layout_col_b">
+<div class="mod_yhd_notice" data-tpa="YHD_HOME_NOTICE">
+<dl>
+<dt>快讯</dt>
+<dd class="first_red"><a title="韩国货，进口界的实惠担当" data-tc="ad.0.20.18645-30914963.0" href="http://cms.yhd.com/sale/OyPXODOdBLB" target="_blank" data-ref="18645_30914963_0">【<b>逛呗</b>】韩国货，进口界的实惠担当</a></dd>
+<dd ><a title="过节啦，给爱你的妈妈送份礼物" data-tc="ad.0.0.18646-30915103.1" href="http://cms.yhd.com/sale/AdrqCqLLfdo" target="_blank" data-ref="18646_30915103_1">【<b>优选</b>】过节啦，给爱你的妈妈送份礼物</a></dd>
+<dd ><a title="有颜值，就是辣么任性" data-tc="ad.0.0.18647-30915106.1" href="http://cms.yhd.com/sale/NaePoPvvvEJ" target="_blank" data-ref="18647_30915106_1">【<b>优选</b>】有颜值，就是辣么任性</a></dd>
+<dd ><a title="鲜花做戒枕，表白妥妥的" data-tc="ad.0.0.18648-30914895.1" href="http://club.yhd.com/guide/1250" target="_blank" data-ref="18648_30914895_1">【<b>逛呗</b>】鲜花做戒枕，表白妥妥的</a></dd>
+<dd ><a title="我都给你生猴子了,而你呢?" data-tc="ad.0.0.18649-30914946.1" href="http://club.yhd.com/guide/1254" target="_blank" data-ref="18649_30914946_1">【<b>逛呗</b>】我都给你生猴子了,而你呢?</a></dd>
+<dd ><a title="购白菜价美妆，免费领好货" data-tc="ad.0.0.18650-30914950.1" href="http://club.yhd.com/guide/1258" target="_blank" data-ref="18650_30914950_1">【<b>逛呗</b>】购白菜价美妆，免费领好货</a></dd>
+</dl>
+</div>
+<div class="mod_vip" id="yhd_zhuanxiang" data-tpa="YHD_HOME_BAMBOO_RIGHT_HUAFEI">
+<div class="mod_vip_list">
+<p class="vip_tit">1号专享</p>
+<ul class="clearfix">
+<li data-index="1">
+<a href="http://try.yhd.com/10/" data-tc="ad.0.0.18651-26051649.1" target="_blank">
+<em class="vip_iconfont"></em><p>0元试用</p>
+</a>
+</li>
+<li data-index="2">
+<a href="http://jifen.yhd.com/pointshop/pointIndex.do" data-tc="ad.0.0.18652-26051654.1" target="_blank">
+<em class="vip_iconfont"></em><p>积分商城</p>
+</a>
+</li>
+<li data-index="3">
+<a href="list.html?/lipinka" data-tc="ad.0.0.18653-26051656.1" target="_blank">
+<em class="vip_iconfont"></em><p>礼品卡</p>
+</a>
+</li>
+<li class="tab_link" data-index="4">
+<a href="http://life.yhd.com/" data-tc="ad.0.0.18654-26051672.1" target="_blank">
+<em class="vip_iconfont"></em><p>充值中心</p>
+</a>
+</li>
+<li class="tab_link" data-index="5">
+<a href="http://yhd.bm724.com/forms/index.html" data-tc="ad.0.0.18655-26051673.1" target="_blank">
+<em class="vip_iconfont"></em><p>页游点卡</p>
+</a>
+</li>
+<li class="tab_link" data-index="6">
+<a href="https://8.yhd.com/cfweb/home.action" data-tc="ad.0.0.18656-26051659.1" target="_blank">
+<em class="vip_iconfont"></em><p>1号钱包</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="mod_iframe_app" id="index_digit">
+<div class="tabs clearfix">
+<a href="http://life.yhd.com/" data-tc="ad.0.0.18654-26051672.1" target="_blank">充值中心</a>
+<a href="http://yhd.bm724.com/forms/index.html" data-tc="ad.0.0.18655-26051673.1" target="_blank">页游点卡</a>
+<a href="https://8.yhd.com/cfweb/home.action" data-tc="ad.0.0.18656-26051659.1" target="_blank">1号钱包</a>
+</div>
+<div class="tabs_content">
+<div class="content_detail phone_recharge none" data-url="http://image.yihaodianimg.com/virtual-web_static/pc_iframe_virtual_charge.html"></div>
+<div class="content_detail game_card none" data-url="http://yhd.bm724.com/forms/yhd_mini_new.html"></div>
+<div class="content_detail yhd_wallet none">
+<a href="https://8.yhd.com/cfweb/home.action" data-tc="ad.0.0.18657-27801916.1" target="_blank"><p style="padding-bottom:5px;padding-top:5px">收益日结，收益赚high</p>
+<img original="http://d8.yihaodianimg.com/N05/M06/D9/D6/CgQI01aUv_2AGUr4AABEoRKVHVw56100.jpg" src="images/blank.gif" alt="收益日结，收益赚high"/>
+</a>
+</div>
+</div>
+</div>
+<!--关闭按钮-->
+<a href="javascript:;" class="colse_btn">&times;</a>
+</div>
+</div>
+</div>
+<!--精选活动 begin -->
+<div class="mod_selection_activity wrap" data-tpa="INDEX2_SELECTION_ACTIVITY">
+<div class="selection_activity_list">
+<ul class="clearfix" id="selectActivity">
+</ul>
+</div>
+<a href="javascript:;" class="prev_btn" style="display: none;"></a>
+<a href="javascript:;" class="next_btn" style="display: none;"></a>
+</div><div class="index_column_ad" id="chuchuang_banner_top" data-singlemodule="1" data-tpa="YHD_HOME_CHUCHUANG_BANNER">
+<a href="http://shop.yhd.com/cms-bm-21-2551329.html" target="_blank" data-recordTracker="1" data-tc="ad.0.0.17101-30914826.1" data-extTrackUrl="" data-ref="17101_30914826_1" data-advId="17101" data-ajax="0" data-nsf="">
+<img alt="宝洁品牌日" src="images/blank.gif" shortimg="http://d8.yihaodianimg.com/N09/M05/E0/0A/ChEi11bP6VeAb9_7AADog-8Yx9Y85100.jpg" wideimg="http://d6.yihaodianimg.com/N06/M05/AB/03/CgQIzlbP6V6AdUCjAADVQQz1S6M27200.jpg" data-advId="17101" data-ajax="0">
+</a>
+</div>
+<div class="wrap floor_ad_wrap mod_index_ad_floor global_loading" id="index_chuchuang" data-tpa="YHD_HOME_CHUCHUANG">
+<div class="big_pic">
+<a href="http://cms.yhd.com/sale/aUXXOXlBBNJ" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15114-30914866.1" data-extTrackUrl="" data-ref="15114_30914866_1" data-advId="15114" data-ajax="0" data-nsf="">
+<img alt="2.29个护冲锋" src="images/blank.gif" original="http://d7.yihaodianimg.com/N06/M02/5B/49/ChEbu1bT3CqAL0O1AABX_43LUGo57800.jpg" data-advId="15114" data-ajax="0">
+</a>
+</div>
+<div class="small_pic border_right">
+<div class="up">
+<a href="http://jk.yhd.com/?tab=3&subTab=3" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15115-31066109.1" data-extTrackUrl="" data-ref="15115_31066109_1" data-advId="15115" data-ajax="0" data-nsf="">
+<strong>进口 • 海购</strong>
+<em>COSME大赏</em>
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="COSME大赏" src="images/blank.gif" original="http://d7.yihaodianimg.com/N10/M05/E7/72/ChEi3FbTvvuATUT9AABIgYlaXgk04200.jpg" data-advId="15115" data-ajax="0" >
+</a>
+</div>
+<div class="down">
+<a href="http://cms.yhd.com/sale/ldtPohvhjdo" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15116-31144559.1" data-extTrackUrl="" data-ref="15116_31144559_1" data-advId="15116" data-ajax="0" data-nsf="">
+<strong>特产中国·网红必败清单</strong>
+<em>鲜花饼19.9元/500g</em>
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="特产中国三八丽人节" src="images/blank.gif" original="http://d9.yihaodianimg.com/N07/M0B/F2/16/ChEbvFbTyi-ACIc5AAArVsSY6Ss39600.jpg" data-advId="15116" data-ajax="0" >
+</a>
+</div>
+</div>
+<div class="small_pic">
+<div class="up">
+<a href="http://cms.yhd.com/cmsPage/show.do?pageId=94808" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15117-30914832.1" data-extTrackUrl="" data-ref="15117_30914832_1" data-advId="15117" data-ajax="0" data-nsf="">
+<strong>剁手价</strong>
+<em>清风卷筒卫生纸10卷</em>
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="清风卷筒卫生纸10卷" src="images/blank.gif" original="http://d6.yihaodianimg.com/N09/M04/DF/E9/ChEi2FbP7AaAN2g2AAAWQh-CuEQ44700.jpg" data-advId="15117" data-ajax="0" >
+</a>
+</div>
+<div class="down">
+<a href="http://xinpin.yhd.com/" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15118-30914775.1" data-extTrackUrl="" data-ref="15118_30914775_1" data-advId="15118" data-ajax="0" data-nsf="">
+<strong>新品上市 0元试用</strong>
+<em>多芬 千份0元抢</em>
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="多芬 千份0元抢" src="images/blank.gif" original="http://d9.yihaodianimg.com/N09/M04/DF/98/ChEi2FbP0X6ADc00AAAOpoKnoa025500.jpg" data-advId="15118" data-ajax="0" >
+</a>
+</div>
+</div>
+<div class="big_pic">
+<a href="http://s.yhd.com/list/32682" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15119-30915035.1" data-extTrackUrl="" data-ref="15119_30915035_1" data-advId="15119" data-ajax="0" data-nsf="">
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="笛莎公主出游季" src="images/blank.gif" original="http://d8.yihaodianimg.com/N09/M06/E1/1E/ChEi11bQNdaAXzUgAABulHmB8hA09700.jpg" data-advId="15119" data-ajax="0">
+</a>
+</div>
+<div class="small_pic">
+<div class="up">
+<a href="http://3c.yhd.com/" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15120-28995377.1" data-extTrackUrl="" data-ref="15120_28995377_1" data-advId="15120" data-ajax="0" data-nsf="">
+<strong>手机家电城</strong>
+<em>iPhone6s64G玫瑰金</em>
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="iPhone6s64G玫瑰金" src="images/blank.gif" original="http://d7.yihaodianimg.com/N05/M08/0D/E5/CgQI0lbOckKAJ-mXAAAeNF9P2Ok62900.jpg" data-advId="15120" data-ajax="0">
+</a>
+</div>
+<div class="down">
+<a href="http://shop.yhd.com/m-201949.html" target="_blank" data-recordTracker="1" data-tc="ad.0.0.15121-31144469.1" data-extTrackUrl="" data-ref="15121_31144469_1" data-advId="15121" data-ajax="0" data-nsf="">
+<strong>山姆会员商店</strong>
+<em>智利进口 三文鱼罐头</em>
+<img class="ad_floor_item_img" style="margin-left: 0px;" alt="山姆会员商店" src="images/blank.gif" original="http://d8.yihaodianimg.com/N10/M01/E6/E3/ChEi21bTolGAD15cAAAbv_rHeow58900.jpg" data-advId="15121" data-ajax="0">
+</a>
+</div>
+</div>
+</div>
+<div class="index_column_ad" id="loucengBanner" data-tpa="YHD_HOME_LOUCENG_BANNER" data-TrackType="initShow" data-singlemodule="1">
+<a data-recordTracker="1" href="" target="_blank" title="" data-ref="" data-advId="16149" data-ajax="1" data-nsf="1">
+<img alt="" src="images/blank.gif" data-advId="16149" data-ajax="1" shortimg="images/blank.gif" wideimg="images/blank.gif"/>
+</a>
+</div>
+<div id="needLazyLoad">
+<div class="wrap mod_index_floor clearfix" id="floorSx" data-tpa="YHD_NHOME_SXHG" lazyLoad_textarea="textareaFloorSx" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorSx">
+<div class="mod_floor_title shengxian" >
+<div data-tpc="1">
+<a title="进口" class="bt" target="_blank" href="list.html?/jinkou" data-tc="ad.0.0.16072-14649577.1" data-ref="16072_14649577_1">进口</a>
+<em class="dian"> • </em>
+<a title="海购" class="bt" target="_blank" href="list.html?/haigou" data-tc="ad.0.0.16072-25206008.2" data-ref="16072_25206008_2">海购</a>
+<a title="进口蜂蜜全球集市" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=1039" data-tc="ad.0.0.18661-27870002.1" data-ref="18661_27870002_1">
+<em></em>
+<div class="floor_subtitle">
+进口蜂蜜全球集市
+<i></i>
+<span>进口蜂蜜全球集市</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a title="进口酒" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v4-p1-price-d0-f0da-m1-rt0-pid-mid0-k%E8%BF%9B%E5%8F%A3%E9%85%92/" data-tc="ad.0.0.16074-25508396.1" data-ref="16074_25508396_1">进口酒</a>|
+<a title="进口冲饮" target="_blank" href="list.html?/c22841-0-81174/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16074-25508400.2" data-ref="16074_25508400_2">进口冲饮</a>|
+<a title="进口直采" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k1%E5%8F%B7%E7%9B%B4%E9%87%87/?ti=YYXM" data-tc="ad.0.0.16074-25508402.3" data-ref="16074_25508402_3">进口直采</a>|
+<a title="海购箱包" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v0-p1-price-d0-f0c-m1-rt0-pid-mid0-k海购箱包/" data-tc="ad.0.0.16074-25508417.4" data-ref="16074_25508417_4">海购箱包</a>|
+<a title="海购电器" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v0-p1-price-d0-f0c-m1-rt0-pid-mid0-k%E6%B5%B7%E8%B4%AD%E7%94%B5%E5%99%A8" data-tc="ad.0.0.16074-25508403.5" data-ref="16074_25508403_5">海购电器</a>|
+<a title="海购母婴" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v4-p1-price-d0-f0dc-m1-rt0-pid-mid0-k%E6%AF%8D%E5%A9%B4" data-tc="ad.0.0.16074-25508419.6" data-ref="16074_25508419_6">海购母婴</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a title="进口牛奶" target="_blank" href="list.html?/c22881-0-81279/" data-tc="ad.0.0.16073-20517543.1" data-ref="16073_20517543_1">进口牛奶</a>
+<a title="进口饼干" target="_blank" href="list.html?/c22887-0-81291/" data-tc="ad.0.0.16073-20518226.2" data-ref="16073_20518226_2">进口饼干</a>
+<a title="进口巧克力" target="_blank" href="list.html?/c33827-0-81091/b/a-s1-v0-p1-price-d0-f0-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16073-20518816.3" data-ref="16073_20518816_3">进口巧克力</a>
+<a title="进口坚果" target="_blank" href="list.html?/c33797-0-81144/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16073-20519107.4" data-ref="16073_20519107_4">进口坚果</a>
+<a title="进口咖啡" target="_blank" href="list.html?/c22846-0-81182/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16073-20519283.5" data-ref="16073_20519283_5">进口咖啡</a>
+<a title="进口粮油" target="_blank" href="list.html?/c22865-0-89427/" data-tc="ad.0.0.16073-20519284.6" data-ref="16073_20519284_6">进口粮油</a>
+</ul>
+<a title="进口粮油品类中心" data-tpc="4" data-advId="17622" data-ajax="1" class="pic" target="_blank" href="http://cms.yhd.com/sale/eFbQiuEEuXJ" data-recordTracker="1" data-tc="ad.0.0.17622-30685985.1" data-ref="17622_30685985_1" data-nsf="">
+<h3 class="shengxian_font">进口粮油品类中心</h3>
+<h4>进口粮油品类中心</h4>
+<img width="190" height="160" original="http://d9.yihaodianimg.com/N08/M08/D6/6D/ChEi1lbG9UWAX-T8AAA1HX43pDA98600.jpg" data-advId="17622" data-ajax="1" src="images/blank.gif" alt="进口粮油品类中心">
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="sxSliderIndexAd">
+<ul class="img_box clearfix" data-tpc="5">
+<a title="1号洋气女人节 2.29-3.8" data-advId="16076" data-ajax="0" data-ctpa="INDEX2_FLOORSX_LUNBO_PIC1" target="_blank" href="http://cms.yhd.com/sale/frvPooaPjto" data-recordTracker="1" data-tc="ad.0.0.16076-30914813.1" data-ref="16076_30914813_1" data-nsf="">
+<img width="330" height="360" data-advId="16076" data-ajax="0" src="images/blank.gif" original="http://d6.yihaodianimg.com/N08/M00/E0/5A/ChEi1FbP5IaAHRZ6AACefjpl6vs27500.jpg" alt="1号洋气女人节 2.29-3.8" >
+</a>
+<a title="1号酒会所" data-advId="16077" data-ajax="1" data-ctpa="INDEX2_FLOORSX_LUNBO_PIC2" target="_blank" href="http://cms.yhd.com/sale/rtoovvAUjtr" data-recordTracker="1" data-tc="ad.0.0.16077-29138476.1" data-ref="16077_29138476_1" data-nsf="">
+<img width="330" height="360" data-advId="16077" data-ajax="1" src="images/blank.gif" original="http://d9.yihaodianimg.com/N06/M0A/A4/5B/CgQIzlbLxXKAZ3eJAABd1sYWwsI41000.jpg" alt="1号酒会所" >
+</a>
+<a title="进口牛奶品类中心" data-advId="16078" data-ajax="0" data-ctpa="INDEX2_FLOORSX_LUNBO_PIC3" target="_blank" href="http://cms.yhd.com/sale/WsgBsBFbuj" data-recordTracker="1" data-tc="ad.0.0.16078-23537060.1" data-ref="16078_23537060_1" data-nsf="">
+<img width="330" height="360" data-advId="16078" data-ajax="0" src="images/blank.gif" original="http://d8.yihaodianimg.com/N10/M00/E7/D8/ChEi3FbT45SAJSomAAB3YIr7QPo79500.jpg" alt="进口牛奶品类中心" >
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="c_con" data-tpc="6">
+<a class="pic" title="美味零嘴3折起" target="_blank" href="http://cms.yhd.com/sale/gWnyEHiInj" data-recordTracker="1" data-tc="ad.0.0.17623-30433166.1" data-ref="17623_30433166_1">
+<h3>进口休闲零食中心</h3>
+<h4>美味零嘴3折起</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N07/M05/EA/BD/ChEbvFbNvfSAHdcoAAAcVF0mmso01300.jpg" src="images/blank.gif" alt="进口休闲零食中心">
+</a>
+<a class="pic" title="进口休闲零嘴" target="_blank" href="http://search.yhd.com/c0-0/k%25E8%2587%25AA%25E8%2590%25A5%25E6%25B8%2585%25E4%25BB%2593%25E7%2589%25B9%25E5%258D%2596/1/" data-recordTracker="1" data-tc="ad.0.0.17624-30783780.1" data-ref="17624_30783780_1">
+<h3>买1送1</h3>
+<h4>进口休闲零嘴</h4>
+<img width="190" height="110" original="http://d8.yihaodianimg.com/N10/M06/E0/45/ChEi3FbNvquAP6uxAAAOkLMG6z013800.jpg" src="images/blank.gif" alt="买1送1">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="范爷同款 78元两支" target="_blank" href="http://cms.yhd.com/sale/wLZXODdWByO" data-recordTracker="1" data-tc="ad.0.0.17625-30914892.1" data-ref="17625_30914892_1">
+<h3>COSME大赏 美护TOP榜</h3>
+<h4>范爷同款 78元两支</h4>
+<img width="190" height="290" original="http://d9.yihaodianimg.com/N08/M01/E3/FA/ChEi1lbTGzmAePe6AABH24jvTVk37900.jpg" src="images/blank.gif" alt="COSME大赏 美护TOP榜">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="让你的逼格直线UP" target="_blank" href="http://t.yhd.com/detailBrand/27164" data-recordTracker="1" data-tc="ad.0.0.17626-30365506.1" data-ref="17626_30365506_1">
+<h3>全球美颜好货来袭</h3>
+<h4>让你的逼格直线UP</h4>
+<img width="190" height="110" original="http://d8.yihaodianimg.com/N05/M07/11/D7/CgQI01bUGJWASTbVAAA2sLisaK810700.jpg" src="images/blank.gif" alt="全球美颜好货来袭">
+</a>
+<a class="pic" title="韩国宫廷御方 Whoo" target="_blank" href="http://s.yhd.com/channel/2" data-recordTracker="1" data-tc="ad.0.0.17627-30882129.1" data-ref="17627_30882129_1">
+<h3>全球闪购</h3>
+<h4>韩国宫廷御方 Whoo</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N08/M06/E4/51/ChEi1FbTvNGAYGs5AAA21arfZcg51900.jpg" src="images/blank.gif" alt="全球闪购">
+</a>
+</div>
+</textarea>
+</div>
+<!-- 通用楼层begin -->
+<div lazyLoad_textarea="textareaFloorCustom_INDEX2_FLOOR7" class="wrap mod_index_floor clearfix" data-tpa="YHD_NHOME_INDEX2_FLOOR7" id="floorCustom_INDEX2_FLOOR7" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorCustom_INDEX2_FLOOR7">
+<div class="mod_floor_title shengxian" >
+<div data-tpc="1">
+<a title="活色生鲜" class="bt" target="_blank" href="list.html?/fresh.html" data-tc="ad.0.0.16155-13764280.1" data-ref="16155_13764280_1">活色生鲜 </a>
+<a title="帮妈妈挑新鲜食材" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=1031" data-tc="ad.0.0.18666-27870003.1" data-ref="18666_27870003_1">
+<em></em>
+<div class="floor_subtitle">
+帮妈妈挑新鲜食材
+<i></i>
+<span>帮妈妈挑新鲜食材</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a title="票券礼券" target="_blank" href="list.html?/c5166-0-81738/" data-tc="ad.0.0.16157-27396142.1" data-ref="16157_27396142_1">票券礼券</a>|
+<a title="肉类熏腊" target="_blank" href="http://www.yhd.com/ctg/s2/vc4080" data-tc="ad.0.0.16157-27396143.2" data-ref="16157_27396143_2">肉类熏腊</a>|
+<a title="速冻食品" target="_blank" href="list.html?/c33624-0-81855/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16157-27396144.3" data-ref="16157_27396144_3">速冻食品</a>|
+<a title="低温乳品" target="_blank" href="list.html?/c33620-0-120355/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16157-27396146.4" data-ref="16157_27396146_4">低温乳品</a>|
+<a title="熟食方便菜" target="_blank" href="list.html?/c33625-0-81864/b/a-s1-v0-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16157-27396147.5" data-ref="16157_27396147_5">熟食方便菜</a>|
+<a title="烘焙甜品" target="_blank" href="list.html?/c36979-0-87690/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16157-27396148.6" data-ref="16157_27396148_6">烘焙甜品</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a title="1号生鲜" target="_blank" href="list.html?/c20947-0-81806/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16156-27396136.1" data-ref="16156_27396136_1">1号生鲜</a>
+<a title="新鲜水果" target="_blank" href="list.html?/c33618-0-98836" data-tc="ad.0.0.16156-27396135.2" data-ref="16156_27396135_2">新鲜水果</a>
+<a title="车厘子" target="_blank" href="http://search.yhd.com/c0-0/k%25E8%25BD%25A6%25E5%258E%2598%25E5%25AD%2590/3/" data-tc="ad.0.0.16156-27396137.3" data-ref="16156_27396137_3">车厘子</a>
+<a title="品质牛肉" target="_blank" href="list.html?/c33657-0-120348/b/a-s1-v0-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16156-27396139.4" data-ref="16156_27396139_4">品质牛肉</a>
+<a title="海鲜水产" target="_blank" href="list.html?/c33623-0-81841/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16156-27396140.5" data-ref="16156_27396140_5">海鲜水产</a>
+<a title="鲜活蛋类" target="_blank" href="list.html?/c33656-0-81834/b/a-s1-v0-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16156-27396141.6" data-ref="16156_27396141_6">鲜活蛋类</a>
+</ul>
+<a class="pic" title="活色生鲜 每天尝鲜" data-tpc="4" data-advId="17598" data-ajax="1" class="pic" target="_blank" href="http://cms.yhd.com/sale/139834" data-recordTracker="1" data-tc="ad.0.0.17598-29826282.1" data-ref="17598_29826282_1" data-nsf="">
+<h3 class="shengxian_font">活色生鲜 每天尝鲜</h3>
+<h4>活色生鲜 每天尝鲜</h4>
+<img width="190" height="180" original="http://d8.yihaodianimg.com/N06/M0B/98/18/CgQIzVa1ZKaAZVb5AABLBvoLeec89500.jpg" data-advId="17598" data-ajax="1" src="images/blank.gif" alt="活色生鲜 每天尝鲜">
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="customSliderIndexAd_INDEX2_FLOOR7">
+<ul class="img_box clearfix" data-tpc="5">
+<a title="女人节第二波2.29-3.8" data-advId="16159" data-ajax="0" data-ctpa="INDEX2_FLOOR7_LUNBO_PIC1" target="_blank" href="http://cms.yhd.com/sale/ZHycQQIguLO" data-recordTracker="1" data-tc="ad.0.0.16159-30849463.1" data-ref="16159_30849463_1" data-nsf="">
+<img width="330" height="360" data-advId="16159" data-ajax="0" src="images/blank.gif" original="http://d8.yihaodianimg.com/N10/M07/E4/65/ChEi3FbQG6SASnePAAB2fL5wuYU36000.jpg" alt="女人节第二波2.29-3.8" >
+</a>
+<a title="全场129-30" data-advId="16160" data-ajax="1" data-ctpa="INDEX2_FLOOR7_LUNBO_PIC2" target="_blank" href="list.html?/p/c0-b-a-s1-v0-p1-price-d0-pid46068854-pt1322833-pl1442020-m0?ti=FTD6" data-recordTracker="1" data-tc="ad.0.0.16160-31144477.1" data-ref="16160_31144477_1" data-nsf="">
+<img width="330" height="360" data-advId="16160" data-ajax="1" src="images/blank.gif" original="http://d6.yihaodianimg.com/N09/M04/E3/91/ChEi2VbTpAaAS9ejAABzzkGce5c05100.jpg" alt="全场129-30" >
+</a>
+<a title="生鲜-以肉换肉，年后甩肉" data-advId="16161" data-ajax="0" data-ctpa="INDEX2_FLOOR7_LUNBO_PIC3" target="_blank" href="http://cms.yhd.com/sale/xoqPohaPjdo" data-recordTracker="1" data-tc="ad.0.0.16161-31066016.1" data-ref="16161_31066016_1" data-nsf="">
+<img width="330" height="360" data-advId="16161" data-ajax="0" src="images/blank.gif" original="http://d8.yihaodianimg.com/N10/M09/E6/85/ChEi21bSvlOALRadAABywpKqLhE61800.jpg" alt="生鲜-以肉换肉，年后甩肉" >
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="c_con" data-tpc="6">
+<a class="pic" title="健康生活" target="_blank" href="http://cms.yhd.com/sale/wLPqCffkqyO" data-recordTracker="1" data-tc="ad.0.0.17599-30915056.1" data-ref="17599_30915056_1">
+<h3>车厘子错过等一年</h3>
+<h4>满两份减5元</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N06/M00/AA/FB/CgQIzVbQIt-APFEtAAAvqNkDYTk45400.jpg" src="images/blank.gif" alt="车厘子错过等一年">
+</a>
+<a class="pic" title="生鲜-美丽女人节" target="_blank" href="http://cms.yhd.com/sale/QjCXODdlBsC" data-recordTracker="1" data-tc="ad.0.0.17600-30915032.1" data-ref="17600_30915032_1">
+<h3>生鲜-美丽女人节</h3>
+<h4>3折起包邮</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N10/M06/D6/D2/ChEi2lbQH0CAA1GwAAAd4PU_QDE78100.jpg" src="images/blank.gif" alt="生鲜-美丽女人节">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="生鲜-生鲜排行榜" target="_blank" href="http://cms.yhd.com/sale/NXECfMJzfbJ" data-recordTracker="1" data-tc="ad.0.0.17601-30365381.1" data-ref="17601_30365381_1">
+<h3>生鲜排行榜 精品热销</h3>
+<h4>衢州椪柑10斤 19.8元</h4>
+<img width="190" height="290" original="http://d9.yihaodianimg.com/N06/M05/A6/53/CgQIzVbNdLGAOVZjAABuuUH7W2039500.jpg" src="images/blank.gif" alt="生鲜排行榜 精品热销">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="春暖花开 小女人" target="_blank" href="http://cms.yhd.com/sale/hiGPohGUjGM" data-recordTracker="1" data-tc="ad.0.0.17602-31144611.1" data-ref="17602_31144611_1">
+<h3>春暖花开 小女人</h3>
+<h4>哈根达斯享不停</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N06/M06/5B/5F/ChEbu1bT4Q-Ab0dBAAAnmGyGCRA30400.jpg" src="images/blank.gif" alt="春暖花开 小女人">
+</a>
+<a class="pic" title="春季上新蔬菜" target="_blank" href="list.html?/p/c0-b-a-s1-v0-p1-price-d0-pid9316550-pt1300801-pl1415521-m0" data-recordTracker="1" data-tc="ad.0.0.17603-30915077.1" data-ref="17603_30915077_1">
+<h3>春季上新蔬菜</h3>
+<h4>全场蔬菜 满￥29减￥5</h4>
+<img width="190" height="110" original="http://d8.yihaodianimg.com/N07/M0A/EF/01/ChEbvFbQJp6AcEqBAAApQlqOabE90500.jpg" src="images/blank.gif" alt="春季上新蔬菜">
+</a>
+</div>
+</textarea>
+</div>
+<!--通用楼层 end --> <div class="wrap mod_index_floor clearfix" id="floorFood" data-tpa="YHD_NHOME_FOOD" lazyLoad_textarea="textareaFloorFood" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorFood">
+<div class="mod_floor_title shipin">
+<div data-tpc="1">
+<a title="食品饮料" class="bt" target="_blank" href="http://www.yhd.com/ctg/s2/c36144-0-0/" data-tc="ad.0.0.16082-13661936.1" data-ref="16082_13661936_1">食品饮料</a>
+<a title="春季养肝茶，喝起！" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=1066" data-tc="ad.0.0.18662-27870005.1" data-ref="18662_27870005_1">
+<em></em>
+<div class="floor_subtitle">
+春季养肝茶，喝起！
+<i></i>
+<span>春季养肝茶，喝起！</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a title="咖啡" target="_blank" href="list.html?/c24729-0" data-tc="ad.0.0.16084-22234189.1" data-ref="16084_22234189_1">咖啡</a>|
+<a title="糖果巧克力" target="_blank" href="list.html?/c5143-0-81523/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=A18T" data-tc="ad.0.0.16084-20527913.2" data-ref="16084_20527913_2">糖果巧克力</a>|
+<a title="厨房调料" target="_blank" href="list.html?/c5154-0-81632/?ti=XF1V" data-tc="ad.0.0.16084-20527916.3" data-ref="16084_20527916_3">厨房调料</a>|
+<a title="方便速食" target="_blank" href="list.html?/c5156-0-81677/?ti=M1MP" data-tc="ad.0.0.16084-23917677.4" data-ref="16084_23917677_4">方便速食</a>|
+<a title="冲饮谷物" target="_blank" href="list.html?/c5148-0-81041/b/a100564-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16084-24168023.5" data-ref="16084_24168023_5">冲饮谷物</a>|
+<a title="饮料饮品" target="_blank" href="list.html?/c5138-0" data-tc="ad.0.0.16084-22234190.6" data-ref="16084_22234190_6">饮料饮品</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a title="饼干糕点" target="_blank" href="list.html?/c24728-0" data-tc="ad.0.0.16083-22234183.1" data-ref="16083_22234183_1">饼干糕点</a>
+<a title="休闲零食" target="_blank" href="list.html?/c5146-0" data-tc="ad.0.0.16083-22234184.2" data-ref="16083_22234184_2">休闲零食</a>
+<a title="粮油干货" target="_blank" href="list.html?/c5162-0" data-tc="ad.0.0.16083-22234185.3" data-ref="16083_22234185_3">粮油干货</a>
+<a title="国产名酒" target="_blank" href="list.html?/c5140-0-81016/b/a100564-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16083-26387427.4" data-ref="16083_26387427_4">国产名酒</a>
+<a title="牛奶乳品" target="_blank" href="list.html?/c5404-0" data-tc="ad.0.0.16083-22234187.5" data-ref="16083_22234187_5">牛奶乳品</a>
+<a title="保健滋补" target="_blank" href="list.html?/c8704-0" data-tc="ad.0.0.16083-22234188.6" data-ref="16083_22234188_6">保健滋补</a>
+</ul>
+<a title="低价抢购" class="pic" data-tpc="4" target="_blank" href="http://cms.yhd.com/sale/ZwwBBddbOO" data-advId="17616" data-nsf="" data-ajax="1" data-recordTracker="1" data-tc="ad.0.0.17616-30882151.1" data-ref="17616_30882151_1">
+<h3 class="shengxian_font">饮料乳品中心</h3>
+<h4>低价抢购</h4>
+<img width="190" height="180" original="http://d9.yihaodianimg.com/N05/M01/0B/50/CgQI01bO12-AOI4-AAA1YyafzSA08400.jpg" data-advId="17616" data-ajax="1" src="images/blank.gif" alt="饮料乳品中心">
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="foodSliderIndexAd">
+<ul class="img_box clearfix" data-tpc="5">
+<a href="http://cms.yhd.com/sale/ThGwTwTwTTM" data-advId="16086" data-ajax="0" data-ctpa="INDEX2_FLOORFOOD_LUNBO_PIC1" data-recordTracker="1" data-tc="ad.0.0.16086-30915007.1" data-ref="16086_30915007_1" title="女王vs小公举" target="_blank" data-nsf="">
+<img width="330" height="360" data-advId="16086" data-ajax="0" alt="女王vs小公举" src="images/blank.gif" original="http://d8.yihaodianimg.com/N08/M02/E1/72/ChEi1lbQHF2AfHEAAABafC0OB4s27800.jpg"/>
+</a>
+<a href="http://cms.yhd.com/sale/jCjCJtmzqjC" data-advId="16087" data-ajax="1" data-ctpa="INDEX2_FLOORFOOD_LUNBO_PIC2" data-recordTracker="1" data-tc="ad.0.0.16087-30882167.1" data-ref="16087_30882167_1" title="茶叶冲饮中心" target="_blank" data-nsf="">
+<img width="330" height="360" data-advId="16087" data-ajax="1" alt="茶叶冲饮中心" src="images/blank.gif" original="http://d7.yihaodianimg.com/N06/M0B/A9/C1/CgQIzlbO5zSAAU9WAACJFob-CME65800.jpg"/>
+</a>
+<a href="http://cms.yhd.com/sale/QgjcQcHcuQC" data-advId="16088" data-ajax="0" data-ctpa="INDEX2_FLOORFOOD_LUNBO_PIC3" data-recordTracker="1" data-tc="ad.0.0.16088-30816810.1" data-ref="16088_30816810_1" title="大牌游园会" target="_blank" data-nsf="">
+<img width="330" height="360" data-advId="16088" data-ajax="0" alt="零食促销抢不停" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M02/51/42/ChEbu1bMFd2AY3J2AAA7bmomu8Q97900.jpg"/>
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="c_con" data-tpc="6">
+<a class="pic" title="" target="_blank" href="" data-advId="17617" data-nsf="1" data-ajax="2" data-recordTracker="1" data-ref="">
+<h3></h3>
+<h4></h4>
+<img width="190" height="110" original="images/blank.gif" src="images/blank.gif" data-advId="17617" data-nsf="1" data-ajax="2" alt="">
+</a>
+<a class="pic" title="1号酒窖" target="_blank" href="http://cms.yhd.com/sale/109294" data-advId="17618" data-nsf="" data-ajax="2" data-recordTracker="1" data-tc="ad.0.0.17618-23772227.1" data-ref="17618_23772227_1">
+<h3>自营国酒</h3>
+<h4>真品真酒 一贵就赔</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N10/M0B/FE/F9/ChEi2lYwYlWADVVrAAA060O9UmI28400.jpg" src="images/blank.gif" data-advId="17618" data-nsf="" data-ajax="2" alt="自营国酒">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="3.8折起 满138减38" target="_blank" href="http://cms.yhd.com/sale/vdfcQcQIuvo" data-advId="17619" data-nsf="" data-ajax="0" data-recordTracker="1" data-tc="ad.0.0.17619-31066014.1" data-ref="17619_31066014_1">
+<h3>美食3.8折起 满138减38</h3>
+<h4>“惠吃” 更美丽</h4>
+<img width="190" height="290" original="http://d7.yihaodianimg.com/N09/M09/E3/2C/ChEi2VbSuzGAaSBlAABa58is1-I60200.jpg" src="images/blank.gif" data-advId="17619" data-nsf="" data-ajax="0" alt="美食3.8折起 满138减38">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="酒水饮料" target="_blank" href="list.html?/c36144-0" data-advId="17620" data-nsf="" data-ajax="2" data-recordTracker="1" data-tc="ad.0.0.17620-24167967.1" data-ref="17620_24167967_1">
+<h3>酒水饮料</h3>
+<h4>底价疯抢</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N07/M0B/CC/36/ChEbvFXMBV6AMfRmAAA4KdSqAhU55000.jpg" src="images/blank.gif" data-advId="17620" data-nsf="" data-ajax="2" alt="酒水饮料">
+</a>
+<a class="pic" title="送礼必备" target="_blank" href="list.html?/p/c8704-b-a-s1-v0-p1-price-d0-pid-pt1322668-pl1441717-m0-k" data-advId="17621" data-nsf="" data-ajax="2" data-recordTracker="1" data-tc="ad.0.0.17621-30915065.1" data-ref="17621_30915065_1">
+<h3>把爱给妈妈</h3>
+<h4>满138减38</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N07/M07/0B/99/CgQIz1bQJCWAaVQQAAAVfncxEBU60400.jpg" data-advId="17621" data-nsf="" data-ajax="2" src="images/blank.gif" alt="把爱给妈妈">
+</a>
+</div>
+</textarea>
+</div>
+<div class="wrap mod_index_floor clearfix" id="floorXh" data-tpa="YHD-NHOME-XHLC" lazyLoad_textarea="textareaFloorXh" style="height:594px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorXh">
+<div class="mod_floor_title xihu">
+<div data-tpc="1">
+<a title="个护厨卫" class="bt" target="_blank" href="http://market.yhd.com" data-tc="ad.0.0.16092-15985564.1" data-ref="16092_15985564_1">个护厨卫</a>
+<a title="厨房油污有绝招" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=908" data-tc="ad.0.0.18663-27870006.1" data-ref="18663_27870006_1">
+<em></em>
+<div class="floor_subtitle">
+厨房油污有绝招
+<i></i>
+<span>厨房油污有绝招</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a title="身体护理" target="_blank" href="list.html?/c7685-0-0/" data-tc="ad.0.0.16094-25508411.1" data-ref="16094_25508411_1">身体护理</a>|
+<a title="洗发护发" target="_blank" href="list.html?/c5064-0-0/" data-tc="ad.0.0.16094-25508410.2" data-ref="16094_25508410_2">洗发护发</a>|
+<a title="清洁工具" target="_blank" href="http://search.yhd.com/c0-0/k%25E6%25B8%2585%25E6%25B4%2581%25E5%25B7%25A5%25E5%2585%25B7/1/" data-tc="ad.0.0.16094-26856697.3" data-ref="16094_26856697_3">清洁工具</a>|
+<a title="纸品" target="_blank" href="list.html?/c5176-0-84546/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16094-21056859.4" data-ref="16094_21056859_4">纸品</a>|
+<a title="洗衣液" target="_blank" href="http://search.yhd.com/c0-0/k%25E6%25B4%2597%25E8%25A1%25A3%25E6%25B6%25B2/1/" data-tc="ad.0.0.16094-22714702.5" data-ref="16094_22714702_5">洗衣液</a>|
+<a title="威猛先生" target="_blank" href="http://search.yhd.com/c0-0/k%25E5%25A8%2581%25E7%258C%259B%25E5%2585%2588%25E7%2594%259F/1/" data-tc="ad.0.0.16094-30498789.6" data-ref="16094_30498789_6">威猛先生</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a title="洗发护发" target="_blank" href="http://search.yhd.com/c0-0/k%25E6%25B4%2597%25E5%258F%2591%25E6%258A%25A4%25E5%258F%2591/1/" data-tc="ad.0.0.16093-22391697.1" data-ref="16093_22391697_1">洗发护发</a>
+<a title="护手霜" target="_blank" href="list.html?/c7688-0-84494/b/a-s1-v0-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16093-22391701.2" data-ref="16093_22391701_2">护手霜</a>
+<a title="牙膏牙刷" target="_blank" href="list.html?/c5072-0-0/" data-tc="ad.0.0.16093-22391700.3" data-ref="16093_22391700_3">牙膏牙刷</a>
+<a title="纸品湿巾" target="_blank" href="list.html?/c5176-0-84546/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16093-22391937.4" data-ref="16093_22391937_4">纸品湿巾</a>
+<a title="衣物洗护" target="_blank" href="list.html?/c29561-0-84640/?ti=9VKD" data-tc="ad.0.0.16093-29482909.5" data-ref="16093_29482909_5">衣物洗护</a>
+<a title="家庭清洁" target="_blank" href="list.html?/c5183-0-84560/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16093-22391941.6" data-ref="16093_22391941_6">家庭清洁</a>
+</ul>
+<a title="遇见更美的自己" data-tpc="4" data-advId="17576" data-ajax="1" class="pic" target="_blank" href="http://cms.yhd.com/sale/dtlXWsFWBqo" data-recordTracker="1" data-tc="ad.0.20.17576-29483045.0" data-ref="17576_29483045_0" data-nsf="">
+<h3 class="xihu_font">0元购</h3>
+<h4>遇见更美的自己</h4>
+<img width="190" height="180" original="http://d6.yihaodianimg.com/N07/M09/4C/66/CgQI0FavBhSACV2QAAA9E-K4MEM39300.jpg" data-advId="17576" data-ajax="1" src="images/blank.gif" alt="0元购">
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="xhSliderIndexAd">
+<ul class="img_box clearfix" data-tpc="5">
+<a title="2.29-3.08厨卫满199减80" data-advId="16097" data-ajax="0" data-ctpa="INDEX2_FLOORXH_LUNBO_PIC1" target="_blank" href="http://cms.yhd.com/sale/vAdcQQcQIlo" data-recordTracker="1" data-tc="ad.0.0.16097-30987116.1" data-ref="16097_30987116_1" data-nsf="">
+<img width="330" height="360" data-advId="16097" data-ajax="0" src="images/blank.gif" original="http://d7.yihaodianimg.com/N05/M08/0F/3A/CgQI01bRrnqAJ8kTAACP0xw2wUg15400.jpg" alt="2.29-3.08厨卫满199减80" >
+</a>
+<a title="一次性用品" data-advId="16098" data-ajax="1" data-ctpa="INDEX2_FLOORXH_LUNBO_PIC2" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k%E4%B8%80%E6%AC%A1%E6%80%A7%E7%94%A8%E5%93%81/?ti=9185" data-recordTracker="1" data-tc="ad.0.0.16098-29482836.1" data-ref="16098_29482836_1" data-nsf="">
+<img width="330" height="360" data-advId="16098" data-ajax="1" src="images/blank.gif" original="http://d9.yihaodianimg.com/N08/M0B/CA/49/ChEi1lautlaAO5m_AAB81NsEvZU51600.jpg" alt="一次性用品" >
+</a>
+<a title="早春“洗”聚“惠”" data-advId="16099" data-ajax="0" data-ctpa="INDEX2_FLOORXH_LUNBO_PIC3" target="_blank" href="http://cms.yhd.com/sale/nuscQQyIusC" data-recordTracker="1" data-tc="ad.0.0.16099-30783898.1" data-ref="16099_30783898_1" data-nsf="">
+<img width="330" height="360" data-advId="16099" data-ajax="0" src="images/blank.gif" original="http://d8.yihaodianimg.com/N10/M04/CE/DD/ChEi2lbK3eaAELsaAACfZf7vw_445900.jpg" alt="早春“洗”聚“惠”" >
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="c_con" data-tpc="6">
+<a class="pic" title="1号纸品大团" target="_blank" href="http://t.yhd.com/detailBrand/27391" data-recordTracker="1" data-tc="ad.0.0.17579-30915199.1" data-ref="17579_30915199_1">
+<h3>1号纸品大团</h3>
+<h4>爆款3折起</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N05/M00/0D/CE/CgQI01bQToWAFRgjAAAfz_L6nAc08700.jpg" src="images/blank.gif" alt="1号纸品大团">
+</a>
+<a class="pic" title="换季衣物洗护团" target="_blank" href="http://t.yhd.com/detailBrand/27352?randNum=0.8641248429227839" data-recordTracker="1" data-tc="ad.0.0.17580-30915202.1" data-ref="17580_30915202_1">
+<h3>换季衣物洗护团</h3>
+<h4>爆品2.3折起</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N10/M00/C6/0E/ChEi3Famz0yAXF5WAAAdbf1u1Z015600.jpg" src="images/blank.gif" alt="换季衣物洗护团">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="满199减100送100元礼包" target="_blank" href="http://cms.yhd.com/sale/mXmqCCktfFJ" data-recordTracker="1" data-tc="ad.0.0.17582-30987087.1" data-ref="17582_30987087_1">
+<h3>专属妳的宠爱</h3>
+<h4>满199减100送100元礼包</h4>
+<img width="190" height="290" original="http://d9.yihaodianimg.com/N08/M01/E2/EE/ChEi1VbRjZ6ANL-cAABFYqDO8r822700.jpg" src="images/blank.gif" alt="专属妳的宠爱">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="满199减100送100元礼包" target="_blank" href="list.html?/p/c5072-b-a-s1-v0-p1-price-d0-pid-pt1331147-pl1451847-m0-k" data-tc="ad.0.0.17584-30987090.1" data-ref="17584_30987090_1">
+<h3>为口腔细节加分</h3>
+<h4>满199减100送100元礼包</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N06/M00/73/20/CgQIzVaR7jqAGlCiAAAuc8LwPbc88700.jpg" src="images/blank.gif" alt="为口腔细节加分">
+</a>
+</div>
+<div class="f_con clearfix" data-tpc="9">
+<div class="f1">
+<a title="爆款五折起" data-tpc="4" data-advId="17577" data-ajax="1" class="pic" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k%E5%AE%B6%E5%BA%AD%E6%B8%85%E6%B4%81/" data-recordTracker="1" data-tc="ad.0.20.17577-29482911.0" data-ref="17577_29482911_0" data-nsf="">
+<h3 class="xihu_font">厨卫清洁</h3>
+<h4>爆款五折起</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N08/M04/CA/57/ChEi1FauyDeAH38mAAATU-U7r2847000.jpg" data-advId="17577" data-ajax="1" src="images/blank.gif" alt="厨卫清洁">
+</a>
+</div>
+<div class="f2">
+<a class="pic2 clearfix" href="http://cms.yhd.com/sale/mJewTwRSnFJ" title="低价来袭" data-tc="ad.0.20.17578-30646743.0" data-ref="17578_30646743_0" target="_blank">
+<div class="fl">
+<h3>焕新妆 美丽新起点 </h3>
+<h4>1元领</h4>
+<em class="sale_txt">1元领</em>
+</div>
+<img width="130" height="166" alt="焕新妆 美丽新起点 " src="images/blank.gif" original="http://d7.yihaodianimg.com/N09/M0B/D3/4F/ChEi2FbFfmiALHFzAAAquyLrwOI00600.jpg"/>
+</a>
+</div>
+<div class="f3">
+<a class="pic" title="家庭清洁2.5折起" target="_blank" href="http://t.yhd.com/detailBrand/27409?randNum=0.6323526342558813" data-recordTracker="1" data-tc="ad.0.0.17581-30915203.1" data-ref="17581_30915203_1">
+<h3>家庭清洁2.5折起</h3>
+<h4>爱家天天消毒</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N08/M0A/E4/04/ChEi1FbTqnuAAqCLAAAjm2x6Oas80500.jpg" src="images/blank.gif" alt="家庭清洁2.5折起">
+</a>
+</div>
+<div class="f4">
+<a class="pic" title="满199减100送100元礼包" target="_blank" href="list.html?/p/c5077-b-a-s1-v0-p1-price-d0-pid-pt1331147-pl1451847-m0-k" data-recordTracker="1" data-tc="ad.0.0.17583-30987091.1" data-ref="17583_30987091_1">
+<h3>呵护妳心 </h3>
+<h4>满199减100送100元礼包</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N08/M06/CA/86/ChEi1lau16qAI8G-AAAlOj6L7zo50700.jpg" src="images/blank.gif" alt="呵护妳心 ">
+</a>
+</div>
+<div class="f5">
+<a class="pic" title="更多商品 积分+9.9元换购" target="_blank" href="http://cms.yhd.com/sale/vtowTRnpTto?ti=3EZZ" data-recordTracker="1" data-tc="ad.0.0.17585-30987092.1" data-ref="17585_30987092_1">
+<h3>0元起购</h3>
+<h4>更多商品 积分+9.9元换购</h4>
+<img width="190" height="290" original="http://d9.yihaodianimg.com/N07/M05/67/31/CgQI0FbUEvmAKy2uAABOc3bLZWo46500.jpg" src="images/blank.gif" alt="0元起购">
+</a>
+</div>
+</div>
+</textarea>
+</div>
+<!-- 通用楼层begin -->
+<div lazyLoad_textarea="textareaFloorCustom_INDEX2_FLOOR8" class="wrap mod_index_floor clearfix" data-tpa="YHD_NHOME_INDEX2_FLOOR8" id="floorCustom_INDEX2_FLOOR8" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorCustom_INDEX2_FLOOR8">
+<div class="mod_floor_title shengxian" >
+<div data-tpc="1">
+<a title="母婴玩具" class="bt" target="_blank" href="list.html?/baby.html" data-tc="ad.0.0.16165-18898997.1" data-ref="16165_18898997_1">母婴玩具 </a>
+<a title="宝贝辅食怎么加？" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=881" data-tc="ad.0.0.18667-27870008.1" data-ref="18667_27870008_1">
+<em></em>
+<div class="floor_subtitle">
+宝贝辅食怎么加？
+<i></i>
+<span>宝贝辅食怎么加？</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a title="宝宝洗衣液" target="_blank" href="list.html?/c35251-0-87052/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=R31Q" data-tc="ad.0.0.16167-27464369.1" data-ref="16167_27464369_1">宝宝洗衣液</a>|
+<a title="营养米粉" target="_blank" href="list.html?/c0-0-120307/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16167-27464370.2" data-ref="16167_27464370_2">营养米粉</a>|
+<a title="奶瓶奶嘴" target="_blank" href="http://search.yhd.com/c5989-0-86983/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k%E5%A5%B6%E7%93%B6%E5%A5%B6%E5%98%B4%7C/?ti=PJAN" data-tc="ad.0.0.16167-27464372.3" data-ref="16167_27464372_3">奶瓶奶嘴</a>|
+<a title="儿童玩具" target="_blank" href="list.html?/c17722-0-87247/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=W12J" data-tc="ad.0.0.16167-27464375.4" data-ref="16167_27464375_4">儿童玩具</a>|
+<a title="拉拉裤" target="_blank" href="list.html?/c31265-0-87070/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=4AUG" data-tc="ad.0.0.16167-27464377.5" data-ref="16167_27464377_5">拉拉裤</a>|
+<a title="营养品" target="_blank" href="list.html?/c5988-0-86972/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=Y7A4" data-tc="ad.0.0.16167-27464380.6" data-ref="16167_27464380_6">营养品</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a title="洗护清洁" target="_blank" href="list.html?/c5996-0-87018/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=UGFT" data-tc="ad.0.0.16166-27328375.1" data-ref="16166_27328375_1">洗护清洁</a>
+<a title="哺育喂养" target="_blank" href="list.html?/c5989-0-86983/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=QR4S" data-tc="ad.0.0.16166-27328377.2" data-ref="16166_27328377_2">哺育喂养</a>
+<a title="孕妈用品" target="_blank" href="list.html?/c6014-0-87073/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=DZPQ" data-tc="ad.0.0.16166-27328379.3" data-ref="16166_27328379_3">孕妈用品</a>
+<a title="儿童玩具" target="_blank" href="list.html?/c17722-0-87247/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=XQNC" data-tc="ad.0.0.16166-27328380.4" data-ref="16166_27328380_4">儿童玩具</a>
+<a title="辅食营养" target="_blank" href="list.html?/c5987-0-86965/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k/?ti=6VD5" data-tc="ad.0.0.16166-27328381.5" data-ref="16166_27328381_5">辅食营养</a>
+<a title="营养品" target="_blank" href="list.html?/c5988-0-86972/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/?ti=78WQ" data-tc="ad.0.0.16166-27328382.6" data-ref="16166_27328382_6">营养品</a>
+</ul>
+<a class="pic" title="1月元旦宝宝食品" data-tpc="4" data-advId="17604" data-ajax="1" class="pic" target="_blank" href="http://cms.yhd.com/sale/UFUQgiHIuam" data-recordTracker="1" data-tc="ad.0.0.17604-30433120.1" data-ref="17604_30433120_1" data-nsf="">
+<h3 class="shengxian_font">宝宝食品</h3>
+<h4>满188减80</h4>
+<img width="190" height="180" original="http://d6.yihaodianimg.com/N07/M04/DD/2A/ChEbvFbBNCSACLbWAABIjHj2gGk65500.jpg" data-advId="17604" data-ajax="1" src="images/blank.gif" alt="宝宝食品">
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="customSliderIndexAd_INDEX2_FLOOR8">
+<ul class="img_box clearfix" data-tpc="5">
+<a title="母婴春季约惠" data-advId="16169" data-ajax="0" data-ctpa="INDEX2_FLOOR8_LUNBO_PIC1" target="_blank" href="http://cms.yhd.com/sale/CjscQcEHIQj" data-recordTracker="1" data-tc="ad.0.0.16169-30783932.1" data-ref="16169_30783932_1" data-nsf="">
+<img width="330" height="360" data-advId="16169" data-ajax="0" src="images/blank.gif" original="http://d6.yihaodianimg.com/N05/M06/66/53/ChEbulbL9uGAT5KrAAB0mc3EPZk17800.jpg" alt="母婴春季约惠" >
+</a>
+<a title="玩具" data-advId="16170" data-ajax="1" data-ctpa="INDEX2_FLOOR8_LUNBO_PIC2" target="_blank" href="http://cms.yhd.com/sale/zYIQucEyuIS" data-recordTracker="1" data-tc="ad.0.0.16170-30574588.1" data-ref="16170_30574588_1" data-nsf="">
+<img width="330" height="360" data-advId="16170" data-ajax="1" src="images/blank.gif" original="http://d6.yihaodianimg.com/N08/M04/D2/AD/ChEi1FbERJyAeMbuAAB31RMAlXQ93200.jpg" alt="美猴王玩聚元宵" >
+</a>
+<a title="笛莎公主出游季" data-advId="16171" data-ajax="0" data-ctpa="INDEX2_FLOOR8_LUNBO_PIC3" target="_blank" href="http://s.yhd.com/list/32682" data-recordTracker="1" data-tc="ad.0.0.16171-30849418.1" data-ref="16171_30849418_1" data-nsf="">
+<img width="330" height="360" data-advId="16171" data-ajax="0" src="images/blank.gif" original="http://d7.yihaodianimg.com/N09/M04/DB/02/ChEi2FbNG_qAb8YEAABttWikmwk94000.jpg" alt="笛莎公主出游季" >
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="c_con" data-tpc="6">
+<a class="pic" title="纸尿裤中心" target="_blank" href="http://cms.yhd.com/sale/184005" data-recordTracker="1" data-tc="ad.0.0.17605-29758271.1" data-ref="17605_29758271_1">
+<h3>“裤”爽新春 乐抢好货</h3>
+<h4>纸尿裤中心</h4>
+<img width="190" height="110" original="http://d7.yihaodianimg.com/N10/M04/0D/31/ChEi2lY3OXqAW_YrAAAspXiEzmA00700.jpg" src="images/blank.gif" alt="“裤”爽新春 乐抢好货">
+</a>
+<a class="pic" title="奶粉中心" target="_blank" href="http://cms.yhd.com/sale/172245" data-recordTracker="1" data-tc="ad.0.0.17606-29758273.1" data-ref="17606_29758273_1">
+<h3>大牌奶粉喜迎新春</h3>
+<h4>猴宝携巨惠来袭</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N06/M03/ED/DA/CgQIzVY8SPOAAsfQAAApPiQPpNw93200.jpg" src="images/blank.gif" alt="大牌奶粉喜迎新春">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="玩具清仓迎新" target="_blank" href="http://cms.yhd.com/sale/zYIQucEyuIS?ti=1J32" data-recordTracker="1" data-tc="ad.0.0.17607-30783836.1" data-ref="17607_30783836_1">
+<h3>玩具清仓迎新</h3>
+<h4>任选2件6折 3件5折</h4>
+<img width="190" height="290" original="http://d6.yihaodianimg.com/N05/M06/10/49/CgQI01bTrUCAHraWAABB5zUyZGE98600.jpg" src="images/blank.gif" alt="玩具清仓迎新">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="乐孕孕产专场" target="_blank" href="http://t.yhd.com/detailBrand/26971?ti=6DAH" data-recordTracker="1" data-tc="ad.0.0.17608-30914987.1" data-ref="17608_30914987_1">
+<h3>乐孕孕产专场</h3>
+<h4>全场3.2折起 满138减10</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N05/M05/11/62/CgQI0lbQGDGAEK8BAAAZvBYIsco24000.jpg" src="images/blank.gif" alt="乐孕孕产专场">
+</a>
+<a class="pic" title="全场满4送1" target="_blank" href="http://s.yhd.com/list/32734?pc=1" data-recordTracker="1" data-tc="ad.0.0.17609-30849416.1" data-ref="17609_30849416_1">
+<h3>HOO旗舰店</h3>
+<h4>全场满4送1</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N09/M09/E3/AE/ChEi2FbTt4mAdPJOAAAvR-dTi7M67200.jpg" src="images/blank.gif" alt="HOO旗舰店">
+</a>
+</div>
+</textarea>
+</div>
+<!--通用楼层 end --><!-- 通用楼层begin -->
+<div lazyLoad_textarea="textareaFloorCustom_INDEX2_FLOOR9" class="wrap mod_index_floor clearfix" data-tpa="YHD_NHOME_INDEX2_FLOOR9" id="floorCustom_INDEX2_FLOOR9" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorCustom_INDEX2_FLOOR9">
+<div class="mod_floor_title shengxian" >
+<div data-tpc="1">
+<a title="家居馆" class="bt" target="_blank" href="list.html?/c950340-0-83112/" data-tc="ad.0.0.16175-15842287.1" data-ref="16175_15842287_1">家居馆 </a>
+<a title="新春客厅改造计划" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=937" data-tc="ad.0.0.18668-27870010.1" data-ref="18668_27870010_1">
+<em></em>
+<div class="floor_subtitle">
+新春客厅改造计划
+<i></i>
+<span>新春客厅改造计划</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a title="棉拖鞋" target="_blank" href="http://search.yhd.com/c20113-0-83314/b/a-s1-v0-p1-price-d0-f0-m1-rt0-pid-mid0-k%E6%A3%89%E6%8B%96%E9%9E%8B/" data-tc="ad.0.0.16177-27328408.1" data-ref="16177_27328408_1">棉拖鞋</a>|
+<a title="毛巾" target="_blank" href="http://search.yhd.com/c0-0/k%25E6%25AF%259B%25E5%25B7%25BE/1/" data-tc="ad.0.0.16177-26992070.2" data-ref="16177_26992070_2">毛巾</a>|
+<a title="晴雨伞" target="_blank" href="http://search.yhd.com/c0-0/k%E6%99%B4%E9%9B%A8%E4%BC%9E/1/?ti=XNBE" data-tc="ad.0.0.16177-27328411.3" data-ref="16177_27328411_3">晴雨伞</a>|
+<a title="防霾口罩" target="_blank" href="http://search.yhd.com/c0-0/k%25E9%2598%25B2%25E9%259C%25BE%25E5%258F%25A3%25E7%25BD%25A9/1/" data-tc="ad.0.0.16177-27734365.4" data-ref="16177_27734365_4">防霾口罩</a>|
+<a title="秋冬床品" target="_blank" href="http://search.yhd.com/c0-0/k%25E5%25BA%258A%25E4%25B8%258A%25E7%2594%25A8%25E5%2593%2581%257C/1/" data-tc="ad.0.0.16177-27328407.5" data-ref="16177_27328407_5">秋冬床品</a>|
+<a title="换季收纳" target="_blank" href="http://search.yhd.com/c0-0/k%25E6%2594%25B6%25E7%25BA%25B3/1/" data-tc="ad.0.0.16177-27328413.6" data-ref="16177_27328413_6">换季收纳</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a title="餐具水具" target="_blank" href="list.html?/c28758-0-83227/" data-tc="ad.0.0.16176-27396173.1" data-ref="16176_27396173_1">餐具水具</a>
+<a title="锅具厨具" target="_blank" href="http://search.yhd.com/c0-0/k%25E9%2594%2585%25E5%2585%25B7%25E5%258E%25A8%25E5%2585%25B7/1/" data-tc="ad.0.0.16176-27396174.2" data-ref="16176_27396174_2">锅具厨具</a>
+<a title="床上用品" target="_blank" href="http://search.yhd.com/c0-0/k%25E5%25BA%258A%25E4%25B8%258A%25E7%2594%25A8%25E5%2593%2581/1/" data-tc="ad.0.0.16176-27396181.3" data-ref="16176_27396181_3">床上用品</a>
+<a title="家纺布艺" target="_blank" href="list.html?/c950342-0-83313/" data-tc="ad.0.0.16176-25371830.4" data-ref="16176_25371830_4">家纺布艺</a>
+<a title="家装建材" target="_blank" href="http://search.yhd.com/c-/k%25E5%25AE%25B6%25E8%25A3%2585/1/" data-tc="ad.0.0.16176-27060191.5" data-ref="16176_27060191_5">家装建材</a>
+<a title="汽车用品" target="_blank" href="list.html?/c23926-0-0" data-tc="ad.0.0.16176-28321947.6" data-ref="16176_28321947_6">汽车用品</a>
+</ul>
+<a class="pic" title="除积碳 增动力" data-tpc="4" data-advId="17610" data-ajax="1" class="pic" target="_blank" href="http://search.yhd.com/c0-0/k%25E7%2587%2583%25E6%25B2%25B9%25E6%25B7%25BB%25E5%258A%25A0%25E5%2589%2582/1/" data-recordTracker="1" data-tc="ad.0.0.17610-29482831.1" data-ref="17610_29482831_1" data-nsf="">
+<h3 class="shengxian_font">除积碳 增动力</h3>
+<h4>保养必备</h4>
+<img width="190" height="180" original="http://d7.yihaodianimg.com/N10/M0B/AE/75/ChEi2ladkSOAQheYAABEtTdN3Ok13700.jpg" data-advId="17610" data-ajax="1" src="images/blank.gif" alt="除积碳 增动力">
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="customSliderIndexAd_INDEX2_FLOOR9">
+<ul class="img_box clearfix" data-tpc="5">
+<a title="2.29-3.8家居第二件二折" data-advId="16179" data-ajax="0" data-ctpa="INDEX2_FLOOR9_LUNBO_PIC1" target="_blank" href="http://cms.yhd.com/sale/mNbcQcEcuJJ" data-recordTracker="1" data-tc="ad.0.0.16179-31066039.1" data-ref="16179_31066039_1" data-nsf="">
+<img width="330" height="360" data-advId="16179" data-ajax="0" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M03/AE/52/CgQIzlbS_bGAMKfoAABwHVCiA2A66400.jpg" alt="2.29-3.8家居第二件二折" >
+</a>
+<a title="油联" data-advId="16180" data-ajax="1" data-ctpa="INDEX2_FLOOR9_LUNBO_PIC2" target="_blank" href="http://shop.yhd.com/m-140705.html?1456216265000=9959" data-recordTracker="1" data-tc="ad.0.0.16180-30816843.1" data-ref="16180_30816843_1" data-nsf="">
+<img width="330" height="360" data-advId="16180" data-ajax="1" src="images/blank.gif" original="http://d7.yihaodianimg.com/N06/M08/A4/46/CgQIzVbMF8mAX0xgAABUfYltthE10000.jpg" alt="油联" >
+</a>
+<a title="苏泊尔" data-advId="16181" data-ajax="0" data-ctpa="INDEX2_FLOOR9_LUNBO_PIC3" target="_blank" href="http://shop.yhd.com/m-197960.html" data-recordTracker="1" data-tc="ad.0.0.16181-30365387.1" data-ref="16181_30365387_1" data-nsf="">
+<img width="330" height="360" data-advId="16181" data-ajax="0" src="images/blank.gif" original="http://d7.yihaodianimg.com/N10/M04/CE/61/ChEi2lbKtRCALT5NAAB3a67UGoE90200.jpg" alt="苏泊尔" >
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="c_con" data-tpc="6">
+<a class="pic" title="品牌聚惠 好货不贵" target="_blank" href="http://cms.yhd.com/sale/EXJCMmtkfNJ" data-recordTracker="1" data-tc="ad.0.0.17611-31144705.1" data-ref="17611_31144705_1">
+<h3>家装一站购 </h3>
+<h4>品牌聚惠 好货不贵</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N08/M04/E5/1D/ChEi1FbT-KSAYQjSAAAgzjcrJzc88800.jpg" src="images/blank.gif" alt="家装一站购 ">
+</a>
+<a class="pic" title="前200名买即送" target="_blank" href="http://s.yhd.com/list/32745?ti=4EH7" data-recordTracker="1" data-tc="ad.0.0.17612-31144505.1" data-ref="17612_31144505_1">
+<h3>富安娜春季特卖</h3>
+<h4>前200名买即送</h4>
+<img width="190" height="110" original="http://d8.yihaodianimg.com/N08/M00/E5/AE/ChEi1FbUHI2AHCeCAAA7Org9bRU17400.jpg" src="images/blank.gif" alt="富安娜春季特卖">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="1元秒杀爆款" target="_blank" href="http://cms.yhd.com/sale/213043" data-recordTracker="1" data-tc="ad.0.0.17613-30816814.1" data-ref="17613_30816814_1">
+<h3>家纺布艺焕新季</h3>
+<h4>1元秒杀爆款</h4>
+<img width="190" height="290" original="http://d6.yihaodianimg.com/N09/M0B/DA/26/ChEi11bMEQqAH8vcAABJY_YUtws79300.jpg" src="images/blank.gif" alt="家纺布艺焕新季">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="苏泊尔 料理好帮手" target="_blank" href="http://cms.yhd.com/sale/dqlwTRxenAo" data-recordTracker="1" data-tc="ad.0.0.17614-31066095.1" data-ref="17614_31066095_1">
+<h3>苏泊尔 料理好帮手</h3>
+<h4>女人节优品专场</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N06/M02/5A/6A/ChEbu1bTCL6ALgMwAAA3IC0VXCk68300.jpg" src="images/blank.gif" alt="苏泊尔 料理好帮手">
+</a>
+<a class="pic" title="毛巾礼盒 钜惠任挑选" target="_blank" href="http://search.yhd.com/c0-0-0/b/a-s1-v4-p1-price-d0-f0d6-m1-rt0-pid-mid0-k%E6%AF%9B%E5%B7%BE%E7%A4%BC%E7%9B%92/?ti=RNTP" data-recordTracker="1" data-tc="ad.0.0.17615-31066102.1" data-ref="17615_31066102_1">
+<h3>毛巾礼盒 钜惠任挑选</h3>
+<h4>特惠宠爱女人节</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N07/M07/0E/0E/CgQIz1bTFfSAEIQWAAAzXvhSqSo66800.jpg" src="images/blank.gif" alt="毛巾礼盒 钜惠任挑选">
+</a>
+</div>
+</textarea>
+</div>
+<!--通用楼层 end --> <div class="wrap mod_index_floor clearfix" id="floorLbsg" data-tpa="YHD_NHOME_LBSG" lazyLoad_textarea="textareaFloorLbsg" style="height:594px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorLbsg">
+<div class="mod_floor_title fushi">
+<div data-tpc="1">
+<a class="bt" href="http://lady.yhd.com" data-tc="ad.0.0.16107-26386937.1" data-ref="16107_26386937_1" title="流行百货" target="_blank">流行百货</a>
+<a title="教你如何穿衣显瘦" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=865" data-tc="ad.0.0.18664-27870013.1" data-ref="18664_27870013_1">
+<em></em>
+<div class="floor_subtitle">
+教你如何穿衣显瘦
+<i></i>
+<span>教你如何穿衣显瘦</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a href="list.html?/c28115-0-90896/b/a-s1-v0-p1-price-d0-f0d-m1-rt0-pid-mid0-k" data-tc="ad.0.0.16109-24293727.1" data-ref="16109_24293727_1" title="新款连衣裙" target="_blank">新款连衣裙</a>
+|
+<a href="list.html?/c0-0-0/b/a106360,106363,0-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k%E5%A4%96%E5%A5%97/" data-tc="ad.0.0.16109-25508388.2" data-ref="16109_25508388_2" title="男女外套" target="_blank">男女外套</a>
+|
+<a href="http://search.yhd.com/c0-0/k%25E5%2586%2585%25E8%25A3%25A4/1/" data-tc="ad.0.0.16109-25508395.3" data-ref="16109_25508395_3" title="男女内裤" target="_blank">男女内裤</a>
+|
+<a href="http://search.yhd.com/c0-0/k%25E6%2598%25A5%25E6%25AC%25BE%25E5%25A5%25B3%25E9%259E%258B/1/" data-tc="ad.0.0.16109-25508374.4" data-ref="16109_25508374_4" title="春款女鞋" target="_blank">春款女鞋</a>
+|
+<a href="list.html?/c22993-0-90940/b/a146306-s1-v4-p1-price-d0-f0bd-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16109-26856583.5" data-ref="16109_26856583_5" title="女包新品" target="_blank">女包新品</a>
+|
+<a href="http://search.yhd.com/c0-0/k%25E5%2581%25A5%25E8%25BA%25AB/1/" data-tc="ad.0.0.16109-25508368.6" data-ref="16109_25508368_6" title="减脂健身" target="_blank">减脂健身</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a href="http://lady.yhd.com/?tc" data-tc="ad.0.0.16108-26386936.1" data-ref="16108_26386936_1" title="女装内衣" target="_blank">女装内衣</a>
+<a href="http://man.yhd.com/" data-tc="ad.0.0.16108-25508398.2" data-ref="16108_25508398_2" title="品质男装" target="_blank">品质男装</a>
+<a href="list.html?/c22906-0-84292/b/a-s1-v4-p1-price-d0-f0-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16108-25508401.3" data-ref="16108_25508401_3" title="大牌箱包" target="_blank">大牌箱包</a>
+<a href="http://sport.yhd.com/" data-tc="ad.0.0.16108-25508381.4" data-ref="16108_25508381_4" title="运动户外" target="_blank">运动户外</a>
+<a href="list.html?/c32258-0-84328/b/a-s1-v4-p1-price-d0-f0d-m1-rt0-pid-mid0-k/" data-tc="ad.0.0.16108-25508375.5" data-ref="16108_25508375_5" title="珠宝饰品" target="_blank">珠宝饰品</a>
+<a href="http://shoes.yhd.com" data-tc="ad.0.0.16108-23772178.6" data-ref="16108_23772178_6" title="男女鞋上新" target="_blank">男女鞋上新</a>
+</ul>
+<div class="brands" id="lbBrands">
+<div class="img_box">
+<ul data-tpc="4">
+<li>
+<a href="http://shop.yhd.com/m-37579.html" title="曼妮芬" data-tc="ad.0.0.16110-23577570.1" data-ref="16110_23577570_1" target="_blank">
+<img width="100" height="40" alt="曼妮芬" src="images/blank.gif" original="http://d8.yihaodianimg.com/N09/M07/D0/95/ChEi2VbCzKSAZAROAAANGCDCeSg43700.jpg"/>
+</a>
+<a href="http://search.yhd.com/c-/kcoach/1/" title="蔻驰" data-tc="ad.0.0.16110-25508358.2" data-ref="16110_25508358_2" target="_blank">
+<img width="100" height="40" alt="蔻驰" src="images/blank.gif" original="http://d7.yihaodianimg.com/N09/M0B/5E/4A/ChEi2FZc91aAHG6PAAALa0N0T8E42100.jpg"/>
+</a>
+<a href="http://s.yhd.com/list/32709" title="千百度" data-tc="ad.0.0.16110-31144607.3" data-ref="16110_31144607_3" target="_blank">
+<img width="100" height="40" alt="千百度" src="images/blank.gif" original="http://d6.yihaodianimg.com/N10/M03/E7/C4/ChEi3FbT3sSAaCjaAAAPVbjP7YE85900.jpg"/>
+</a>
+<a href="http://shop.yhd.com/m-25567.html" title="茵曼" data-tc="ad.0.0.16110-25780846.4" data-ref="16110_25780846_4" target="_blank">
+<img width="100" height="40" alt="茵曼" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M0B/54/37/ChEbu1bObA-AMM4CAAAYF_omTKY30600.jpg"/>
+</a>
+</li>
+<li>
+<a href="http://shop.yhd.com/m-46921.html" title="艾格" data-tc="ad.0.0.16110-28254436.5" data-ref="16110_28254436_5" target="_blank">
+<img width="100" height="40" alt="艾格" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M09/81/16/CgQIzlacSYqAVpMRAAAJGE2MM5I10200.jpg"/>
+</a>
+<a href="http://search.yhd.com/c0-0/k%25E5%25A4%25A9%25E6%25A2%25AD/1/" title="天梭" data-tc="ad.0.0.16110-27531350.6" data-ref="16110_27531350_6" target="_blank">
+<img width="100" height="40" alt="天梭" src="images/blank.gif" original="http://d7.yihaodianimg.com/N06/M06/E3/7E/CgQIzlW-4biAOP3YAAAQvpHsxRg50600.jpg"/>
+</a>
+<a href="http://s.yhd.com/list/32798?ti=97JU" title="真维斯" data-tc="ad.0.0.16110-30574491.7" data-ref="16110_30574491_7" target="_blank">
+<img width="100" height="40" alt="真维斯" src="images/blank.gif" original="http://d6.yihaodianimg.com/N07/M09/F2/F7/ChEbvFbUA8aAAnwWAAAXkP1RwQ442800.jpg"/>
+</a>
+<a href="list.html?/c34140-0-82148/knike|/" title="NIKE" data-tc="ad.0.0.16110-23917658.8" data-ref="16110_23917658_8" target="_blank">
+<img width="100" height="40" alt="NIKE" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M03/ED/F0/CgQIzlY8AG2AcoXWAAAG6aCP0Xo87100.jpg"/>
+</a>
+</li>
+</ul>
+</div>
+<a class="btn btn_prev" href="javascript:;"></a>
+<a class="btn btn_next" href="javascript:;"></a>
+</div>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="lbSliderIndexAd">
+<ul class="img_box clearfix" data-tpc="5">
+<a title="男装馆" data-advId="16112" data-ajax="0" data-ctpa="INDEX2_FLOORLB_LUNBO_PIC1" target="_blank" href="http://man.yhd.com/" data-recordTracker="1" data-tc="ad.0.0.16112-30783700.1" data-ref="16112_30783700_1" data-nsf="">
+<img width="330" height="360" data-advId="16112" data-ajax="0" src="images/blank.gif" original="http://d7.yihaodianimg.com/N10/M04/E8/73/ChEi21bUDUCAZWrdAACZ0thNTU805900.jpg" alt="男装馆" >
+</a>
+<a title="初语" data-advId="16113" data-ajax="1" data-ctpa="INDEX2_FLOORLB_LUNBO_PIC2" target="_blank" href="http://s.yhd.com/list/32639" data-recordTracker="1" data-tc="ad.0.0.16113-30646784.1" data-ref="16113_30646784_1" data-nsf="">
+<img width="330" height="360" data-advId="16113" data-ajax="1" src="images/blank.gif" original="http://d8.yihaodianimg.com/N08/M05/DE/35/ChEi1FbOoBKAAHTjAACNp0kT56486800.jpg" alt="初语" >
+</a>
+<a title="满199减100" data-advId="16114" data-ajax="0" data-ctpa="INDEX2_FLOORLB_LUNBO_PIC3" target="_blank" href="list.html?/p/c5010-b-a-s1-v0-p1-price-d0-pid-pt1331147-pl1451847-m0-k" data-recordTracker="1" data-tc="ad.0.0.16114-31065938.1" data-ref="16114_31065938_1" data-nsf="">
+<img width="330" height="360" data-advId="16114" data-ajax="0" src="images/blank.gif" original="http://d6.yihaodianimg.com/N09/M0B/E2/CD/ChEi2VbSY9uAQSJSAABpYrtWaZw81100.jpg" alt="满199减100" >
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="g_con" data-tpc="6">
+<a class="pic" title="春光乍现 新款 2.5折起" target="_blank" href="http://lady.yhd.com/" data-recordTracker="1" data-tc="ad.0.0.17588-30914751.1" data-ref="17588_30914751_1">
+<h3>时尚女装馆</h3>
+<h4>春光乍现 新款 2.5折起</h4>
+<img width="190" height="290" original="http://d7.yihaodianimg.com/N07/M0B/0A/C6/CgQIz1bP76-Aaaa_AAAzAML8sVs95400.jpg" src="images/blank.gif" alt="时尚女装馆">
+</a>
+</div>
+<div class="d_con" data-tpc="7">
+<a class="pic" title="新款上市 1折起" target="_blank" href="http://bag.yhd.com/?ti=TBFF" data-recordTracker="1" data-tc="ad.0.0.17590-30783915.1" data-ref="17590_30783915_1">
+<h3>箱包配饰馆</h3>
+<h4>新款上市 1折起</h4>
+<img width="190" height="290" original="http://d6.yihaodianimg.com/N09/M07/DB/1E/ChEi11bNFliAczzfAABR0hrD-kg10800.jpg" src="images/blank.gif" alt="箱包配饰馆">
+</a>
+</div>
+<div class="e_con" data-tpc="8">
+<a class="pic" title="满199减100" target="_blank" href="list.html?/p/c5082-b-a-s1-v0-p1-price-d0-pid-pt1331147-pl1451847-m0-k" data-recordTracker="1" data-tc="ad.0.0.17592-31066003.1" data-ref="17592_31066003_1">
+<h3>型男驾到</h3>
+<h4>满199减100</h4>
+<img width="190" height="110" original="http://d8.yihaodianimg.com/N05/M09/10/73/CgQI01bTtwyAXAu9AAA2hZkm2zI88900.jpg" src="images/blank.gif" alt="型男驾到">
+</a>
+</div>
+<div class="f_con clearfix" data-tpc="9">
+<div class="f1">
+<a class="pic" title="早春出游全场三折起" data-tpc="4" data-advId="17586" data-ajax="1" class="pic" target="_blank" href="http://shop.yhd.com/m-80463.html" data-recordTracker="1" data-tc="ad.0.0.17586-29482918.1" data-ref="17586_29482918_1" data-nsf="">
+<h3 class="fushi_font">李宁智能芯片跑步鞋</h3>
+<h4>早春出游全场三折起</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N06/M03/94/EE/CgQIzlauyjaAUux9AAAgHw5SvFw48400.jpg" data-advId="17586" data-ajax="1" src="images/blank.gif" alt="李宁智能芯片跑步鞋">
+</a>
+</div>
+<div class="f2">
+<a class="pic2 clearfix" href="http://shoes.yhd.com/" title="专柜大牌3折起" data-tc="ad.0.0.17587-29482936.1" data-ref="17587_29482936_1" target="_blank">
+<div class="fl">
+<h3>男女鞋靴馆</h3>
+<h4>专柜大牌3折起</h4>
+<em class="sale_txt">鞋靴精品99元起</em>
+</div>
+<img width="130" height="166" alt="男女鞋靴馆" src="images/blank.gif" original="http://d9.yihaodianimg.com/N09/M01/D3/E0/ChEi2VbFmT2ADq3jAAAQc29MdB413700.jpg"/>
+</a>
+</div>
+<div class="f3">
+<a class="pic" title="春上新3折起" target="_blank" href="http://sport.yhd.com/" data-recordTracker="1" data-tc="ad.0.0.17589-26250421.1" data-ref="17589_26250421_1">
+<h3>运动户外馆</h3>
+<h4>春上新3折起</h4>
+<img width="190" height="110" original="http://d9.yihaodianimg.com/N09/M06/DA/95/ChEi2VbMKySAY1VnAAA6AYYJqWQ50300.jpg" src="images/blank.gif" alt="运动户外馆">
+</a>
+</div>
+<div class="f4">
+<a class="pic" title="大牌全场2折起" target="_blank" href="http://bag.yhd.com/?ti=TX4G" data-recordTracker="1" data-tc="ad.0.0.17591-29690419.1" data-ref="17591_29690419_1">
+<h3>宠爱女人节</h3>
+<h4>大牌全场2折起</h4>
+<img width="190" height="110" original="http://d6.yihaodianimg.com/N07/M00/EF/15/ChEbvFbQM6yAR1HBAAAg05qKZ_I12800.jpg" src="images/blank.gif" alt="宠爱女人节">
+</a>
+</div>
+<div class="f5">
+<a class="pic" title="她们都在“妆”什么" target="_blank" href="http://cms.yhd.com/sale/QuRTRNRTTRj" data-recordTracker="1" data-tc="ad.0.0.17593-30816640.1" data-ref="17593_30816640_1">
+<h3>她们都在“妆”什么</h3>
+<h4>0元限量抢 爆款5折起</h4>
+<img width="190" height="290" original="http://d9.yihaodianimg.com/N05/M04/09/D1/CgQI0lbLuMWAMvH2AAAwUxBbSfE33700.jpg" src="images/blank.gif" alt="她们都在“妆”什么">
+</a>
+</div>
+</div>
+</textarea>
+</div>
+<div class="wrap mod_index_floor clearfix" id="floor3c" data-tpa="YHD_NHOME_3C" lazyLoad_textarea="textareaFloor3c" style="height:594px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloor3c">
+<div class="mod_floor_title shuma">
+<div data-tpc="1">
+<a class="bt" href="http://3c.yhd.com/1/" data-tc="ad.0.0.16123-15111329.1" data-ref="16123_15111329_1" title="手机家电" target="_blank">手机家电</a>
+<a title="游戏战场靠装备" class="floor_subtitle_wrap" target="_blank" href="list.html?/themeBuy.do?themeId=900" data-tc="ad.0.0.18665-27870014.1" data-ref="18665_27870014_1">
+<em></em>
+<div class="floor_subtitle">
+游戏战场靠装备
+<i></i>
+<span>游戏战场靠装备</span>
+</div>
+</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a href="http://search.yhd.com/c0-0/kMate8/?ti=H932" data-tc="ad.0.0.16125-31144511.1" data-ref="16125_31144511_1" title="华为Mate8" target="_blank">华为Mate8</a>
+|
+<a href="http://cms.yhd.com/sale/maeOBbXWbFm" data-tc="ad.0.0.16125-25508468.2" data-ref="16125_25508468_2" title="iPad" target="_blank">iPad</a>
+|
+<a href="list.html?/c21266-0-83899/b/a-s1-v4-p1-price-d0-f0d6b-m1-rt0-pid-mid0-k/?ti=UVG5" data-tc="ad.0.0.16125-28384310.3" data-ref="16125_28384310_3" title="家电直降特惠" target="_blank">家电直降特惠</a>
+|
+<a href="list.html?/c21394-0-84187/" data-tc="ad.0.0.16125-25508469.5" data-ref="16125_25508469_5" title="电脑配件" target="_blank">电脑配件</a>
+|
+<a href="http://search.yhd.com/c21347-%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA/b/a-s1-v0-p1-price-d0-f0-m1-rt0-pid-k%E5%8D%95%E5%8F%8D/1/" data-tc="ad.0.0.16125-20474744.6" data-ref="16125_20474744_6" title="单反" target="_blank">单反</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a href="list.html?/c23586-0-81436/" data-tc="ad.0.0.16124-25508471.1" data-ref="16124_25508471_1" title="手机" target="_blank">手机</a> <a href="http://cms.yhd.com/sale/zIMcrccguTM?ti=7U9P" data-tc="ad.0.0.16124-26051454.2" data-ref="16124_26051454_2" title="买手机送话费" target="_blank">买手机送话费</a> <a href="list.html?/c21991-0-91553/" data-tc="ad.0.0.16124-25508473.3" data-ref="16124_25508473_3" title="平板电脑" target="_blank">平板电脑</a> <a href="list.html?/c21266-0-83899/b/a-s1-v4-p1-price-d0-f0db-m1-rt0-pid-mid0-k/?ti=C4M4" data-tc="ad.0.0.16124-28254476.4" data-ref="16124_28254476_4" title="家电" target="_blank">家电</a> <a href="list.html?/c0-0-85877" data-tc="ad.0.0.16124-25508474.5" data-ref="16124_25508474_5" title="数码配件" target="_blank">数码配件</a> <a href="http://search.yhd.com/c-/k%25E5%258F%2596%25E6%259A%2596%25E5%2599%25A8/1/" data-tc="ad.0.0.16124-25508475.6" data-ref="16124_25508475_6" title="取暖器" target="_blank">取暖器</a>
+</ul>
+<a class="pic" href="http://cms.yhd.com/sale/EJboaahavaJ" data-tpc="4" data-advId="17594" data-ajax="1" data-recordTracker="1" data-tc="ad.0.0.17594-30849465.1" data-ref="17594_30849465_1" title="笔记本导购--选本攻略" target="_blank" data-nsf="">
+<h3 class="shuma_font">笔记本导购--选本攻略</h3>
+<h4>笔记本导购--选本攻略</h4>
+<img width="190" height="180" alt="笔记本导购--选本攻略" data-advId="17594" data-ajax="1" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M00/AA/01/CgQIzVbP52qAd-viAAAZeuVheAc02800.jpg"/>
+</a>
+</div>
+<div class="b_con">
+<div class="slider_index_ad" id="dqSliderIndexAd">
+<ul class="img_box clearfix" data-tpc="4">
+<a href="http://cms.yhd.com/sale/YpTqCfCmqpM" data-advId="16128" data-ajax="0" data-ctpa="INDEX2_FLOOR3C_LUNBO_PIC1" data-recordTracker="1" data-tc="ad.0.0.16128-31066093.1" data-ref="16128_31066093_1" title="最美女人“机”" target="_blank" data-nsf="">
+<img width="330" height="360" data-advId="16128" data-ajax="0" alt="最美女人“机”" src="images/blank.gif" original="http://d9.yihaodianimg.com/N09/M02/E3/63/ChEi2VbTBxyAcq2-AACXuT7UrYo37500.jpg"/>
+</a>
+<a href="http://cms.yhd.com/sale/hTYXODOdbIS" data-advId="16129" data-ajax="1" data-ctpa="INDEX2_FLOOR3C_LUNBO_PIC2" data-recordTracker="1" data-tc="ad.0.0.16129-30915001.1" data-ref="16129_30915001_1" title="我是女主角 赢取价值378元永生花 自营数码专场" target="_blank" data-nsf="">
+<img width="330" height="360" data-advId="16129" data-ajax="1" alt="我是女主角 赢取价值378元永生花 自营数码专场" src="images/blank.gif" original="http://d6.yihaodianimg.com/N08/M05/E1/6F/ChEi1lbQG5SAJVj1AABtnhpCmPk41500.jpg"/>
+</a>
+<a href="http://cms.yhd.com/sale/JaaTeReeTXJ" data-advId="16130" data-ajax="0" data-ctpa="INDEX2_FLOOR3C_LUNBO_PIC3" data-recordTracker="1" data-tc="ad.0.0.16130-30915234.1" data-ref="16130_30915234_1" title="小米PK华为" target="_blank" data-nsf="">
+<img width="330" height="360" data-advId="16130" data-ajax="0" alt="小米PK华为" src="images/blank.gif" original="http://d6.yihaodianimg.com/N09/M01/E1/45/ChEi2VbQYmuAcD-nAABQcX3aiJg70000.jpg"/>
+</a>
+</ul>
+<ul class="trig_box">
+<li class="clearfix">
+<a class="cur"><span></span></a>
+<a ><span></span></a>
+<a ><span></span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="j_con" data-tpc="5">
+<a class="pic" href="http://cms.yhd.com/sale/qotcQcHuutr" data-recordTracker="1" data-tc="ad.0.0.17595-30751299.1" title="猴年直降惠客" data-ref="17595_30751299_1" target="_blank">
+<h3>1号店 自营家电</h3>
+<h4>猴年直降惠客</h4>
+<img width="190" height="290" alt="1号店 自营家电" src="images/blank.gif" original="http://d8.yihaodianimg.com/N09/M01/D7/61/ChEi2FbJzCeAKY_uAAAiC5H0zeo20800.jpg"/>
+</a>
+</div>
+<div class="c_con i_con pro_con" data-tpc="6">
+<a href="http://search.yhd.com/c0-0/k%25E4%25B8%2589%25E6%2598%259F%25E6%2589%258B%25E6%259C%25BA/1/" data-tc="ad.0.0.16134-27801922.1" data-ref="16134_27801922_1" title="三星 Galaxy Note5 就比京东低" target="_blank">
+<img width="120" height="120" alt="三星 Galaxy Note5 就比京东低" src="images/blank.gif" original="http://d8.yihaodianimg.com/N05/M00/39/CE/ChEbulYIrmaAciGPAATvIYWcPcg53501_120x120.jpg"/>
+<p class="p1">三星 Galaxy Note5 就比京东低</p>
+<p class="p2" productId="46769374">¥ 4338.0</p>
+</a>
+<a href="http://search.yhd.com/c0-0/k%25E9%25A3%259E%25E7%25A7%2591%25E5%2589%2583%25E9%25A1%25BB%25E5%2588%2580/1/" data-tc="ad.0.0.16134-30849633.2" data-ref="16134_30849633_2" title="Flyco 飞科 男士三刀头电动剃须刀" target="_blank">
+<img width="120" height="120" alt="Flyco 飞科 男士三刀头电动剃须刀" src="images/blank.gif" original="http://d6.yihaodianimg.com/V00/M08/F2/52/CgQDsFR8NCSATD7NAAVAKspfnio76101_120x120.jpg"/>
+<p class="p1">Flyco 飞科 男士三刀头电动剃须刀</p>
+<p class="p2" productId="27166906">¥ 89.0</p>
+</a>
+</div>
+<div class="e_con pro_con" data-tpc="7">
+<a href="http://www.yhd.com/ctg/c27168-%E8%B4%AD%E6%9C%BA%E9%80%81%E8%B4%B9" data-tc="ad.0.0.16135-25644852.1" data-ref="16135_25644852_1" title="【购机赠费】iPhone 6s 64G 金" target="_blank">
+<img width="120" height="120" alt="【购机赠费】iPhone 6s 64G 金" src="images/blank.gif" original="http://d7.yihaodianimg.com/N06/M05/84/CF/CgQIzVYWNMyAQpcHAADmpK5IoME86901_120x120.jpg"/>
+<p class="p1">【购机赠费】iPhone 6s 64G 金</p>
+<p class="p2" productId="46444698">¥ 5558.0</p>
+</a>
+<a href="list.html?/c21304-0-83960/?ti=AXP3" data-tc="ad.0.0.16135-29552189.2" data-ref="16135_29552189_2" title="松下 电吹风 1200w" target="_blank">
+<img width="120" height="120" alt="松下 电吹风 1200w" src="images/blank.gif" original="http://d6.yihaodianimg.com/N01/M09/D7/34/CgQCrVJblvWASNWIAAEfdwK2K_Y47301_120x120.jpg"/>
+<p class="p1">松下 电吹风 1200w</p>
+<p class="p2" productId="1055488">¥ 99.0</p>
+</a>
+</div>
+<div class="f_con clearfix" data-tpc="8">
+<div class="f1">
+<p class="eq_tit">1号店电器独家权益</p>
+<div class="ad_pic clearfix">
+<a href="http://cms.yhd.com/cmsPage/show.do?pageId=135423" data-recordTracker="1" data-tc="ad.0.0.16127-28254471.1" title="CE就比京东低综合页面" data-ref="16127_28254471_1" target="_blank">
+<img width="100" height="140" alt="CE就比京东低综合页面" src="images/blank.gif" original="http://d9.yihaodianimg.com/N05/M04/12/75/CgQI01S0fqSAPEJaAAAUc_MNtWA13600.jpg"/>
+</a>
+<a href="http://my.yhd.com/oldfornew/oldfornewIndex.do" data-recordTracker="1" data-tc="ad.0.0.16127-14042175.2" title="以旧换新" data-ref="16127_14042175_2" target="_blank">
+<img width="100" height="140" alt="以旧换新" src="images/blank.gif" original="http://d7.yihaodianimg.com/N06/M03/B0/65/CgQIzVS0frqAOF2PAAAY6qDXZbc84000.jpg"/>
+</a>
+</div>
+</div>
+<div class="f2">
+<a class="pic2 clearfix" href="http://cms.yhd.com/sale/JaaTeReeTXJ" title="小米PK华为" data-tc="ad.0.0.17596-30915239.1" data-ref="17596_30915239_1" target="_blank">
+<div class="fl">
+<h3>小米PK华为</h3>
+<h4>手机电脑拼速</h4>
+<em class="sale_txt">荣耀5X1099元</em>
+</div>
+<img width="130" height="166" alt="小米PK华为" src="images/blank.gif" original="http://d7.yihaodianimg.com/N05/M05/0D/DE/CgQI01bQZPuAbtRiAAAYtGpxhFY92700.jpg"/>
+</a>
+</div>
+<div class="f3 pro_con">
+<a href="http://cms.yhd.com/sale/maeOBbXWbFm?ti=QXTT" data-tc="ad.0.0.16133-25508480.1" data-ref="16133_25508480_1" title="Apple 苹果 iPad特惠" target="_blank">
+<img width="120" height="120" alt="Apple 苹果 iPad特惠" src="images/blank.gif" original="http://d6.yihaodianimg.com/N00/M07/E7/FD/CgMBmFJuF8WAI7VZAABVr5IDrZA58201_120x120.jpg"/>
+<p class="p1">Apple 苹果 iPad特惠</p>
+<p class="p2" productId="14964792">¥ 2238.0</p>
+</a>
+</div>
+<div class="f4 pro_con">
+<a href="http://search.yhd.com/c0-0/kthinkpad/1/" data-tc="ad.0.0.16133-30816824.2" data-ref="16133_30816824_2" title="联想 ThinkPad X250" target="_blank">
+<img width="120" height="120" alt="联想 ThinkPad X250" src="images/blank.gif" original="http://d6.yihaodianimg.com/N05/M05/D0/AA/ChEbulXTATyARv-tAAPUQ2nVmSk99001_120x120.jpg"/>
+<p class="p1">联想 ThinkPad X250</p>
+<p class="p2" productId="45431806">¥ 4688.0</p>
+</a>
+</div>
+<div class="f6 pro_con">
+<a href="http://search.yhd.com/c0-0/kkindle/1/" data-tc="ad.0.0.16133-30914722.3" data-ref="16133_30914722_3" title="阅读神器买kindle送皮套" target="_blank">
+<img width="120" height="120" alt="阅读神器买kindle送皮套" src="images/blank.gif" original="http://d8.yihaodianimg.com/N05/M03/53/C7/ChEbulWKdHqAbboFAAIPnuhUY5Q67001_120x120.jpg"/>
+<p class="p1">阅读神器买kindle送皮套</p>
+<p class="p2" productId="43259536">¥ 958.0</p>
+</a>
+</div>
+</div>
+</textarea>
+</div>
+<div class="wrap mod_index_floor mod_tuangou_floor clearfix" id="floorGroup" data-tpa="YHD_NHOME_TUAN" lazyLoad_textarea="textareaFloorGroup" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorGroup">
+<div class="mod_floor_title tuangou">
+<div data-tpc="1">
+<a class="bt" href="http://t.yhd.com" title="1号团" data-tc="ad.0.0.16136-25508426.1" data-ref="16136_25508426_1" target="_blank">1号团</a>
+</div>
+<div class="keyword" data-tpc="2">
+<a href="http://t.yhd.com/100-0-2035-1-1.html" title="大牌纸尿裤" data-tc="ad.0.0.16138-30498790.1" data-ref="16138_30498790_1" target="_blank">大牌纸尿裤</a>
+|
+<a href="http://t.yhd.com/100-0-2046-1-1.html" title="新鲜水果" data-tc="ad.0.0.16138-30498791.2" data-ref="16138_30498791_2" target="_blank">新鲜水果</a>
+|
+<a href="http://t.yhd.com/100-0-2003-1-1.html" title="进口牛奶" data-tc="ad.0.0.16138-30498792.3" data-ref="16138_30498792_3" target="_blank">进口牛奶</a>
+|
+<a href="http://t.yhd.com/100-0-2012-1-1.html" title="iPhone疯抢" data-tc="ad.0.0.16138-30498808.4" data-ref="16138_30498808_4" target="_blank">iPhone疯抢</a>
+|
+<a href="http://t.yhd.com/100-0-2008-1-1.html" title="个人护理" data-tc="ad.0.0.16138-30498815.5" data-ref="16138_30498815_5" target="_blank">个人护理</a>
+|
+<a href="http://t.yhd.com/100-0-2013-1-1.html" title="生活电器" data-tc="ad.0.0.16138-30498816.6" data-ref="16138_30498816_6" target="_blank">生活电器</a>
+</div>
+</div>
+<div class="a_con">
+<ul class="tag clearfix" data-tpc="3">
+<a href="http://t.yhd.com/100-0-2003-1-1.html" data-tc="ad.0.0.16137-30498500.1" data-ref="16137_30498500_1" title="进口食品" target="_blank">进口食品</a> <a href="http://t.yhd.com/100-0-2002-1-1.html" data-tc="ad.0.0.16137-30498502.2" data-ref="16137_30498502_2" title="美食保健" target="_blank">美食保健</a> <a href="http://t.yhd.com/100-0-2033-1-1.html" data-tc="ad.0.0.16137-30498549.3" data-ref="16137_30498549_3" title="家居日用" target="_blank">家居日用</a> <a href="http://t.yhd.com/100-0-2048-1-1.html" data-tc="ad.0.0.16137-30498556.4" data-ref="16137_30498556_4" title="美妆护肤" target="_blank">美妆护肤</a> <a href="http://t.yhd.com/100-0-2005-1-1.html" data-tc="ad.0.0.16137-30498559.5" data-ref="16137_30498559_5" title="精品女装" target="_blank">精品女装</a> <a href="http://t.yhd.com/100-0-2012-1-1.html" data-tc="ad.0.0.16137-30498561.6" data-ref="16137_30498561_6" title="手机数码" target="_blank">手机数码</a>
+</ul>
+<a class="pic" title="2.29个护冲锋预热" data-tpc="4" data-advId="17597" data-ajax="1" class="pic" target="_blank" href="http://cms.yhd.com/sale/aUXXOXlBBNJ" data-recordTracker="1" data-tc="ad.0.0.17597-30914870.1" data-ref="17597_30914870_1" data-nsf="">
+<h3 class="tuangou_font">洗护冲锋日抢免单</h3>
+<h4>满199减100送100！</h4>
+<img width="190" height="180" original="http://d6.yihaodianimg.com/N06/M07/57/66/ChEbu1bP-xWABPCpAABHxmwFrrQ67900.jpg" data-advId="17597" data-ajax="1" src="images/blank.gif" alt="洗护冲锋日抢免单">
+</a>
+</div>
+<div class="k_con" data-tpc="5">
+<a href="http://t.yhd.com/100-0-2005-1-1.html" data-grouponBrandId="27072" title="雅可希春上新" data-tc="ad.0.0.16140-30882072.1" data-ref="16140_30882072_1" target="_blank">
+<img width="330" height="180" alt="雅可希春上新" src="images/blank.gif" original="http://d7.yihaodianimg.com/N09/M0A/DD/BD/ChEi2VbOm4OADZO-AABsMoPk79007100.jpg"/>
+</a>
+<a href="http://t.yhd.com/100-0-2002-1-1.html" data-grouponBrandId="27301" title="百草味品牌团" data-tc="ad.0.0.16140-30882071.2" data-ref="16140_30882071_2" target="_blank">
+<img width="330" height="180" alt="百草味品牌团" src="images/blank.gif" original="http://d8.yihaodianimg.com/N05/M08/0E/92/CgQI0lbOqQuAVIADAAB0pgyIvXc57500.jpg"/>
+</a>
+</div>
+<div class="c_con pro_con" data-tpc="6">
+<a href="http://t.yhd.com/100-0-2048-1-1.html" title="薇诺娜WINONA 清痘控油消印套装（洁面泡沫50ml+爽肤水30ml+清颜霜15g+清痘精华12g）" data-tc="ad.0.0.16325-30882096.1" data-ref="16325_30882096_1" target="_blank">
+<img alt="薇诺娜WINONA 清痘控油消印套装（洁面泡沫50ml+爽肤水30ml+清颜霜15g+清痘精华12g）" src="images/blank.gif" original="http://d6.yihaodianimg.com/N05/M03/0E/D8/CgQI0lbOt0mALKQmAAFPXJvQCho56200_120x120.jpg"/>
+<p class="p1">薇诺娜WINONA 清痘控油消印套装（洁面泡沫50ml+爽肤水30ml+清颜霜15g+清痘精华12g）</p>
+<p class="p_box clearfix" data-grouponId="2732315">¥ 149.0</p>
+</a>
+<a href="http://t.yhd.com/100-0-2033-1-1.html" title="Midea 美的炒锅CL28J1 28cm 不粘锅家用煎锅炒锅无油烟电磁炉通用" data-tc="ad.0.0.16325-30882138.2" data-ref="16325_30882138_2" target="_blank">
+<img alt="Midea 美的炒锅CL28J1 28cm 不粘锅家用煎锅炒锅无油烟电磁炉通用" src="images/blank.gif" original="http://d9.yihaodianimg.com/N10/M01/E1/D5/ChEi21bOxGGAKm_TAADofF0QtzQ02500_120x120.jpg"/>
+<p class="p1">Midea 美的炒锅CL28J1 28cm 不粘锅家用煎锅炒锅无油烟电磁炉通用</p>
+<p class="p_box clearfix" data-grouponId="2717407">¥ 169.0</p>
+</a>
+</div>
+<div class="c_con i_con pro_con" data-tpc="7">
+<a href="http://t.yhd.com/100-0-2051-1-1.html" title="P.kuone/皮客优一 男士胸包休闲斜跨男包多功能帆布户外腰包P750583" data-tc="ad.0.0.16325-30882060.3" data-ref="16325_30882060_3" target="_blank">
+<img alt="P.kuone/皮客优一 男士胸包休闲斜跨男包多功能帆布户外腰包P750583" src="images/blank.gif" original="http://d7.yihaodianimg.com/N10/M06/E0/90/ChEi3FbOZWmAYL71AAFfXGblJc821800_120x120.jpg"/>
+<p class="p1">P.kuone/皮客优一 男士胸包休闲斜跨男包多功能帆布户外腰包P750583</p>
+<p class="p_box clearfix" data-grouponId="2696616">¥ 89.0</p>
+</a>
+<a href="detail.html?53938012" title="Apple 苹果 iPhone 6s (A1700) 64G 玫瑰金色 移动联通电信4G 全网通手机" data-tc="ad.0.0.16325-31117742.4" data-ref="16325_31117742_4" target="_blank">
+<img alt="Apple 苹果 iPhone 6s (A1700) 64G 玫瑰金色 移动联通电信4G 全网通手机" src="images/blank.gif" original="http://d9.yihaodianimg.com/N09/M02/A1/05/ChEi11YDoDKAL5laAACMbiZcATs39901_120x120.jpg"/>
+<p class="p1">Apple 苹果 iPhone 6s (A1700) 64G 玫瑰金色 移动联通电信4G 全网通手机</p>
+<p class="p2" productId="46329217">¥ 5588.0</p>
+</a>
+</div>
+<div class="e_con pro_con" data-tpc="8">
+<a href="detail.html?56683234" title="新新人 【新品买一送一】酵素 果蔬酵素 台湾进口酵素粉 6g*20袋" data-tc="ad.0.0.16325-31117745.5" data-ref="16325_31117745_5" target="_blank">
+<img alt="新新人 【新品买一送一】酵素 果蔬酵素 台湾进口酵素粉 6g*20袋" src="images/blank.gif" original="http://d9.yihaodianimg.com/N08/M00/50/F4/ChEi1FZVf0yAb0kMAAKMWDmm9sE55400_120x120.jpg"/>
+<p class="p1">新新人 【新品买一送一】酵素 果蔬酵素 台湾进口酵素粉 6g*20袋</p>
+<p class="p2" productId="48784110">¥ 138.0</p>
+</a>
+<a href="http://t.yhd.com/100-0-2035-1-1.html" title="雀巢 Nestle 能恩幼儿配方奶粉900g 3段（1-3岁） 详情为新老包装 新包装发货" data-tc="ad.0.0.16325-30882074.6" data-ref="16325_30882074_6" target="_blank">
+<img alt="雀巢 Nestle 能恩幼儿配方奶粉900g 3段（1-3岁） 详情为新老包装 新包装发货" src="images/blank.gif" original="http://d7.yihaodianimg.com/N10/M08/D0/F5/ChEi21YYt6-AMMrrAAM4Zk75Uss45500_120x120.jpg"/>
+<p class="p1">雀巢 Nestle 能恩幼儿配方奶粉900g 3段（1-3岁） 详情为新老包装 新包装发货</p>
+<p class="p_box clearfix" data-grouponId="2699720">¥ 154.0</p>
+</a>
+</div>
+</textarea>
+</div>
+<div class="wrap mod_index_floor clearfix" id="floorShan" data-tpa="YHD_NHOME_SHAN" lazyLoad_textarea="textareaFloorShan" style="height:414px">
+<textarea style="display:none;" autocomplete="off" id="textareaFloorShan">
+<div class="mod_floor_title shangou clearfix">
+<a class="bt" href="http://s.yhd.com/" title="闪购" data-tc="ad.0.0.16326-27599620.1" data-ref="16326_27599620_1" target="_blank">闪购</a>
+<div class="update_time">
+<a href="http://s.yhd.com" title="品牌点亮生活，每天十点上新" data-tc="ad.0.0.16328-15061153.1" data-ref="16328_15061153_1" target="_blank">品牌点亮生活，每天十点上新</a>
+</div>
+</div>
+<!--tab begin -->
+<div class="sgwrap">
+<div class="sg_tab">
+<em class="tab_arrow"></em>
+<ul class="clearfix">
+<li class="cur"><a href="http://s.yhd.com" target="_blank">大牌推荐</a></li>
+<li ><a href="http://s.yhd.com/new" target="_blank">销售排行</a></li>
+<li ><a href="http://s.yhd.com" target="_blank">最后疯抢</a></li>
+</ul>
+</div>
+<div class="sg_tabwrap">
+<div class="sg_tabcontent clearfix">
+<div class="sg_banner sg_big">
+<a href="http://cms.yhd.com/sale/IhTwTRenTiM" title="宠爱女人节 珠宝配饰专场2折起" data-recordTracker="1" data-tc="ad.0.0.16329-30915009.1" data-ref="16329_30915009_1" target="_blank">
+<img alt="宠爱女人节 珠宝配饰专场2折起" src="images/blank.gif" original="http://d8.yihaodianimg.com/N07/M0B/62/DE/CgQI0FbQHIiAARXxAADeBL1FTm893700.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32268" data-shanActivityId="32268" title="瑞士军刀开学季" data-tc="ad.0.0.16330-30816799.1" data-ref="16330_30816799_1" target="_blank">
+<img alt="瑞士军刀开学季" src="images/blank.gif" original="http://d6.yihaodianimg.com/N09/M02/DF/DD/ChEi2FbP6ReAAdlhAAB-5K0GEoY84400.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32682" data-shanActivityId="32682" title="笛莎公主出游季" data-tc="ad.0.0.16330-30915047.2" data-ref="16330_30915047_2" target="_blank">
+<img alt="笛莎公主出游季" src="images/blank.gif" original="http://d6.yihaodianimg.com/N09/M01/E0/CC/ChEi2FbQIVmAfGtjAADFgctVZDI65700.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://cms.yhd.com/sale/ldtqCfLffdr" title="宠爱她，呵护她 大牌美护9.9元起" data-tc="ad.0.0.16330-30915151.3" data-ref="16330_30915151_3" target="_blank">
+<img alt="宠爱她，呵护她 大牌美护9.9元起" src="images/blank.gif" original="http://d9.yihaodianimg.com/N09/M02/E0/EE/ChEi2FbQM4-Aez3eAAC6PPuS_7M06900.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32662" data-shanActivityId="32662" title="新百伦 春季焕新季" data-tc="ad.0.0.16330-30915114.4" data-ref="16330_30915114_4" target="_blank">
+<img alt="新百伦 春季焕新季" src="images/blank.gif" original="http://d7.yihaodianimg.com/N09/M07/E1/14/ChEi2VbQLMWAEdd5AABJrwDFuJw54700.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+</div>
+<div class="sg_tabcontent clearfix">
+<div class="sg_banner sg_big">
+<a href="http://s.yhd.com/list/32452" data-shanActivityId="32452" title="进口爱茉莉旗下品牌专场" data-recordTracker="1" data-tc="ad.0.0.16331-30915187.1" data-ref="16331_30915187_1" target="_blank">
+<img alt="进口爱茉莉旗下品牌专场" src="images/blank.gif" original="http://d8.yihaodianimg.com/N08/M0A/E1/B4/ChEi1lbQR1-AJMQaAADJN_PvMC097300.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32592" data-shanActivityId="32592" title="ONEBUYE春上新" data-tc="ad.0.0.16332-30915118.1" data-ref="16332_30915118_1" target="_blank">
+<img alt="ONEBUYE春上新" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M03/AC/09/CgQIzlbQLcyAAF1gAABfHdbKAv879300.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32811" data-shanActivityId="32811" title="阿迪达斯 新品领跑春天" data-tc="ad.0.0.16332-30915123.2" data-ref="16332_30915123_2" target="_blank">
+<img alt="阿迪达斯 新品领跑春天" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M00/AC/0A/CgQIzlbQLlCABrbVAACC03ujlIE33400.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32736" data-shanActivityId="32736" title="女人节提前购" data-tc="ad.0.0.16332-30915120.3" data-ref="16332_30915120_3" target="_blank">
+<img alt="女人节提前购" src="images/blank.gif" original="http://d9.yihaodianimg.com/N09/M04/E0/E5/ChEi2FbQLgqAejYUAACUXbfg-u803700.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32824" data-shanActivityId="32824" title="巴布豆开学季特卖" data-tc="ad.0.0.16332-30915111.4" data-ref="16332_30915111_4" target="_blank">
+<img alt="巴布豆开学季特卖" src="images/blank.gif" original="http://d6.yihaodianimg.com/N06/M04/AB/0D/CgQIzVbQLFaAXufxAABvF3qrFWU73500.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+</div>
+<div class="sg_tabcontent clearfix">
+<div class="sg_banner sg_big">
+<a href="http://s.yhd.com/list/32704" data-shanActivityId="32704" title="百丽新风尚 钜惠来袭" data-recordTracker="1" data-tc="ad.0.0.16333-30882142.1" data-ref="16333_30882142_1" target="_blank">
+<img alt="百丽新风尚 钜惠来袭" src="images/blank.gif" original="http://d8.yihaodianimg.com/N07/M06/EC/A5/ChEbvFbO0xeALcavAACv5rxI1Kg80700.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32590" data-shanActivityId="32590" title="大牌香水专场" data-tc="ad.0.0.16334-30915189.1" data-ref="16334_30915189_1" target="_blank">
+<img alt="大牌香水专场" src="images/blank.gif" original="http://d8.yihaodianimg.com/N05/M08/11/B2/CgQI0lbQSMmAaXSRAAC6PPuS_7M27400.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32680" data-shanActivityId="32680" title="浪莎内衣女人节" data-tc="ad.0.0.16334-30915112.2" data-ref="16334_30915112_2" target="_blank">
+<img alt="浪莎内衣女人节" src="images/blank.gif" original="http://d9.yihaodianimg.com/N08/M02/E1/72/ChEi1VbQLImAXZQbAAC6-aUJRe475800.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32466" data-shanActivityId="32466" title="杜嘉班纳女人节专场" data-tc="ad.0.0.16334-30915124.3" data-ref="16334_30915124_3" target="_blank">
+<img alt="杜嘉班纳女人节专场" src="images/blank.gif" original="http://d8.yihaodianimg.com/N05/M05/6D/81/ChEbulbQLrCAYpkqAAA6Ka_WARA62600.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+<div class="sg_banner sg_small">
+<a href="http://s.yhd.com/list/32566" data-shanActivityId="32566" title="大牌护肤品牌专场" data-tc="ad.0.0.16334-30915183.4" data-ref="16334_30915183_4" target="_blank">
+<img alt="大牌护肤品牌专场" src="images/blank.gif" original="http://d7.yihaodianimg.com/N10/M02/E4/86/ChEi21bQRpOAUdYmAACwS_MQaQE54100.jpg"/>
+</a>
+<p class="count_down"></p>
+</div>
+</div>
+</div>
+</div>
+<!--tab end -->
+</textarea>
+</div>
+</div> </div>
+<div id="provinceboxDiv"></div>
+<div class="ft_wrap">
+<div class="wrap ft_footer_service clearfix" id="footerIcon">
+<a href="http://cms.yhd.com/cms/view.do?topicId=24123" title="" data-tc="ad.0.0.17536-18431204" data-ref="17536_18431204_1" target="_blank">
+<img alt="" src="images/blank.gif" original="http://d8.yihaodianimg.com/N05/M0B/39/F3/CgQI0lWskgmADBnsAAAPZvcSh3E68900.jpg"/>
+<b>正品保障</b>
+<span>正品行货 放心选购</span>
+</a>
+<a href="http://www.yhd.com/marketing/deliveryinfo/deliveryInfo.do" title="" data-tc="ad.0.0.17539-18431238" data-ref="17539_18431238_1" target="_blank">
+<img alt="" src="images/blank.gif" original="http://d6.yihaodianimg.com/N05/M09/96/23/ChEbulWsk4iADa_aAAAM544hHN818600.jpg"/>
+<b>满68包邮</b>
+<span>满68元 免运费</span>
+</a>
+<a href="http://cms.yhd.com/cms/view.do?topicId=24071" title="" data-tc="ad.0.0.17542-18431289" data-ref="17542_18431289_1" target="_blank">
+<img alt="" src="images/blank.gif" original="http://d9.yihaodianimg.com/N07/M00/2D/8B/CgQIz1WslI-Adao3AAAN5b_ut2I80100.jpg"/>
+<b>售后无忧</b>
+<span>7天无理由退货</span>
+</a>
+<a href="http://cms.yhd.com/cms/view.do?topicId=24111" title="" data-tc="ad.0.0.17545-18434559" data-ref="17545_18434559_1" target="_blank">
+<img alt="" src="images/blank.gif" original="http://d8.yihaodianimg.com/N09/M06/08/C8/ChEi11WsyiyALBbiAAAN9lEEK5M33200.jpg"/>
+<b>准时送达</b>
+<span>收货时间由你做主</span>
+</a>
+</div>
+<div class="wrap ft_service_link clearfix">
+<div id="bottomHelpLinkId" class="ft_help_list clearfix" data-tpa="YHD_GLOBAl_FOOTER_HELP" >
+<dl>
+<dt>新手入门</dt>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24091" data-ref="9075_4918049_1" data-tcd="AD.9075_4918049_1" target="_blank">购物流程</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24223" data-ref="9075_4918070_2" data-tcd="AD.9075_4918070_2" target="_blank">会员制度</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24095" data-ref="9075_4918532_3" data-tcd="AD.9075_4918532_3" target="_blank">订单查询</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24102" data-ref="9075_4918536_4" data-tcd="AD.9075_4918536_4" target="_blank">发票制度</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24099" data-ref="9075_4918577_5" data-tcd="AD.9075_4918577_5" target="_blank">常见问题</a></dd>
+</dl>
+<dl>
+<dt>支付方式</dt>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24107" data-ref="9077_18431408_1" data-tcd="AD.9077_18431408_1" target="_blank">货到付款</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24126" data-ref="9077_18431423_2" data-tcd="AD.9077_18431423_2" target="_blank">网上支付</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24128" data-ref="9077_18431424_3" data-tcd="AD.9077_18431424_3" target="_blank">银行转账</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24114" data-ref="9077_18431439_4" data-tcd="AD.9077_18431439_4" target="_blank">礼品卡支付</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24104" data-ref="9077_18431457_5" data-tcd="AD.9077_18431457_5" target="_blank">其他支付</a></dd>
+</dl>
+<dl>
+<dt>配送服务</dt>
+<dd><a href="http://www.yhd.com/marketing/deliveryinfo/deliveryInfo.do?tp=2091.0.0.0.0.KueGJlQ-11-CZDOe" data-ref="9079_18431491_2" data-tcd="AD.9079_18431491_2" target="_blank">配送范围及运费</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24113" data-ref="9079_18432687_3" data-tcd="AD.9079_18432687_3" target="_blank">配送进度查询</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24483" data-ref="9079_18432688_4" data-tcd="AD.9079_18432688_4" target="_blank">自提服务</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24090" data-ref="9079_18432689_5" data-tcd="AD.9079_18432689_5" target="_blank">商品验货与签收</a></dd>
+</dl>
+<dl>
+<dt>售后保障</dt>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24071" data-ref="9081_4919277_1" data-tcd="AD.9081_4919277_1" target="_blank">退换货政策</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24366" data-ref="9081_4919280_2" data-tcd="AD.9081_4919280_2" target="_blank">退换货流程</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24127" data-ref="9081_4919302_3" data-tcd="AD.9081_4919302_3" target="_blank">退款说明</a></dd>
+<dd><a href="http://cms.yhd.com/cmsPage/show.do?pageId=73523" data-ref="9081_13586489_4" data-tcd="AD.9081_13586489_4" target="_blank">购买延保服务</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24088" data-ref="9081_18432701_5" data-tcd="AD.9081_18432701_5" target="_blank">联系客服</a></dd>
+</dl>
+<dl>
+<dt>商家合作</dt>
+<dd><a href="http://cms.yhd.com/cmsPage/show.do?pageId=94952" data-ref="9083_18432703_1" data-tcd="AD.9083_18432703_1" target="_blank">商家入驻</a></dd>
+<dd><a href="http://cms.yhd.com/cms/view.do?topicId=24063" data-ref="9083_18432706_2" data-tcd="AD.9083_18432706_2" target="_blank">商必赢</a></dd>
+<dd><a href="http://xue.yhd.com/showlist/rulenew/rule.html" data-ref="9083_18432707_3" data-tcd="AD.9083_18432707_3" target="_blank">平台规则</a></dd>
+<dd><a href="http://b2b.yhd.com/index.do" data-ref="9083_18432708_4" data-tcd="AD.9083_18432708_4" target="_blank">企业采购</a></dd>
+</dl>
+</div>
+<!--footer 二维码 begin -->
+<div class="ft_code_wrap clearfix" data-tpa="YHD_GLOBAl_HEADER_MOBILE" id="footerQRcode">
+<div class="ft_mobile_code clearfix">
+<p>1号店客户端</p>
+<img src="images/blank.gif" original="http://d9.yihaodianimg.com/N01/M01/0D/7A/CgQCr1KW1juAFH9YAAAatCrcuRI48200.png" alt="1号店客户端二维码"/>
+</div>
+<div class="ft_mobile_code clearfix">
+<p>1号店微信</p>
+<img src="images/blank.gif" original="http://d6.yihaodianimg.com/N00/M04/0E/56/CgQCtlKW1RSAe6dIAAAcun_R_Wk58300.jpg" alt="1号店官方微信二维码"/>
+</div>
+</div>
+</div>
+<!--footer 二维码 end-->
+<div id="footer" data-tpa="YHD_GLOBAl_FOOTER">
+<p class="ft_footer_link">
+<a href="http://cms.yhd.com/cms/view.do?topicId=24183" data-ref="YHD_FOOTER_NAV_about" target="_blank" >关于1号店</a>|<a href="http://www.yhd.com/cms/view.do?topicId=8121" data-ref="YHD_FOOTER_NAV_team" target="_blank" >我们的团队</a>|<a href="http://union.yhd.com/passport/login_input.do" data-ref="YHD_FOOTER_NAV_union" target="_blank" >网站联盟</a>|<a href="http://www.yhd.com/hotq/" data-ref="YHD_FOOTER_NAV_hotProduct" target="_blank" >热门搜索</a>|<a href="http://www.yhd.com/marketing/friendlink.html" data-ref="YHD_FOOTER_NAV_friendlink" target="_blank" >友情链接</a>|<a href="http://club.yhd.com" data-ref="YHD_FOOTER_NAV_popwords" target="_blank" >1号店社区</a>|<a href="http://zhaopin.yhd.com" data-ref="YHD_FOOTER_NAV_hr" target="_blank" >诚征英才</a>|<a href="http://shangjia.yhd.com" data-ref="YHD_FOOTER_NAV_apply" target="_blank" rel="nofollow" >商家登录</a>|<a href="http://supplier.yhd.com" data-ref="YHD_FOOTER_NAV_suppliers" target="_blank" rel="nofollow" >供应商登录</a>|<a href="http://www.zx110.org/cxs/" data-ref="YHD_FOOTER_NAV_zx110" target="_blank" rel="nofollow" >放心搜</a>|<a href="http://item.yhd.com/" data-ref="YHD_FOOTER_NAV_eat" target="_blank" >1号店新品</a>|<a href="http://fuwu.yhd.com" data-ref="YHD_FOOTER_NAV_open" target="_blank" >开放平台</a>|<a href="http://www.wal-martchina.com" target="_blank" rel="nofollow" >沃尔玛</a>
+</p>
+<p class="ft_footer_link">
+<a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow" >沪ICP备13044278号</a>|<a >合字B1.B2-20130004</a>|<a href="http://d7.yihaodianimg.com/N06/M00/CC/B5/CgQIzlYwjGmAbQ-9AAHXHGHiMkU51700.jpg" data-ref="YHD_Footer_Licence" target="_blank" rel="nofollow" >营业执照</a>|<a href="http://d8.yihaodianimg.com/N07/M06/45/9B/CgQI0FQRFB2ABIWaAARgpiKdkvg12600.jpg" target="_blank" rel="nofollow" >互联网药品信息服务资格证</a>|<a href="http://d6.yihaodianimg.com/N05/M0A/A9/D6/CgQI0lQRE_OATEfzAAO0AcF4zkQ56000.jpg" target="_blank" rel="nofollow" >互联网药品交易服务资格证</a>
+</p>
+<p>Copyright© 1号店网上超市 2007-2016，All Rights Reserved</p>
+<small id="footerbanner2LazyLoad" class="ft_pic_link">
+<a href="https://online.unionpay.com/" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d6.yihaodianimg.com/N00/M01/1A/30/CgMBmVDzwyaAaIMBAAAJZgSEr6I65200.jpg">
+</a>
+|
+<a rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d9.yihaodianimg.com/N01/M06/19/98/CgQCr1Dzwj2AVUL0AAA-ic2BxNw39500.jpg">
+</a>
+|
+<a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20131129184754956" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d6.yihaodianimg.com/N01/M08/19/94/CgQCrlDzwnKAUkfSAAAIPrrML6M92400.jpg">
+</a>
+|
+<a href="http://www.zx110.org/" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d6.yihaodianimg.com/N02/M05/19/94/CgQCsVDzw0GABUElAADHlvRfNUk94600.jpg">
+</a>
+|
+<a href="http://www.shodr.org/" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d8.yihaodianimg.com/N00/M00/46/FC/CgMBmVLfYZGALWNHAAAOxFbda9472600.gif">
+</a>
+|
+<a href="http://net.china.com.cn/index.htm" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d9.yihaodianimg.com/N01/M0A/95/FD/CgQCr1PQy1CAF7vaAABDexsiEYM24800.jpg">
+</a>
+|
+<a href="https://ss.knet.cn/verifyseal.dll?sn=e13050631010040492h5mq000000&ct=df&a=1&pa=500267" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d8.yihaodianimg.com/N01/M03/A0/40/CgQCrlPYTqCASlHXAAAd82JE0eA31000.png">
+</a>
+|
+<a href="https://search.szfw.org/cert/l/CX20150608010268010812" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d9.yihaodianimg.com/N08/M01/C7/7E/ChEi1FYXHcOAVk_WAAAL2r2-yfo10200.jpg">
+</a>
+|
+<a href="http://club.yhd.com/guide/922?tzm=shanghaigongshangju" target="_blank" rel="nofollow">
+<img src="images/blank.gif" alt="" original="http://d6.yihaodianimg.com/N05/M07/92/EA/CgQI0lXmj5iAPoZJAAAMUQgIYEc49100.jpg">
+</a>
+|
+</small>
+</div>
+</div>
+<!-- cache enable -->
+<!--楼层电梯 begin -->
+<div class="floor_left_box" data-tpa="YHD_HOMEPAGE_FLOORNAV">
+<a href="javascript:void(0)" data-tpc="1">
+<i class="left_iconfont">&#xe60e;</i>
+<em class="two_line" >进口海购</em>
+</a>
+<a href="javascript:void(0)" data-tpc="2">
+<i class="left_iconfont">&#xe60f;</i>
+<em class="two_line" >活色生鲜</em>
+</a>
+<a href="javascript:void(0)" data-tpc="3">
+<i class="left_iconfont">&#xe605;</i>
+<em class="two_line" >食品饮料</em>
+</a>
+<a href="javascript:void(0)" data-tpc="4">
+<i class="left_iconfont">&#xe610;</i>
+<em class="two_line" >个护厨卫</em>
+</a>
+<a href="javascript:void(0)" data-tpc="5">
+<i class="left_iconfont">&#xe601;</i>
+<em class="two_line" >母婴玩具</em>
+</a>
+<a href="javascript:void(0)" data-tpc="6">
+<i class="left_iconfont">&#xe60a;</i>
+<em class="two_line" >精品家居</em>
+</a>
+<a href="javascript:void(0)" data-tpc="7">
+<i class="left_iconfont">&#xe604;</i>
+<em class="two_line" >流行百货</em>
+</a>
+<a href="javascript:void(0)" data-tpc="8">
+<i class="left_iconfont">&#xe615;</i>
+<em class="two_line" >手机家电</em>
+</a>
+<a href="javascript:void(0)" data-tpc="9">
+<i class="left_iconfont">&#xe600;</i>
+<em >团购</em>
+</a>
+<a href="javascript:void(0)" data-tpc="10">
+<i class="left_iconfont">&#xe611;</i>
+<em >闪购</em>
+</a>
+<a href="javaScript:void(0);" class="leftfloor_red toTop">
+<i class="left_iconfont">&#xe613;</i>
+<em class="two_line">返回顶部</em>
+</a>
+</div>
+<script type="text/javascript" src="js/global_index_top_new.js?1560110"></script>
+<script type="text/javascript" src="http://image.yihaodianimg.com/front-homepage/index/js/index.js?1560110"></script>
+<script type="text/javascript" src="js/global_event_listen.js?1560110" charset="utf-8"></script>
+<div>
+<span style="color: #FFFFFF">
+19!$
+4%&
+4#@
+10!$
+,
+</span>
+<span style="color: #FFFFFF">1560110</span>
+</div>
+<script>
+(function($){
+try{
+document.getElementById("headerAllProvince").style.height="300px";(function(){var a=$(".headerNavWrap").find("a:contains('1号钱包')");if(a){var b=a.next();if(b){}}})();
+}catch(err){}
+try{
+window.webPercent=60;
+}catch(err){}
+try{
+function sendGtags(){var a=$.cookie("guid");var c=$.cookie("provinceId");if($.trim(a)!=""&&$.trim(c)!=""){var b=new Image();b.src="http://cms.gtags.net/p?a=13&xid="+a+"&yhd_cityid="+c}}$(function(){setTimeout(sendGtags,30*1000)});
+}catch(err){}
+try{
+function sendpingyou(){var a=$.cookie("guid");if($.trim(a)!=""){var b="timg"+new Date().getTime();window[b]=new Image(1,1);window[b].src="http://cm.ipinyou.com/yhd/cms.gif?sid="+a}}$(function(){setTimeout(sendpingyou,30*1000)});
+}catch(err){}
+try{
+function sendGdt(){var a=$.cookie("guid");if($.trim(a)!=""){var b="timg"+new Date().getTime();window[b]=new Image(1,1);window[b].src="http://cm.e.qq.com/cm.fcg?a=1639782535&j="+a+"&time="+new Date().getTime()}}$(function(){setTimeout(sendGdt,30*1000)});
+}catch(err){}
+try{
+(function(){function a(){var b=$.cookie("guid");if($.trim(b)!=""){var c="timg"+new Date().getTime();window[c]=new Image(1,1);window[c].src="http://cm.pos.baidu.com/dmpcm?userid=10644715&local_cookie="+b+"&timestamp="+new Date().getTime()}}setTimeout(a,30*1000)})();
+}catch(err){}
+try{
+(function(){function a(){var b=$.cookie("guid");if($.trim(b)!=""){var c="timg"+new Date().getTime();window[c]=new Image(1,1);window[c].src="http://dsp.brand.sogou.com/sl?userid=1379438&local_cookie="+b+"&timestamp="+new Date().getTime()}}setTimeout(a,30*1000)})();
+}catch(err){}
+try{
+(function(){var a=$("#loucengBanner");a.attr("id","loucengBanner_update");jQuery(function(){setTimeout(function(){var b=$("#loucengBanner_update");b.attr("id","loucengBanner");YHD.HomePage.delBlankAjaxAD()},3000)})})();
+}catch(err){}
+})(jQuery)
+</script>
+<textarea id="preloadAdvsData" style="display:none">{"INDEX_TOP_CURTAINAD_OPEN":[{"name":"2.29个护冲锋","id":31065961,"type":2,"content":"2.29个护冲锋","startTime":1456675200000,"endTime":1456761599000,"note":"","code":"INDEX_TOP_CURTAINAD_OPEN","advertisePositionCode":"INDEX_TOP","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX_TOP_CURTAINAD","subAdVOList":[],"title":"2.29个护冲锋","classweight":0,"weight":1,"mergeWeight":0,"isAjax":0,"tag":0,"yhdPrice":null,"topicId":212599,"tc":"ad.0.0.1783-31065961.1","tce":null,"imgWidePath":"http://d8.yihaodianimg.com/N09/M0B/E2/DC/ChEi11bScS-AVtczAAFiB5_s0aU62800.jpg","imgPath":"http://d7.yihaodianimg.com/N09/M02/E2/B1/ChEi2FbScSGAIhy-AAFCB7sDqPw07700.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","imgJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","textJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","shortTitle":null,"perTracker":"1783_31065961_1","limitBuyRemainTime":null,"longEndTime":1456761599000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":1783,"extTrackUrl":"","advertisePageCode":"INDEX","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX_TOP_CURTAINAD_CLOSE":[{"name":"2.29个护冲锋","id":31065964,"type":2,"content":"2.29个护冲锋","startTime":1456675200000,"endTime":1456761599000,"note":"","code":"INDEX_TOP_CURTAINAD_CLOSE","advertisePositionCode":"INDEX_TOP","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX_TOP_CURTAINAD","subAdVOList":[],"title":"2.29个护冲锋","classweight":0,"weight":1,"mergeWeight":0,"isAjax":0,"tag":0,"yhdPrice":null,"topicId":212599,"tc":"ad.0.0.1782-31065964.1","tce":null,"imgWidePath":"http://d9.yihaodianimg.com/N10/M0B/E6/57/ChEi3FbScgWAEhhRAACqyy6e0Es34300.jpg","imgPath":"http://d9.yihaodianimg.com/N10/M0A/E6/31/ChEi21bScf-ARKxpAABzaOTA1VY44200.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","imgJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","textJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","shortTitle":null,"perTracker":"1782_31065964_1","limitBuyRemainTime":null,"longEndTime":1456761599000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":1782,"extTrackUrl":"","advertisePageCode":"INDEX","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC1_DEFAULT":[{"name":"2016宠爱女人节-全场3.8折起 正式会场","id":30915043,"type":2,"content":"2016宠爱女人节-全场3.8折起 正式会场","startTime":1456675200000,"endTime":1457452799000,"note":"#fe4d60","code":"INDEX2_LUNBO_PIC1_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC1","subAdVOList":[],"title":"2016宠爱女人节-全场3.8折起 正式会场","classweight":20,"weight":1,"mergeWeight":0,"isAjax":0,"tag":13,"yhdPrice":null,"topicId":213289,"tc":"ad.0.0.15069-30915043.1","tce":null,"imgWidePath":"http://d7.yihaodianimg.com/N06/M09/AA/F3/CgQIzVbQIE-AHXOAAAHs2Tb76Gw52500.jpg","imgPath":"http://d6.yihaodianimg.com/N07/M0A/62/E9/CgQI0FbQIEOAaQAAAAGIKP89efU48600.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/vdfXODXbBvo","imgJumpLinkUrl":"http://cms.yhd.com/sale/vdfXODXbBvo","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/vdfXODXbBvo","textJumpLinkUrl":"http://cms.yhd.com/sale/vdfXODXbBvo","shortTitle":null,"perTracker":"15069_30915043_1","limitBuyRemainTime":null,"longEndTime":1457452799000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15069,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC9_DEFAULT":[{"name":"COSME大赏 全球美护TOP list ","id":31066096,"type":2,"content":"COSME大赏 全球美护TOP list ","startTime":1456675200000,"endTime":1457020799000,"note":"#5101a2","code":"INDEX2_LUNBO_PIC9_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC9","subAdVOList":[],"title":"COSME大赏 全球美护TOP list ","classweight":1,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":213609,"tc":"ad.0.0.17280-31066096.1","tce":null,"imgWidePath":"http://d8.yihaodianimg.com/N06/M00/5B/BD/ChEbu1bT9xKAJOZVAAH3UzTQ8ag12700.jpg","imgPath":"http://d8.yihaodianimg.com/N06/M05/AF/A8/CgQIzlbT9gGAY1j_AAF-tdw6Azc32700.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/wLZXODdWByO","imgJumpLinkUrl":"http://cms.yhd.com/sale/wLZXODdWByO","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/wLZXODdWByO","textJumpLinkUrl":"http://cms.yhd.com/sale/wLZXODdWByO","shortTitle":null,"perTracker":"17280_31066096_1","limitBuyRemainTime":null,"longEndTime":1457020799000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":17280,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC3_DEFAULT":[{"name":"美护女人节正式会场【PC】","id":30987081,"type":2,"content":"美护女人节正式会场【PC】","startTime":1456675200000,"endTime":1456934399000,"note":"#ff6c8b","code":"INDEX2_LUNBO_PIC3_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC3","subAdVOList":[],"title":"美护女人节正式会场【PC】","classweight":12,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":211643,"tc":"ad.0.0.15071-30987081.1","tce":null,"imgWidePath":"http://d8.yihaodianimg.com/N10/M08/D8/66/ChEi2lbRisuAQ-CKAAF7FTkO-hs40300.jpg","imgPath":"http://d6.yihaodianimg.com/N08/M03/E2/E7/ChEi1FbRisGAUVmOAAEA-uyJmJU43500.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/mXmqCCktfFJ","imgJumpLinkUrl":"http://cms.yhd.com/sale/mXmqCCktfFJ","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/mXmqCCktfFJ","textJumpLinkUrl":"http://cms.yhd.com/sale/mXmqCCktfFJ","shortTitle":null,"perTracker":"15071_30987081_1","limitBuyRemainTime":null,"longEndTime":1456934399000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15071,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC6_DEFAULT":[{"name":"小米PK华为","id":30915240,"type":2,"content":"小米PK华为","startTime":1456502400000,"endTime":1456761599000,"note":"#3792e1","code":"INDEX2_LUNBO_PIC6_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC6","subAdVOList":[],"title":"小米PK华为","classweight":8,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":143441,"tc":"ad.0.0.15074-30915240.1","tce":null,"imgWidePath":"http://d7.yihaodianimg.com/N05/M09/11/C7/CgQI0lbQZUiAVEilAAHceq9m-Wk58500.jpg","imgPath":"http://d8.yihaodianimg.com/N08/M04/E1/A5/ChEi1VbQZUGAV5yGAAFbb5EisYo97700.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/JaaTeReeTXJ","imgJumpLinkUrl":"http://cms.yhd.com/sale/JaaTeReeTXJ","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/JaaTeReeTXJ","textJumpLinkUrl":"http://cms.yhd.com/sale/JaaTeReeTXJ","shortTitle":null,"perTracker":"15074_30915240_1","limitBuyRemainTime":null,"longEndTime":1456761599000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15074,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC7_DEFAULT":[{"name":"春装上新-海量好货2.5折起","id":30915152,"type":2,"content":"春装上新-海量好货2.5折起","startTime":1456502400000,"endTime":1456761599000,"note":"#9edffd","code":"INDEX2_LUNBO_PIC7_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC7","subAdVOList":[],"title":"春装上新-海量好货2.5折起","classweight":4,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":213093,"tc":"ad.0.0.15075-30915152.1","tce":null,"imgWidePath":"http://d7.yihaodianimg.com/N05/M03/0D/B4/CgQI01bQM3CAWS0DAAIXH2l4xUQ86300.jpg","imgPath":"http://d8.yihaodianimg.com/N10/M04/E4/99/ChEi3FbQM-qADnRpAAGEP02xwQE83700.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/eEbXOXXXBmm","imgJumpLinkUrl":"http://cms.yhd.com/sale/eEbXOXXXBmm","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/eEbXOXXXBmm","textJumpLinkUrl":"http://cms.yhd.com/sale/eEbXOXXXBmm","shortTitle":null,"perTracker":"15075_30915152_1","limitBuyRemainTime":null,"longEndTime":1456761599000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15075,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC2_DEFAULT":[{"name":"女人节食品综合会场","id":30914823,"type":2,"content":"女人节食品综合会场","startTime":1456675200000,"endTime":1457020799000,"note":"#f64561","code":"INDEX2_LUNBO_PIC2_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC2","subAdVOList":[],"title":"女人节食品综合会场","classweight":13,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":213445,"tc":"ad.0.0.15070-30914823.1","tce":null,"imgWidePath":"http://d7.yihaodianimg.com/N05/M01/0C/A3/CgQI01bP556AScixAAFlZ22fQkU10600.jpg","imgPath":"http://d8.yihaodianimg.com/N10/M00/D5/E4/ChEi2lbP532AZUzBAAD69x820KU86100.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/ykOPohjjvZB","imgJumpLinkUrl":"http://cms.yhd.com/sale/ykOPohjjvZB","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/ykOPohjjvZB","textJumpLinkUrl":"http://cms.yhd.com/sale/ykOPohjjvZB","shortTitle":null,"perTracker":"15070_30914823_1","limitBuyRemainTime":null,"longEndTime":1457020799000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15070,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC4_DEFAULT":[{"name":"最美女人“机”","id":31066091,"type":2,"content":"最美女人“机”","startTime":1456675200000,"endTime":1457020799000,"note":"#1ba8ef","code":"INDEX2_LUNBO_PIC4_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC4","subAdVOList":[],"title":"最美女人“机”","classweight":10,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":213182,"tc":"ad.0.0.15072-31066091.1","tce":null,"imgWidePath":"http://d7.yihaodianimg.com/N05/M00/11/46/CgQI01bT9W2AaYLeAAGNv2nL5S887200.jpg","imgPath":"http://d8.yihaodianimg.com/N10/M05/E8/02/ChEi21bT9T2ALJSHAAEtGQdRKxI59100.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/YpTqCfCmqpM","imgJumpLinkUrl":"http://cms.yhd.com/sale/YpTqCfCmqpM","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/YpTqCfCmqpM","textJumpLinkUrl":"http://cms.yhd.com/sale/YpTqCfCmqpM","shortTitle":null,"perTracker":"15072_31066091_1","limitBuyRemainTime":null,"longEndTime":1457020799000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15072,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":22,"noSourceFlag":null}],"INDEX2_LUNBO_PIC8_DEFAULT":[{"name":"2.29个护冲锋","id":30914860,"type":9,"content":"2.29个护冲锋","startTime":1456675200000,"endTime":1456761599000,"note":"#910683","code":"INDEX2_LUNBO_PIC8_DEFAULT","advertisePositionCode":"INDEX2_LUNBO","miniProduct":null,"marketPrice":null,"advertiseClassificationCode":"INDEX2_LUNBO_PIC8","subAdVOList":[],"title":"2.29个护冲锋","classweight":3,"weight":1,"mergeWeight":0,"isAjax":1,"tag":0,"yhdPrice":null,"topicId":0,"tc":"ad.0.0.15076-30914860.1","tce":null,"imgWidePath":"http://d6.yihaodianimg.com/N08/M0B/E1/97/ChEi1lbQLFaAcFkRAAIjGYkuRYk56500.jpg","imgPath":"http://d9.yihaodianimg.com/N08/M04/E1/97/ChEi1lbQLE-ASjnjAAGFXKC57NQ05700.jpg","salePrice":null,"defaultImgJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","imgJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","defaultTextJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","textJumpLinkUrl":"http://cms.yhd.com/sale/aUXXOXlBBNJ","shortTitle":null,"perTracker":"15076_30914860_1","limitBuyRemainTime":null,"longEndTime":1456761599000,"curPriceType":null,"showDetail":false,"advertiseRegionalId":15076,"extTrackUrl":"","advertisePageCode":"INDEX2","recordTracker":1,"advTypeDetail":0,"noSourceFlag":null}]}</textarea>
+<textarea id="ajaxReplaceAdvCodesData" style="display:none">INDEX2_FLOORTG_ZLXF_MR,INDEX2_FLOOR7_LUNBO_PIC2,INDEX2_FLOORXH_LUNBO_PIC2,INDEX2_FLOOR3C_LUNBO_PIC2,INDEX2_FLOORLB_LUNBO_PIC2,INDEX2_FLOOR9_LUNBO_PIC2,INDEX2_FLOOR8_LUNBO_PIC2,INDEX2_FLOORFOOD_ZLXF_MR,INDEX2_FLOORSX_ZLXF_MR,INDEX2_FLOORFOOD_LUNBO_PIC2,INDEX2_FLOORXH_ZLSF_MR,INDEX2_FLOOR9_ZLXF_MR,INDEX2_FLOORLB_ZLXF_MR,INDEX2_FLOORSX_LUNBO_PIC2,INDEX2_FLOOR7_ZLXF_MR,INDEX2_SALEAD_LOUCENGSHANGFANG_DEFAULT,INDEX2_FLOOR3C_ZLSF_MR,INDEX2_FLOORXH_ZLXF_MR,INDEX2_FLOOR3C_ZUOLANXIAFANGPIC_DEFAULT,INDEX2_FLOOR8_ZLXF_MR</textarea>
+<textarea id="ajaxReplaceOrientationsData" style="display:none">INDEX2_FLOORFOOD_YL_ZXGG,INDEX2_FLOORFOOD_YL_ZSGG,INDEX2_FLOORFOOD_YL_YSGG,INDEX2_FLOORFOOD_YL_YXGG</textarea>
+</body>
+</html>

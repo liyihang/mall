@@ -1,0 +1,309 @@
+.mod_personal_head .recpt_bor_two {
+  position: relative;
+  margin-top: 10px;
+  border-top: 1px solid #FF966E;
+}
+.mod_personal_head .recpt_two {
+  position: relative;
+}
+.mod_personal_head .recpt_two ul {
+  height: 31px;
+  border: 1px solid #EEEEEE;
+  background-color: #F7F7F7;
+  _overflow: hidden;
+}
+.mod_personal_head .recpt_two li {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  cursor: pointer;
+  color: #333333;
+  background-color: #F7F7F7;
+  border: 1px solid #EEEEEE;
+  border-left: none;
+}
+.mod_personal_head .recpt_two li a {
+  text-decoration: none;
+  color: #333333;
+  display: block;
+  padding: 0 20px;
+}
+.mod_personal_head .recpt_two .on a {
+  text-decoration: none;
+  color: #E60012;
+  display: block;
+  padding: 0 20px;
+}
+.mod_personal_head .recpt_two .on {
+  position: relative;
+  display: inline-block;
+  background: #fff;
+  border-bottom: 1px solid #fff;
+  font-weight: normal;
+  color: #E60012;
+}
+.mod_personal_head .recpt_two .hide {
+  display: none;
+}
+.mod_personal_head .link {
+  color: #666666;
+  font-size: 12px;
+  font-family: SimSun;
+  display: block;
+  text-decoration: none;
+  position: absolute;
+  z-index: 1;
+  right: 10px;
+  top: 10px;
+  *top: 20px;
+}
+.mod_personal_head .link .icon_set {
+  background: url(../images/tidings_sprite.png) no-repeat -1px -90px;
+  display: inline-block;
+  height: 15px;
+  margin: 0 5px;
+  vertical-align: middle;
+  width: 15px;
+}
+.mod_personal_head .recpt_two li {
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  left: 0;
+  top: 0;
+}
+.mod_personal_head .recpt_two .tipvi {
+  display: block;
+  width: 21px;
+  height: 16px;
+  line-height: 16px;
+  background: url(../images/tidings_sprite.png) no-repeat -77px -185px;
+  padding: 0;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 1px 0 1px #ff0101;
+  position: absolute;
+  z-index: 2;
+  right: 10px;
+  top: -8px;
+}
+.mod_message_reminder {
+  margin: 20px 0 0 0;
+  background-color: #FAFAFA;
+  height: 705px;
+  height: 702px\9\0;
+  *height: 713px;
+  _height: 710px;
+  border: 1px #EBEBEB solid;
+  position: relative;
+  z-index: 1;
+  _overflow: hidden;
+}
+.mod_message_type {
+  margin-top: 15px;
+}
+.mod_message_type label {
+  display: inline-block;
+  float: left;
+  color: #999999;
+  font-size: 12px;
+  font-family: SimSun;
+}
+.mod_message_type em {
+  float: left;
+  display: inline-block;
+  font-size: 12px;
+  color: #E5E5E5;
+  padding: 0 0;
+  margin-right: 10px;
+  height: 20px;
+  line-height: 20px;
+}
+.mod_message_type a {
+  margin-right: 10px;
+  display: inline-block;
+  float: left;
+  color: #555555;
+  font-size: 12px;
+  height: 20px;
+  line-height: 20px;
+  font-family: SimSun;
+  text-decoration: none;
+}
+.mod_message_type a:hover,
+.mod_message_type a.sed {
+  color: #FF3C3C;
+}
+.mod_message_new .date {
+  margin-top: 20px;
+  float: left;
+  width: 100%;
+  background: url(../images/tidings_sprite.png) repeat-x 0px -250px;
+  height: 4px;
+  position: relative;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  text-align: center;
+}
+.mod_message_new .date span {
+  color: #666666;
+  font-size: 12px;
+  font-family: Tahoma;
+  position: absolute;
+  z-index: 2;
+  top: -5px;
+  left: 50%;
+  margin-left: -42px;
+  background-color: #ffffff;
+  padding: 0 10px;
+}
+.mod_message_new dd {
+  float: left;
+  width: 100%;
+}
+.mod_message_new dd .time {
+  width: 100%;
+  margin: 0;
+  display: block;
+  float: left;
+  padding: 10px 0;
+  color: #999999;
+  font-size: 12px;
+  font-family: Tahoma;
+  font-weight: normal;
+}
+.mod_message_new dd .time .title {
+  font-family: SimSun;
+}
+.mod_message_new dd .message {
+  margin-bottom: 10px;
+  display: block;
+  float: left;
+  width: 960px;
+  border: 1px #eeeeee solid;
+  border-left-color: #ff966e;
+  background-color: #fafafa;
+  line-height: 20px;
+  padding: 15px 10px 10px 10px;
+  text-decoration: none;
+  position: relative;
+  z-index: 1;
+}
+.mod_message_new dd .message .title {
+  color: #333333;
+  font-family: 'Microsoft YaHei';
+  font-size: 14px;
+}
+.mod_message_new dd .message .info {
+  color: #666666;
+  font-family: SimSun;
+  font-size: 12px;
+}
+.mod_message_new dd .message.shadom {
+  -moz-box-shadow: 0 2px 5px #eaeaea;
+  -webkit-box-shadow: 0 2px 5px #eaeaea;
+  box-shadow: 0 2px 5px #eaeaea;
+}
+.mod_message_new dd .message .li_p_del {
+  border: 1px #EAEAEA solid;
+  background-color: #FAFAFA;
+  width: 30px;
+  height: 30px;
+  _overflow: hidden;
+  display: block;
+  position: absolute;
+  z-index: 201;
+  right: -32px;
+  top: -1px;
+  display: none;
+}
+.mod_message_new dd .message .li_p_del img {
+  width: 11px;
+  height: 14px;
+  margin: 8px 10px;
+}
+.mod_toolBar {
+  background-color: #fafafa;
+  padding: 13px 10px;
+  float: left;
+  width: 962px;
+  margin: 10px 0 0 0;
+}
+.mod_toolBar label {
+  float: left;
+  color: #666666;
+  font-size: 12px;
+  font-family: SimSun;
+  display: inline-block;
+  width: auto;
+  margin: 0 10px 0 0;
+  cursor: pointer;
+}
+.mod_toolBar label.delAll {
+  margin: 0 0 0 10px;
+}
+.mod_toolBar label input {
+  padding: 0;
+  margin: 0;
+}
+.mod_toolBar label img {
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+.mod_toolBar span {
+  color: #e5e5e5;
+  float: left;
+}
+.mod_vs_one__vouchers {
+  float: left;
+  width: 100%;
+  height: 350px;
+  margin-top: 20px;
+  background-color: #fafafa;
+}
+.mod_vs_one__vouchers .no_quan_img {
+  margin: 125px auto 0 auto;
+  display: block;
+}
+.mod_vs_one__vouchers .no_quan {
+  color: #666666;
+  font-size: 14px;
+  font-family: 'Microsoft YaHei';
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin-top: 30px;
+}
+/*checkbox*/
+.checkbox_c {
+  float: left;
+  display: inline-block;
+  background: url("../images/my_orders_cancel.jpg") repeat-x -353px -61px;
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+}
+.checkbox_c_sed {
+  float: left;
+  display: inline-block;
+  background: url("../images/my_orders_cancel.jpg") repeat-x 0 -9px;
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+}
+.checkbox_c:hover {
+  float: left;
+  display: inline-block;
+  background: url("../images/my_orders_cancel.jpg") repeat-x 0 -24px;
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+}
+.layout_w980_g18 .mod_message_new .message {
+  width: 740px;
+}
+.layout_w980_g18 .mod_toolBar {
+  width: 740px;
+}
+/*# sourceMappingURL=message_reminder_new.css.map */
