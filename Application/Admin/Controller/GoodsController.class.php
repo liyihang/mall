@@ -1,9 +1,12 @@
 <?php
 namespace Admin\Controller;
 use Think\Controller;
-class IndexController extends Controller {
+class GoodsController extends Controller {
     public function index(){
-        $this->display();
+        $this->display('product-list');
 
+    }
+    public function add(){
+        $this->display('product-add');
     }
 }
