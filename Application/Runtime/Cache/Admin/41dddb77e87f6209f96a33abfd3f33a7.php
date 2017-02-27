@@ -1,0 +1,217 @@
+<?php if (!defined('THINK_PATH')) exit();?><!--_meta 作为公共模版分离出去-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta http-equiv="Cache-Control" content="no-siteapp"/>
+    <link rel="Bookmark" href="/favicon.ico">
+    <link rel="Shortcut Icon" href="/favicon.ico"/>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/mall/Public/Admin/lib/html5shiv.js"></script>
+    <script type="text/javascript" src="/mall/Public/Admin/lib/respond.min.js"></script>
+
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/mall/Public/Admin/css/H-ui.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/mall/Public/Admin/css/H-ui.admin.css"/>
+    <link rel="stylesheet" type="text/css" href="/mall/Public/Admin/lib/Hui-iconfont/1.0.8/iconfont.css"/>
+
+    <link rel="stylesheet" type="text/css" href="/mall/Public/Admin/skin/default/skin.css" id="skin"/>
+    <link rel="stylesheet" type="text/css" href="/mall/Public/Admin/css/style.css"/>
+    <!--[if IE 6]>
+    <script type="text/javascript" src="lib/DD_belatedPNG_0.0.8a-min.js" ></script>
+    <script type="text/javascript" src="lib/DD_belatedPNG_0.0.8a-min.js" ></script>
+    <script>DD_belatedPNG.fix('*');</script>
+    <!--/meta 作为公共模版分离出去-->
+
+    <link href="/mall/Public/Admin/lib/webuploader/0.1.5/webuploader.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="page-container">
+    <form action="<?php echo U('insert');?>" method="post" enctype="multipart/form-data" class="form form-horizontal" id="form-article-add">
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2"><span class="c-red">*</span>产品名称：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" class="input-text" value="" placeholder="" id="" name="goods_name">
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2"><span class="c-red">*</span>产品序列号：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" class="input-text" value="" placeholder="" id="" name="goods_sn">
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2"><span class="c-red">*</span>品牌：</label>
+
+            <div class="formControls col-xs-8 col-sm-9"> <span class="select-box">
+				<select name="brand_id" class="select">
+                    <option value="0">联想</option>
+                    <option value="1">小米</option>
+                    <option value="11">华为</option>
+                    <option value="12">apple</option>
+                </select>
+				</span></div>
+        </div>
+
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2"><span class="c-red">*</span>分类栏目：</label>
+
+            <div class="formControls col-xs-8 col-sm-9"> <span class="select-box">
+				<select name="cat_id" class="select">
+                    <option value="0">一级分类</option>
+                    <option value="1">一级分类</option>
+                    <option value="11">├二级分类</option>
+                    <option value="12">├二级分类</option>
+                    <option value="13">├二级分类</option>
+                </select>
+				</span></div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">排序值：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" class="input-text" value="0" placeholder="" id="" name="">
+            </div>
+        </div>
+
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">产地：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="origen" id="" placeholder="" value="" class="input-text">
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">材质：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="material" id="" placeholder="" value="" class="input-text">
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">所属供应商：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="supplier" id="" placeholder="" value="" class="input-text">
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">价格计算单位：</label>
+
+            <div class="formControls col-xs-8 col-sm-9"> <span class="select-box">
+				<select class="select" name="unit">
+                    <option>请选择</option>
+                    <option value="1">件</option>
+                    <option value="2">斤</option>
+                    <option value="3">KG</option>
+                    <option value="4">吨</option>
+                    <option value="5">套</option>
+                </select>
+				</span></div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">产品重量：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="weight" id="" placeholder="" value="" class="input-text" style="width:90%">
+                kg
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">商品库存：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="storeNum" id="" placeholder="" value="" class="input-text" style="width:90%">
+                kg
+            </div>
+        </div>
+
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">市场价格：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="market_price" id="" placeholder="" value="" class="input-text"
+                       style="width:90%">
+                元
+            </div>
+        </div>
+
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">最低销售价格：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="shop_price" id="" placeholder="" value="" class="input-text" style="width:90%">
+                元
+            </div>
+        </div>
+
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">产品关键字：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <input type="text" name="goods_keywords" id="" placeholder="多个关键字用英文逗号隔开，限10个关键字" value=""
+                       class="input-text">
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">产品摘要：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <textarea name="goodsDesc" cols="" rows="" class="textarea" placeholder="说点什么...最少输入10个字符"
+                          datatype="*10-100" dragonfly="true" nullmsg="备注不能为空！"
+                          onKeyUp="$.Huitextarealength(this,200)"></textarea>
+
+                <p class="textarea-numberbar"><em class="textarea-length">0</em>/200</p>
+            </div>
+        </div>
+        <div class="row cl">
+            <label class="form-label col-xs-4 col-sm-2">商品图片：</label>
+
+            <div class="formControls col-xs-8 col-sm-9">
+                <div class="uploader-thum-container">
+                    <div id="fileList" class="uploader-list"></div>
+                    <div id="filePicker">
+                        <input type="file" name="goods_image[]">
+                        <input type="file" name="goods_image[]">
+                        <input type="file" name="goods_image[]">
+                        <input type="file" name="goods_image[]">
+                        <input type="file" name="goods_image[]">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row cl">
+            <div class="col-xs-8 col-sm-9 col-xs-offset-4 col-sm-offset-2">
+                <button class="btn btn-primary radius" type="submit"><i class="Hui-iconfont">&#xe632;</i> 保存并提交审核
+                </button>
+
+                <button class="btn btn-default radius" type="button">&nbsp;&nbsp;取消&nbsp;&nbsp;</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!--_footer 作为公共模版分离出去-->
+<script type="text/javascript" src="/mall/Public/Admin/lib/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/layer/2.4/layer.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/js/H-ui.min.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/js/H-ui.admin.js"></script>
+<!--/_footer 作为公共模版分离出去-->
+
+<!--请在下方写此页面业务相关的脚本-->
+<script type="text/javascript" src="/mall/Public/Admin/lib/My97DatePicker/4.8/WdatePicker.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/jquery.validation/1.14.0/jquery.validate.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/jquery.validation/1.14.0/validate-methods.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/jquery.validation/1.14.0/messages_zh.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/ueditor/1.4.3/ueditor.config.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/ueditor/1.4.3/ueditor.all.min.js"></script>
+<script type="text/javascript" src="/mall/Public/Admin/lib/ueditor/1.4.3/lang/zh-cn/zh-cn.js"></script>
+
+</body>
+</html>
