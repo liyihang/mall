@@ -3,7 +3,6 @@ namespace Admin\Controller;
 
 use Think\Controller;
 
-
 class GoodsController extends Controller
 {
     public function index()
@@ -21,14 +20,7 @@ class GoodsController extends Controller
         $m = D('Goods');
 
         if($m->create()){
-            $access_id = C('OSS_ACCESS_ID');
-            $access_key=C('OSS_ACCESS_KEY');
-            $hostname = C('OSS_ENDPOINT');
-            $bucket = C('OSS_TEST_BUCKET');
-            var_dump($access_id);
-            die();
-
-           /* $upload = new \Think\Upload();// 实例化上传类
+            $upload = new \Think\Upload();// 实例化上传类
             $upload->maxSize   =     3145728 ;// 设置附件上传大小
             $upload->exts      =     array('jpg', 'gif', 'png', 'jpeg');// 设置附件上传类型
             $upload->rootPath  =     './Public/Uploads/'; // 设置附件上传根目录
@@ -55,7 +47,7 @@ class GoodsController extends Controller
             }
 
             $m->add();
-            $this->success("添加成功",U('Goods/index'));*/
+            $this->success("添加成功",U('Goods/index'));
 
         }else{
             $error = $m->getError();
