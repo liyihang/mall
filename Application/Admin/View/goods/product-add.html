@@ -110,7 +110,7 @@
                     <option value="1">件</option>
                     <option value="2">斤</option>
                     <option value="3">KG</option>
-                    <option value="4">吨</option>
+                    <option value="4">台</option>
                     <option value="5">套</option>
                 </select>
 				</span></div>

@@ -8,6 +8,11 @@ class GoodsController extends Controller
 {
     public function index()
     {
+        $m = D('Goods');
+        $count = $m->count();
+        $data = $m->select();
+        $this->assign('data',$data);
+        $this->assign('count',$count);
         $this->display('product-list');
 
     }
@@ -17,18 +22,16 @@ class GoodsController extends Controller
         $this->display('product-add');
 
     }
+    public function update(){
+        $this->dispaly();
+    }
     public function insert(){
         $m = D('Goods');
 
         if($m->create()){
-            $access_id = C('OSS_ACCESS_ID');
-            $access_key=C('OSS_ACCESS_KEY');
-            $hostname = C('OSS_ENDPOINT');
-            $bucket = C('OSS_TEST_BUCKET');
-            var_dump($access_id);
-            die();
 
-           /* $upload = new \Think\Upload();// 实例化上传类
+
+            $upload = new \Think\Upload();// 实例化上传类
             $upload->maxSize   =     3145728 ;// 设置附件上传大小
             $upload->exts      =     array('jpg', 'gif', 'png', 'jpeg');// 设置附件上传类型
             $upload->rootPath  =     './Public/Uploads/'; // 设置附件上传根目录
@@ -42,7 +45,7 @@ class GoodsController extends Controller
                 $gids = array_keys($info);
                 foreach ($gids as $gid) {
                     $goods_img = $info[$gid]['savepath'].$info[$gid]['savename'];
-                    $goods_thums = $info[$gid]['savepath']."thump".$info[$gid]['savename'];
+                    $goods_thums = $info[$gid]['savepath']."thump_".$info[$gid]['savename'];
                     $img =  new \Think\Image();
                     $img->open($upload->rootPath.$goods_img);
                 // 生成一个固定大小为150*150的缩略图并保存为thumb.jpg
@@ -53,9 +56,8 @@ class GoodsController extends Controller
                 }
 
             }
-
             $m->add();
-            $this->success("添加成功",U('Goods/index'));*/
+            $this->success("添加成功",U('Goods/index'));
 
         }else{
             $error = $m->getError();

@@ -25,420 +25,441 @@
       <table id="16" parent="1" name="user3"/>
       <table id="17" parent="1" name="user_info"/>
       <table id="18" parent="1" name="users"/>
-      <column id="19" parent="2" name="id">
+      <table id="19" parent="1" name="attend_door"/>
+      <column id="20" parent="2" name="id">
         <mandatory>1</mandatory>
         <data-type>mediumint(8)</data-type>
       </column>
-      <column id="20" parent="2" name="areaid">
-        <mandatory>1</mandatory>
-        <data-type>mediumint(8)</data-type>
-        <default-expression>&apos;0&apos;</default-expression>
-      </column>
-      <column id="21" parent="2" name="typeid">
+      <column id="21" parent="2" name="areaid">
         <mandatory>1</mandatory>
         <data-type>mediumint(8)</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="22" parent="2" name="comname">
+      <column id="22" parent="2" name="typeid">
+        <mandatory>1</mandatory>
+        <data-type>mediumint(8)</data-type>
+        <default-expression>&apos;0&apos;</default-expression>
+      </column>
+      <column id="23" parent="2" name="comname">
         <mandatory>1</mandatory>
         <data-type>varchar(100)</data-type>
       </column>
-      <column id="23" parent="2" name="comaddress">
+      <column id="24" parent="2" name="comaddress">
         <mandatory>1</mandatory>
         <data-type>varchar(255)</data-type>
       </column>
-      <column id="24" parent="2" name="cominfo">
+      <column id="25" parent="2" name="cominfo">
         <mandatory>1</mandatory>
         <data-type>text</data-type>
       </column>
-      <key id="25" parent="2" name="PRIMARY">
+      <key id="26" parent="2" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="26" parent="3" name="id">
+      <column id="27" parent="3" name="id">
         <mandatory>1</mandatory>
         <data-type>int(10) unsigned</data-type>
       </column>
-      <column id="27" parent="3" name="title">
+      <column id="28" parent="3" name="title">
         <data-type>varchar(200)</data-type>
       </column>
-      <column id="28" parent="3" name="body">
+      <column id="29" parent="3" name="body">
         <data-type>text</data-type>
       </column>
-      <key id="29" parent="3" name="PRIMARY">
+      <key id="30" parent="3" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="30" parent="4" name="empno">
+      <column id="31" parent="4" name="empno">
         <comment>雇员ID</comment>
         <mandatory>1</mandatory>
         <data-type>int(10) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="31" parent="4" name="ename">
+      <column id="32" parent="4" name="ename">
         <comment>名字</comment>
         <mandatory>1</mandatory>
         <data-type>varchar(20)</data-type>
         <default-expression>&apos;&apos;</default-expression>
       </column>
-      <column id="32" parent="4" name="job">
+      <column id="33" parent="4" name="job">
         <mandatory>1</mandatory>
         <data-type>varchar(9)</data-type>
         <default-expression>&apos;&apos;</default-expression>
       </column>
-      <column id="33" parent="4" name="mgr">
+      <column id="34" parent="4" name="mgr">
         <mandatory>1</mandatory>
         <data-type>mediumint(8) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="34" parent="4" name="hiredate">
+      <column id="35" parent="4" name="hiredate">
         <mandatory>1</mandatory>
         <data-type>date</data-type>
       </column>
-      <column id="35" parent="4" name="sal">
+      <column id="36" parent="4" name="sal">
         <mandatory>1</mandatory>
         <data-type>decimal(7,2)</data-type>
       </column>
-      <column id="36" parent="4" name="comm">
+      <column id="37" parent="4" name="comm">
         <mandatory>1</mandatory>
         <data-type>decimal(7,2)</data-type>
       </column>
-      <column id="37" parent="4" name="deptno">
+      <column id="38" parent="4" name="deptno">
         <mandatory>1</mandatory>
         <data-type>mediumint(8) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="38" parent="4" name="epassword">
+      <column id="39" parent="4" name="epassword">
         <data-type>char(32)</data-type>
         <default-expression>&apos;&apos;</default-expression>
       </column>
-      <column id="39" parent="5" name="markid">
+      <column id="40" parent="5" name="markid">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="40" parent="6" name="id">
+      <column id="41" parent="6" name="id">
         <comment>主键id</comment>
         <mandatory>1</mandatory>
         <data-type>mediumint(8) unsigned</data-type>
       </column>
-      <column id="41" parent="6" name="name">
+      <column id="42" parent="6" name="name">
         <comment>名称</comment>
         <mandatory>1</mandatory>
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="42" parent="6" name="price">
+      <column id="43" parent="6" name="price">
         <comment>价格</comment>
         <mandatory>1</mandatory>
         <data-type>decimal(10,2)</data-type>
         <default-expression>&apos;0.00&apos;</default-expression>
       </column>
-      <column id="43" parent="6" name="pubdate">
+      <column id="44" parent="6" name="pubdate">
         <comment>出厂时间</comment>
         <mandatory>1</mandatory>
         <data-type>datetime</data-type>
         <default-expression>&apos;0000-00-00 00:00:00&apos;</default-expression>
       </column>
-      <key id="44" parent="6" name="PRIMARY">
+      <key id="45" parent="6" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="45" parent="7" name="id">
+      <column id="46" parent="7" name="id">
         <comment>主键id</comment>
         <mandatory>1</mandatory>
         <data-type>mediumint(8) unsigned</data-type>
       </column>
-      <column id="46" parent="7" name="name">
+      <column id="47" parent="7" name="name">
         <comment>名称</comment>
         <mandatory>1</mandatory>
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="47" parent="7" name="price">
+      <column id="48" parent="7" name="price">
         <comment>价格</comment>
         <mandatory>1</mandatory>
         <data-type>decimal(10,2)</data-type>
         <default-expression>&apos;0.00&apos;</default-expression>
       </column>
-      <column id="48" parent="7" name="pubdate">
+      <column id="49" parent="7" name="pubdate">
         <comment>出厂时间</comment>
         <mandatory>1</mandatory>
         <data-type>datetime</data-type>
         <default-expression>&apos;0000-00-00 00:00:00&apos;</default-expression>
       </column>
-      <key id="49" parent="7" name="PRIMARY">
+      <key id="50" parent="7" name="PRIMARY">
         <columns>id
 pubdate</columns>
         <primary>1</primary>
       </key>
-      <column id="50" parent="8" name="id">
+      <column id="51" parent="8" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="51" parent="8" name="username">
+      <column id="52" parent="8" name="username">
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="52" parent="8" name="pass">
+      <column id="53" parent="8" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="53" parent="8" name="phone">
+      <column id="54" parent="8" name="phone">
         <data-type>char(11)</data-type>
       </column>
-      <key id="54" parent="8" name="PRIMARY">
+      <key id="55" parent="8" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="55" parent="9" name="id">
+      <column id="56" parent="9" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="56" parent="9" name="username">
+      <column id="57" parent="9" name="username">
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="57" parent="9" name="pass">
+      <column id="58" parent="9" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="58" parent="9" name="phone">
+      <column id="59" parent="9" name="phone">
         <data-type>char(11)</data-type>
       </column>
-      <key id="59" parent="9" name="PRIMARY">
+      <key id="60" parent="9" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="60" parent="10" name="id">
+      <column id="61" parent="10" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="61" parent="10" name="username">
+      <column id="62" parent="10" name="username">
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="62" parent="10" name="pass">
+      <column id="63" parent="10" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="63" parent="10" name="phone">
+      <column id="64" parent="10" name="phone">
         <data-type>char(11)</data-type>
       </column>
-      <key id="64" parent="10" name="PRIMARY">
+      <key id="65" parent="10" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="65" parent="11" name="id">
+      <column id="66" parent="11" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="66" parent="11" name="username">
+      <column id="67" parent="11" name="username">
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="67" parent="11" name="pass">
+      <column id="68" parent="11" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="68" parent="11" name="phone">
+      <column id="69" parent="11" name="phone">
         <data-type>char(11)</data-type>
       </column>
-      <key id="69" parent="11" name="PRIMARY">
+      <key id="70" parent="11" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="70" parent="12" name="goods_id">
+      <column id="71" parent="12" name="goods_id">
         <comment>主键id</comment>
         <mandatory>1</mandatory>
         <data-type>mediumint(8) unsigned</data-type>
       </column>
-      <column id="71" parent="12" name="goods_name">
+      <column id="72" parent="12" name="goods_name">
         <comment>商品名称</comment>
         <mandatory>1</mandatory>
         <data-type>varchar(128)</data-type>
       </column>
-      <column id="72" parent="12" name="goods_price">
+      <column id="73" parent="12" name="goods_price">
         <comment>商品价格</comment>
         <mandatory>1</mandatory>
         <data-type>decimal(10,2)</data-type>
         <default-expression>&apos;0.00&apos;</default-expression>
       </column>
-      <column id="73" parent="12" name="goods_number">
+      <column id="74" parent="12" name="goods_number">
         <comment>商品数量</comment>
         <mandatory>1</mandatory>
         <data-type>tinyint(3) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="74" parent="12" name="goods_weight">
+      <column id="75" parent="12" name="goods_weight">
         <comment>商品重量</comment>
         <mandatory>1</mandatory>
         <data-type>smallint(5) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="75" parent="12" name="type_id">
+      <column id="76" parent="12" name="type_id">
         <comment>类型id</comment>
         <mandatory>1</mandatory>
         <data-type>smallint(5) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="76" parent="12" name="goods_introduce">
+      <column id="77" parent="12" name="goods_introduce">
         <comment>商品详情介绍</comment>
         <data-type>text</data-type>
       </column>
-      <column id="77" parent="12" name="brand_id">
+      <column id="78" parent="12" name="brand_id">
         <comment>商品所属品牌</comment>
         <mandatory>1</mandatory>
         <data-type>smallint(5) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="78" parent="12" name="cat_id">
+      <column id="79" parent="12" name="cat_id">
         <comment>商品所属分类</comment>
         <mandatory>1</mandatory>
         <data-type>smallint(5) unsigned</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="79" parent="12" name="goods_big_logo">
+      <column id="80" parent="12" name="goods_big_logo">
         <comment>图片logo大图</comment>
         <mandatory>1</mandatory>
         <data-type>char(128)</data-type>
         <default-expression>&apos;&apos;</default-expression>
       </column>
-      <column id="80" parent="12" name="goods_small_logo">
+      <column id="81" parent="12" name="goods_small_logo">
         <comment>图片logo小图</comment>
         <mandatory>1</mandatory>
         <data-type>char(128)</data-type>
         <default-expression>&apos;&apos;</default-expression>
       </column>
-      <column id="81" parent="12" name="sale_time">
+      <column id="82" parent="12" name="sale_time">
         <comment>商品上架时间</comment>
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="82" parent="12" name="is_del">
+      <column id="83" parent="12" name="is_del">
         <comment>0:正常  1:删除</comment>
         <mandatory>1</mandatory>
         <data-type>enum(&apos;0&apos;, &apos;1&apos;)</data-type>
         <default-expression>&apos;0&apos;</default-expression>
       </column>
-      <column id="83" parent="12" name="add_time">
+      <column id="84" parent="12" name="add_time">
         <comment>添加商品时间</comment>
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="84" parent="12" name="upd_time">
+      <column id="85" parent="12" name="upd_time">
         <comment>修改商品时间</comment>
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <index id="85" parent="12" name="goods_name">
+      <index id="86" parent="12" name="goods_name">
         <columns>goods_name</columns>
         <unique>1</unique>
       </index>
-      <key id="86" parent="12" name="goods_name">
+      <key id="87" parent="12" name="goods_name">
         <columns>goods_name</columns>
         <underlying-index>goods_name</underlying-index>
       </key>
-      <key id="87" parent="12" name="PRIMARY">
+      <key id="88" parent="12" name="PRIMARY">
         <columns>goods_id</columns>
         <primary>1</primary>
       </key>
-      <column id="88" parent="13" name="id">
+      <column id="89" parent="13" name="id">
         <comment>主键id</comment>
         <mandatory>1</mandatory>
         <data-type>int(10) unsigned</data-type>
       </column>
-      <column id="89" parent="13" name="name">
+      <column id="90" parent="13" name="name">
         <comment>名称</comment>
         <mandatory>1</mandatory>
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="90" parent="13" name="age">
+      <column id="91" parent="13" name="age">
         <comment>年龄</comment>
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
         <default-expression>&apos;1&apos;</default-expression>
       </column>
-      <column id="91" parent="13" name="introduce">
+      <column id="92" parent="13" name="introduce">
         <comment>介绍</comment>
         <data-type>text</data-type>
       </column>
-      <key id="92" parent="13" name="PRIMARY">
+      <key id="93" parent="13" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="93" parent="14" name="id">
+      <column id="94" parent="14" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="94" parent="14" name="name">
+      <column id="95" parent="14" name="name">
         <data-type>char(20)</data-type>
       </column>
-      <column id="95" parent="14" name="pass">
+      <column id="96" parent="14" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="96" parent="14" name="sex">
+      <column id="97" parent="14" name="sex">
         <data-type>tinyint(1)</data-type>
       </column>
-      <key id="97" parent="14" name="PRIMARY">
+      <key id="98" parent="14" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="98" parent="15" name="id">
+      <column id="99" parent="15" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="99" parent="15" name="name">
+      <column id="100" parent="15" name="name">
         <data-type>char(20)</data-type>
       </column>
-      <column id="100" parent="15" name="pass">
+      <column id="101" parent="15" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="101" parent="15" name="sex">
+      <column id="102" parent="15" name="sex">
         <data-type>tinyint(1)</data-type>
       </column>
-      <key id="102" parent="15" name="PRIMARY">
+      <key id="103" parent="15" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="103" parent="16" name="id">
+      <column id="104" parent="16" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="104" parent="16" name="name">
+      <column id="105" parent="16" name="name">
         <data-type>char(20)</data-type>
       </column>
-      <column id="105" parent="16" name="pass">
+      <column id="106" parent="16" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="106" parent="16" name="sex">
+      <column id="107" parent="16" name="sex">
         <data-type>tinyint(1)</data-type>
       </column>
-      <key id="107" parent="16" name="PRIMARY">
+      <key id="108" parent="16" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
-      <column id="108" parent="17" name="id">
+      <column id="109" parent="17" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="109" parent="17" name="username">
+      <column id="110" parent="17" name="username">
         <data-type>varchar(32)</data-type>
       </column>
-      <column id="110" parent="17" name="birthday">
+      <column id="111" parent="17" name="birthday">
         <mandatory>1</mandatory>
         <data-type>datetime</data-type>
         <default-expression>&apos;0000-00-00 00:00:00&apos;</default-expression>
       </column>
-      <key id="111" parent="17" name="PRIMARY">
+      <key id="112" parent="17" name="PRIMARY">
         <columns>id
 birthday</columns>
         <primary>1</primary>
       </key>
-      <column id="112" parent="18" name="id">
+      <column id="113" parent="18" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)</data-type>
       </column>
-      <column id="113" parent="18" name="name">
+      <column id="114" parent="18" name="name">
         <data-type>char(20)</data-type>
       </column>
-      <column id="114" parent="18" name="pass">
+      <column id="115" parent="18" name="pass">
         <data-type>char(32)</data-type>
       </column>
-      <column id="115" parent="18" name="sex">
+      <column id="116" parent="18" name="sex">
         <data-type>tinyint(1)</data-type>
       </column>
-      <key id="116" parent="18" name="PRIMARY">
+      <key id="117" parent="18" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <column id="118" parent="19" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="119" parent="19" name="time">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="120" parent="19" name="cid">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="121" parent="19" name="uid">
+        <data-type>varchar(50)</data-type>
+      </column>
+      <column id="122" parent="19" name="type">
+        <data-type>int(11)</data-type>
+      </column>
+      <key id="123" parent="19" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>
