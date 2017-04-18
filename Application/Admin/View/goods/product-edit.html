@@ -32,8 +32,9 @@
 <body>
 <div class="page-container">
     <form action="{:U('update')}" method="post" enctype="multipart/form-data" class="form form-horizontal" id="form-article-add">
+        <input type="hidden" name="id" value="<?php echo $data['id'];?>">
         <input type="hidden" name="goods_thums" value="<?php echo $data['goods_thums'];?>">
-        <input type="hidden" name="goods_thums" value="<?php echo $data['goods_img'];?>">
+        <input type="hidden" name="goods_img" value="<?php echo $data['goods_img'];?>">
         <div class="row cl">
             <label class="form-label col-xs-4 col-sm-2"><span class="c-red">*</span>产品名称：</label>
 
@@ -79,7 +80,7 @@
             <label class="form-label col-xs-4 col-sm-2">排序值：</label>
 
             <div class="formControls col-xs-8 col-sm-9">
-                <input type="text" class="input-text" value="<?php echo $data['sort'];?>" placeholder="" id="" name="">
+                <input type="text" class="input-text" value="<?php echo $data['sort'];?>" placeholder="" id="" name="sort">
             </div>
         </div>
 

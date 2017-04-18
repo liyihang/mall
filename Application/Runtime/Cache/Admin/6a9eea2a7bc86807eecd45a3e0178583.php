@@ -62,7 +62,7 @@
 							<?php default: ?>件<?php endswitch;?>
 					</td>
 					<td class="td-status"><span class="label label-success radius">已发布</span></td>
-					<td class="td-manage"><a style="text-decoration:none" onClick="product_stop(this,'10001')" href="javascript:;" title="下架"><i class="Hui-iconfont">&#xe6de;</i></a> <a style="text-decoration:none" class="ml-5"  href="/mall/index.php/Admin/Goods/edit?id=<?php echo ($val["id"]); ?>" title="编辑"><i class="Hui-iconfont">&#xe6df;</i></a> <a style="text-decoration:none" class="ml-5" onClick="product_del(this,'10001')" href="javascript:;" title="删除"><i class="Hui-iconfont">&#xe6e2;</i></a></td>
+					<td class="td-manage"><a style="text-decoration:none" onClick="product_stop(this,'10001')" href="javascript:;" title="下架"><i class="Hui-iconfont">&#xe6de;</i></a> <a style="text-decoration:none" class="ml-5"  href="/mall/index.php/Admin/Goods/edit?id=<?php echo ($val["id"]); ?>" title="编辑"><i class="Hui-iconfont">&#xe6df;</i></a> <a style="text-decoration:none" class="ml-5" onClick="product_del(this,'<?php echo ($val["id"]); ?>')" href="javascript:;" title="删除"><i class="Hui-iconfont">&#xe6e2;</i></a></td>
 				</tr><?php endforeach; endif; ?>
 				</tbody>
 			</table>
@@ -226,14 +226,16 @@
 
 	/*产品-删除*/
 	function product_del(obj,id){
-		layer.confirm('确认要删除吗？',function(index){
+		layer.confirm('确认要删除吗？',function(){
 			$.ajax({
-				type: 'POST',
-				url: '',
+				type: 'post',
+				url: '/mall/index.php/Admin/Goods/del',
 				dataType: 'json',
+				data:{id:id},
 				success: function(data){
 					$(obj).parents("tr").remove();
-					layer.msg('已删除!',{icon:1,time:1000});
+					alert(id);
+					layer.msg('已删除!'+data,{icon:1,time:1000});
 				},
 				error:function(data) {
 					console.log(data.msg);
