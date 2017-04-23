@@ -6,8 +6,5 @@ class IndexController extends BaseController {
         $this->display();
 
     }
-    public function welcome()
-    {
-        $this->display();
-    }
+
 }

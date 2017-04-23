@@ -1,9 +1,6 @@
 <?php
 namespace Admin\Controller;
 
-
-
-
 class GoodsController extends BaseController
 {
     public function index()
