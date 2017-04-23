@@ -45,7 +45,7 @@
         <div class="formControls col-xs-8 col-xs-offset-3">
           <input class="input-text size-L" type="text" name="captcha" placeholder="验证码"  value="验证码" style="width:150px;">
           <div style="height: 5px"></div>
-          <img src="{:U('captcha')}" alt="">
+          <img src="{:U('captcha')}" onclick="this.src='{:U('captcha')}?'+Math.random()" alt="">
           <img src=""> <a id="kanbuq" href="javascript:;">看不清，换一张</a> </div>
       </div>
       <div class="row cl">
@@ -64,6 +64,6 @@
     </form>
   </div>
 </div>
-<div class="footer">Copyright 你的公司名称 by cc</div>
+<div class="footer">Copyright my公司 by cc</div>
 <script type="text/javascript" src="__PUBLIC__/Admin/js/jquery.min.js"></script>
 <script type="text/javascript" src="__PUBLIC__/Admin/js/H-ui.min.js"></script>
